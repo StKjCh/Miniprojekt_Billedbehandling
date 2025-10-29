@@ -1,0 +1,1465 @@
+titleThreshold:
+[[130 200]
+ [115 180]
+ [  0  44]
+ [ 20  48]
+ [170 255]
+ [135 200]
+ [ 43 102]
+ [ 58 109]
+ [ 21  56]
+ [ 32  62]
+ [102 171]
+ [ 59 113]
+ [ 44  93]
+ [ 77 100]
+ [ 50  52]
+ [ 32  42]
+ [103 154]
+ [ 60  89]
+ [  0  70]
+ [ 50 110]
+ [105 190]
+ [ 74 110]
+ [170 254]
+ [123 190]
+ [ 64 133]
+ [ 87 185]
+ [ 22  61]
+ [ 30  50]
+ [140 211]
+ [ 94 182]
+ [ 90 157]
+ [ 79 140]
+ [ 46 103]
+ [ 17  40]
+ [ 65 151]
+ [ 93 157]
+ [  0 215]
+ [ 60 190]
+ [  0 150]
+ [ 18 105]
+ [ 80 251]
+ [ 72 211]]
+
+Guess grass is: grass, 0, 0, 0, Correct. R: 108.6676 / G: 150.3788 / B: 49.7106 / H: 41.6538 / S: 166.1951 / V: 151.0917
+Guess lake is: lake, 1, 0, 0, Correct. R: 13.2964 / G: 96.8774 / B: 183.5396 / H: 101.961 / S: 232.3894 / V: 185.8276
+Guess forest is: forest, 2, 0, 0, Correct. R: 75.6808 / G: 99.6032 / B: 39.4821 / H: 45.5013 / S: 133.8274 / V: 100.3488
+Guess forest is: forest, 3, 0, 0, Correct. R: 79.1796 / G: 99.7978 / B: 41.5099 / H: 44.0453 / S: 134.2061 / V: 100.2722
+Guess forest is: forest, 4, 0, 0, Correct. R: 78.1546 / G: 95.7936 / B: 41.274 / H: 44.8301 / S: 126.3199 / V: 97.3132
+Guess grass is: grass, 0, 1, 0, Correct. R: 114.6922 / G: 169.7658 / B: 48.7534 / H: 43.3946 / S: 180.6419 / V: 169.7911
+Guess forest is: forest, 1, 1, 0, Correct. R: 63.2578 / G: 84.2817 / B: 36.4578 / H: 45.1899 / S: 136.643 / V: 84.4107
+Guess forest is: forest, 2, 1, 0, Correct. R: 71.6101 / G: 93.8578 / B: 37.4849 / H: 43.2825 / S: 145.9462 / V: 93.9776
+Guess forest is: forest, 3, 1, 1, Correct. R: 95.8107 / G: 102.8505 / B: 51.0211 / H: 36.7354 / S: 138.9288 / V: 107.4607
+Guess grass is: grass, 4, 1, 0, Correct. R: 123.5331 / G: 171.8481 / B: 47.141 / H: 40.9921 / S: 187.3064 / V: 172.5812
+Guess grass is: grass, 0, 2, 0, Correct. R: 119.0216 / G: 158.0404 / B: 48.3084 / H: 40.8739 / S: 178.6835 / V: 158.5415
+Guess swamp is: swamp, 1, 2, 1, Correct. R: 118.7338 / G: 106.6555 / B: 66.6596 / H: 23.4413 / S: 126.6635 / V: 119.1541
+Guess start is: start, 2, 2, 0, Correct. R: 155.9624 / G: 157.3326 / B: 93.3464 / H: 28.2186 / S: 100.4008 / V: 159.5479
+Guess forest is: forest, 3, 2, 0, Correct. R: 59.1023 / G: 76.815 / B: 30.2964 / H: 43.0381 / S: 142.0493 / V: 77.1385
+Guess grass is: grass, 4, 2, 0, Correct. R: 124.5496 / G: 164.3691 / B: 44.5934 / H: 39.3665 / S: 187.8816 / V: 165.1914
+Guess grass is: grass, 0, 3, 0, Correct. R: 116.5756 / G: 163.8588 / B: 46.3294 / H: 42.5482 / S: 184.637 / V: 164.1027
+Guess swamp is: swamp, 1, 3, 2, Correct. R: 117.3022 / G: 105.137 / B: 67.2246 / H: 24.0974 / S: 124.1136 / V: 117.7871
+Guess lake is: lake, 2, 3, 0, Correct. R: 17.4743 / G: 95.9588 / B: 169.4877 / H: 98.1395 / S: 220.2795 / V: 174.4088
+Guess grass is: grass, 3, 3, 2, Correct. R: 120.1202 / G: 125.8856 / B: 54.2558 / H: 32.4625 / S: 161.5242 / V: 140.069
+Guess grass is: grass, 4, 3, 1, Correct. R: 111.8226 / G: 130.0686 / B: 41.155 / H: 34.7106 / S: 185.3504 / V: 140.6082
+Guess forest is: forest, 0, 4, 0, Correct. R: 72.5666 / G: 87.9878 / B: 48.4355 / H: 48.2132 / S: 102.3628 / V: 89.816
+Guess lake is: lake, 1, 4, 1, Correct. R: 64.0858 / G: 104.4743 / B: 140.6794 / H: 78.9262 / S: 170.8411 / V: 160.5716
+Guess lake is: lake, 2, 4, 0, Correct. R: 34.512 / G: 79.1011 / B: 132.1067 / H: 97.8829 / S: 179.833 / V: 134.6859
+Guess grass is: grass, 3, 4, 1, Correct. R: 104.6641 / G: 118.9298 / B: 50.0648 / H: 34.5744 / S: 162.6692 / V: 127.956
+Guess field is: field, 4, 4, 0, Correct. R: 199.8608 / G: 176.3765 / B: 18.2811 / H: 26.3024 / S: 231.7912 / V: 200.3517
+In image 1 the total score is 36. 25 was correct. That is 100.0%
+
+Guess field is: field, 0, 0, 0, Correct. R: 189.4214 / G: 163.9999 / B: 8.6765 / H: 25.5172 / S: 241.0327 / V: 189.4219
+Guess swamp is: swamp, 1, 0, 0, Correct. R: 136.5394 / G: 128.13 / B: 88.1312 / H: 25.0861 / S: 97.8053 / V: 136.6647
+Guess field is: field, 2, 0, 0, Correct. R: 185.454 / G: 161.4038 / B: 13.1426 / H: 25.762 / S: 236.0063 / V: 185.454
+Guess mine is: mine, 3, 0, 2, Correct. R: 79.0344 / G: 66.1708 / B: 31.0646 / H: 27.5934 / S: 127.2589 / V: 79.4154
+Guess swamp is: swamp, 4, 0, 0, Correct. R: 144.9582 / G: 129.2906 / B: 78.3412 / H: 23.5865 / S: 125.8934 / V: 144.9955
+Guess mine is: mine, 0, 1, 1, Correct. R: 77.7617 / G: 65.6314 / B: 32.4344 / H: 33.0663 / S: 112.1348 / V: 78.2636
+Guess swamp is: swamp, 1, 1, 1, Correct. R: 109.4328 / G: 96.2949 / B: 54.0712 / H: 24.6016 / S: 140.5176 / V: 109.7028
+Guess field is: field, 2, 1, 0, Correct. R: 188.9135 / G: 163.4901 / B: 9.1255 / H: 25.578 / S: 241.2635 / V: 188.9142
+Guess field is: field, 3, 1, 0, Correct. R: 192.9186 / G: 166.8405 / B: 11.4669 / H: 25.7841 / S: 240.0135 / V: 192.9186
+Guess forest is: forest, 4, 1, 0, Correct. R: 61.3489 / G: 76.84 / B: 27.4932 / H: 44.1205 / S: 148.1937 / V: 78.3321
+Guess mine is: mine, 0, 2, 2, Correct. R: 88.7988 / G: 73.1065 / B: 35.3074 / H: 31.8439 / S: 119.6586 / V: 89.2645
+Guess swamp is: swamp, 1, 2, 0, Correct. R: 134.7038 / G: 118.192 / B: 66.0613 / H: 23.8002 / S: 139.632 / V: 134.7416
+Guess start is: start, 2, 2, 0, Correct. R: 118.7659 / G: 103.0968 / B: 85.55 / H: 23.0602 / S: 82.3068 / V: 119.1002
+Guess field is: field, 3, 2, 0, Correct. R: 178.7414 / G: 154.0154 / B: 14.0263 / H: 25.3085 / S: 232.0229 / V: 178.9362
+Guess field is: field, 4, 2, 0, Correct. R: 193.6168 / G: 169.5784 / B: 12.1976 / H: 26.0304 / S: 239.1602 / V: 193.6168
+Guess mine is: mine, 0, 3, 2, Correct. R: 84.8419 / G: 70.4909 / B: 37.3865 / H: 37.9189 / S: 115.6649 / V: 85.292
+Guess mine is: mine, 1, 3, 3, Correct. R: 91.1064 / G: 77.0395 / B: 38.8706 / H: 27.9394 / S: 121.6755 / V: 91.6948
+Guess grass is: grass, 2, 3, 0, Correct. R: 115.7002 / G: 169.7129 / B: 40.6044 / H: 42.2869 / S: 191.2307 / V: 169.7701
+Guess grass is: grass, 3, 3, 0, Correct. R: 92.9071 / G: 141.2643 / B: 40.4728 / H: 44.004 / S: 177.6217 / V: 141.2985
+Guess field is: field, 4, 3, 1, Correct. R: 166.9676 / G: 144.5501 / B: 25.1226 / H: 24.7049 / S: 210.799 / V: 167.2796
+Guess field is: field, 0, 4, 0, Correct. R: 195.5761 / G: 170.9724 / B: 14.8934 / H: 25.7605 / S: 234.35 / V: 195.5766
+Guess field is: field, 1, 4, 0, Correct. R: 199.8778 / G: 176.4562 / B: 18.1407 / H: 26.1687 / S: 231.745 / V: 199.8781
+Guess swamp is: swamp, 2, 4, 0, Correct. R: 119.311 / G: 105.5827 / B: 63.3215 / H: 21.967 / S: 130.1434 / V: 119.3129
+Guess swamp is: swamp, 3, 4, 0, Correct. R: 127.9271 / G: 119.7662 / B: 84.7043 / H: 25.198 / S: 104.0802 / V: 128.0353
+Guess grass is: grass, 4, 4, 0, Correct. R: 106.6294 / G: 147.5507 / B: 43.14 / H: 41.344 / S: 180.8105 / V: 147.6627
+In image 2 the total score is 43. 25 was correct. That is 100.0%
+
+Guess swamp is: swamp, 0, 0, 2, Correct. R: 106.8282 / G: 92.7561 / B: 55.1572 / H: 22.6056 / S: 130.7199 / V: 107.0756
+Guess field is: field, 1, 0, 1, Correct. R: 173.5752 / G: 150.0264 / B: 29.4487 / H: 24.4427 / S: 203.377 / V: 173.5899
+Guess forest is: forest, 2, 0, 0, Correct. R: 74.6678 / G: 85.326 / B: 32.4964 / H: 42.928 / S: 138.3842 / V: 89.3917
+Guess forest is: forest, 3, 0, 0, Correct. R: 62.6211 / G: 78.1638 / B: 32.5967 / H: 45.9853 / S: 129.5055 / V: 79.8508
+Guess forest is: forest, 4, 0, 0, Correct. R: 66.136 / G: 82.1852 / B: 33.0308 / H: 46.8047 / S: 129.887 / V: 84.44
+Guess field is: field, 0, 1, 0, Correct. R: 188.9394 / G: 163.6891 / B: 11.3532 / H: 25.4728 / S: 237.7045 / V: 188.9395
+Guess field is: field, 1, 1, 0, Correct. R: 192.7669 / G: 168.3497 / B: 28.5506 / H: 25.5915 / S: 218.1979 / V: 192.7669
+Guess forest is: forest, 2, 1, 1, Correct. R: 79.4255 / G: 85.0004 / B: 44.0167 / H: 39.8109 / S: 125.5032 / V: 90.1873
+Guess forest is: forest, 3, 1, 0, Correct. R: 53.0527 / G: 74.7616 / B: 29.888 / H: 48.4185 / S: 136.9957 / V: 74.7867
+Guess forest is: forest, 4, 1, 0, Correct. R: 57.8342 / G: 79.6752 / B: 30.4869 / H: 47.7995 / S: 136.7115 / V: 79.7125
+Guess mine is: mine, 0, 2, 0, Correct. R: 68.4296 / G: 59.1232 / B: 34.5924 / H: 43.4698 / S: 97.8901 / V: 68.7449
+Guess field is: field, 1, 2, 0, Correct. R: 176.4944 / G: 151.922 / B: 31.8344 / H: 24.3405 / S: 204.0403 / V: 176.5198
+Guess start is: start, 2, 2, 0, Correct. R: 140.6873 / G: 143.4385 / B: 98.6224 / H: 35.9211 / S: 90.9337 / V: 149.1135
+Guess forest is: forest, 3, 2, 0, Correct. R: 51.5345 / G: 67.5998 / B: 27.4779 / H: 45.4299 / S: 136.0811 / V: 67.8465
+Guess lake is: lake, 4, 2, 1, Correct. R: 45.59 / G: 89.3779 / B: 132.8967 / H: 80.7916 / S: 208.6747 / V: 159.2378
+Guess field is: field, 0, 3, 0, Correct. R: 199.0696 / G: 172.713 / B: 14.1921 / H: 25.6137 / S: 235.6884 / V: 199.0696
+Guess forest is: forest, 1, 3, 1, Correct. R: 76.5484 / G: 78.5165 / B: 36.6172 / H: 34.6116 / S: 148.013 / V: 84.1728
+Guess forest is: forest, 2, 3, 0, Correct. R: 52.7515 / G: 69.3826 / B: 22.3343 / H: 43.5641 / S: 157.4781 / V: 70.5984
+Guess forest is: forest, 3, 3, 1, Correct. R: 78.9749 / G: 87.4039 / B: 39.9661 / H: 36.9147 / S: 148.9089 / V: 91.2634
+Guess lake is: lake, 4, 3, 0, Correct. R: 16.4958 / G: 79.1983 / B: 155.5677 / H: 97.4002 / S: 228.7942 / V: 162.052
+Guess lake is: lake, 0, 4, 0, Correct. R: 16.9488 / G: 75.2806 / B: 144.4074 / H: 94.2637 / S: 222.5181 / V: 150.2169
+Guess lake is: lake, 1, 4, 0, Correct. R: 10.5045 / G: 79.353 / B: 161.8516 / H: 102.0848 / S: 238.4873 / V: 164.6495
+Guess lake is: lake, 2, 4, 1, Correct. R: 37.9463 / G: 87.6888 / B: 140.1027 / H: 84.9635 / S: 214.0785 / V: 160.8522
+Guess forest is: forest, 3, 4, 0, Correct. R: 50.1802 / G: 69.4612 / B: 35.3606 / H: 48.7359 / S: 141.2444 / V: 75.2099
+Guess lake is: lake, 4, 4, 1, Correct. R: 48.0012 / G: 82.4014 / B: 115.2781 / H: 81.6225 / S: 205.3581 / V: 142.2384
+In image 3 the total score is 48. 25 was correct. That is 100.0%
+
+Guess lake is: lake, 0, 0, 1, Correct. R: 49.8806 / G: 83.9253 / B: 113.3469 / H: 78.3369 / S: 191.0795 / V: 135.6999
+Guess field is: field, 1, 0, 0, Correct. R: 192.134 / G: 169.7825 / B: 31.3074 / H: 27.2674 / S: 213.4311 / V: 194.0304
+Guess field is: field, 2, 0, 1, Correct. R: 178.07 / G: 154.6635 / B: 30.9407 / H: 24.5007 / S: 206.2838 / V: 178.0878
+Guess swamp is: swamp, 3, 0, 0, Correct. R: 128.0248 / G: 113.9421 / B: 73.6393 / H: 22.819 / S: 118.31 / V: 128.0461
+Guess field is: field, 4, 0, 0, Correct. R: 196.6118 / G: 172.2686 / B: 15.6029 / H: 25.8818 / S: 234.2645 / V: 196.6118
+Guess lake is: lake, 0, 1, 0, Correct. R: 14.895 / G: 76.388 / B: 141.5342 / H: 98.3147 / S: 221.6644 / V: 144.7466
+Guess field is: field, 1, 1, 1, Correct. R: 175.1222 / G: 152.5756 / B: 30.1897 / H: 24.6323 / S: 208.4561 / V: 175.1488
+Guess grass is: grass, 2, 1, 2, Correct. R: 108.9146 / G: 114.3083 / B: 42.5887 / H: 31.9585 / S: 173.4132 / V: 127.379
+Guess grass is: grass, 3, 1, 0, Correct. R: 101.015 / G: 142.1682 / B: 50.8145 / H: 43.2086 / S: 164.9161 / V: 142.3616
+Guess field is: field, 4, 1, 0, Correct. R: 190.1072 / G: 166.3667 / B: 16.2042 / H: 26.0598 / S: 233.5265 / V: 190.251
+Guess lake is: lake, 0, 2, 0, Correct. R: 9.688 / G: 79.0941 / B: 154.2797 / H: 102.5216 / S: 232.943 / V: 155.4348
+Guess field is: field, 1, 2, 0, Correct. R: 192.7555 / G: 170.1958 / B: 29.0278 / H: 26.2932 / S: 216.7521 / V: 193.1535
+Guess field is: field, 2, 2, 0, Correct. R: 198.6734 / G: 174.8423 / B: 10.1715 / H: 26.2245 / S: 241.9754 / V: 198.6734
+Guess field is: field, 3, 2, 0, Correct. R: 194.0323 / G: 172.9996 / B: 32.7028 / H: 26.3705 / S: 212.3141 / V: 194.6715
+Guess field is: field, 4, 2, 0, Correct. R: 193.3035 / G: 169.0999 / B: 22.168 / H: 25.6959 / S: 225.8943 / V: 193.3035
+Guess lake is: lake, 0, 3, 1, Correct. R: 45.1148 / G: 80.8758 / B: 114.366 / H: 83.2915 / S: 190.3192 / V: 131.8262
+Guess field is: field, 1, 3, 0, Correct. R: 192.0175 / G: 170.3496 / B: 36.4795 / H: 26.0088 / S: 207.2533 / V: 192.1519
+Guess field is: field, 2, 3, 0, Correct. R: 192.0838 / G: 168.6372 / B: 16.6689 / H: 26.1276 / S: 232.2411 / V: 192.2275
+Guess forest is: forest, 3, 3, 1, Correct. R: 81.7519 / G: 86.9404 / B: 44.3142 / H: 36.2697 / S: 139.0665 / V: 91.8841
+Guess forest is: forest, 4, 3, 1, Correct. R: 84.4274 / G: 85.6259 / B: 44.3537 / H: 34.9501 / S: 136.1581 / V: 92.4985
+Guess lake is: lake, 0, 4, 0, Correct. R: 16.4607 / G: 86.9712 / B: 161.6841 / H: 99.2471 / S: 230.5712 / V: 165.276
+Guess lake is: lake, 1, 4, 0, Correct. R: 16.5558 / G: 87.473 / B: 155.3813 / H: 97.9844 / S: 231.4369 / V: 162.4785
+Guess start is: start, 2, 4, 0, Correct. R: 89.601 / G: 100.1645 / B: 90.8631 / H: 55.7956 / S: 102.7515 / V: 113.2008
+Guess lake is: lake, 3, 4, 0, Correct. R: 9.7141 / G: 88.1648 / B: 170.9201 / H: 103.4207 / S: 238.2552 / V: 172.0085
+Guess lake is: lake, 4, 4, 0, Correct. R: 7.8941 / G: 83.7845 / B: 166.4935 / H: 104.6205 / S: 239.0166 / V: 166.7732
+In image 4 the total score is 42. 25 was correct. That is 100.0%
+
+Guess grass is: grass, 0, 0, 0, Correct. R: 114.0261 / G: 151.8247 / B: 54.2551 / H: 39.9718 / S: 161.0163 / V: 154.0343
+Guess lake is: lake, 1, 0, 0, Correct. R: 18.0417 / G: 102.5886 / B: 181.555 / H: 99.8985 / S: 227.1184 / V: 186.0704
+Guess forest is: forest, 2, 0, 0, Correct. R: 80.6298 / G: 104.5893 / B: 43.5332 / H: 45.5069 / S: 130.7072 / V: 105.7111
+Guess forest is: forest, 3, 0, 0, Correct. R: 84.2455 / G: 104.6308 / B: 44.3261 / H: 43.0734 / S: 134.0068 / V: 105.086
+Guess forest is: forest, 4, 0, 0, Correct. R: 77.7739 / G: 97.2741 / B: 41.015 / H: 44.2548 / S: 133.6534 / V: 98.0361
+Guess grass is: grass, 0, 1, 0, Correct. R: 118.6303 / G: 172.2279 / B: 52.7692 / H: 43.0226 / S: 175.5167 / V: 172.6598
+Guess forest is: forest, 1, 1, 0, Correct. R: 67.2263 / G: 88.5895 / B: 38.4726 / H: 44.8054 / S: 137.7117 / V: 88.7203
+Guess forest is: forest, 2, 1, 0, Correct. R: 81.5292 / G: 104.8224 / B: 45.2632 / H: 43.2721 / S: 142.3241 / V: 105.0364
+Guess forest is: forest, 3, 1, 1, Correct. R: 100.3091 / G: 107.0708 / B: 52.5618 / H: 36.2365 / S: 139.7413 / V: 112.1798
+Guess grass is: grass, 4, 1, 0, Correct. R: 128.4844 / G: 177.348 / B: 50.1486 / H: 41.0213 / S: 184.781 / V: 178.0421
+Guess grass is: grass, 0, 2, 0, Correct. R: 125.0228 / G: 164.4257 / B: 53.0904 / H: 40.659 / S: 174.9843 / V: 165.1061
+Guess swamp is: swamp, 1, 2, 1, Correct. R: 121.4994 / G: 110.8273 / B: 75.17 / H: 28.8157 / S: 120.9996 / V: 124.4865
+Guess start is: start, 2, 2, 0, Correct. R: 91.2751 / G: 96.3086 / B: 62.1645 / H: 46.5753 / S: 127.8723 / V: 104.9957
+Guess forest is: forest, 3, 2, 0, Correct. R: 66.2601 / G: 84.7755 / B: 34.7323 / H: 42.7423 / S: 137.6732 / V: 85.417
+Guess grass is: grass, 4, 2, 0, Correct. R: 129.6954 / G: 169.2273 / B: 48.555 / H: 39.2105 / S: 183.8553 / V: 170.1137
+Guess grass is: grass, 0, 3, 0, Correct. R: 118.6605 / G: 164.8508 / B: 48.0916 / H: 42.4793 / S: 182.3371 / V: 165.4514
+Guess swamp is: swamp, 1, 3, 2, Correct. R: 119.9489 / G: 109.0779 / B: 72.6081 / H: 26.1049 / S: 121.996 / V: 122.6963
+Guess lake is: lake, 2, 3, 0, Correct. R: 18.7246 / G: 102.6777 / B: 178.2038 / H: 98.7103 / S: 218.0556 / V: 181.3763
+Guess grass is: grass, 3, 3, 2, Correct. R: 127.0221 / G: 133.5692 / B: 58.6566 / H: 32.3255 / S: 156.2902 / V: 147.4064
+Guess grass is: grass, 4, 3, 1, Correct. R: 117.5291 / G: 134.0942 / B: 45.1176 / H: 34.3221 / S: 180.7611 / V: 145.3767
+Guess forest is: forest, 0, 4, 0, Correct. R: 71.0926 / G: 87.9296 / B: 47.627 / H: 47.7758 / S: 109.6763 / V: 89.4518
+Guess lake is: lake, 1, 4, 1, Correct. R: 58.3658 / G: 101.3952 / B: 140.8738 / H: 83.5356 / S: 176.7582 / V: 158.8199
+Guess lake is: lake, 2, 4, 0, Correct. R: 37.1744 / G: 81.7021 / B: 132.8528 / H: 96.1078 / S: 175.1095 / V: 136.1046
+Guess grass is: grass, 3, 4, 1, Correct. R: 107.7017 / G: 119.98 / B: 51.1879 / H: 33.5808 / S: 158.2415 / V: 128.5646
+Guess field is: field, 4, 4, 0, Correct. R: 209.2739 / G: 183.5473 / B: 23.2018 / H: 25.9146 / S: 226.9651 / V: 209.3406
+In image 5 the total score is 36. 25 was correct. That is 100.0%
+
+Guess field is: field, 0, 0, 0, Correct. R: 196.4359 / G: 170.8241 / B: 12.386 / H: 25.6814 / S: 237.2559 / V: 196.4409
+Guess swamp is: swamp, 1, 0, 0, Correct. R: 139.026 / G: 131.2569 / B: 91.2697 / H: 25.6308 / S: 97.4742 / V: 139.2106
+Guess field is: field, 2, 0, 0, Correct. R: 190.8915 / G: 167.6229 / B: 19.82 / H: 25.8987 / S: 228.1953 / V: 190.8915
+Guess mine is: mine, 3, 0, 2, Correct. R: 80.5791 / G: 67.9274 / B: 32.8466 / H: 26.9512 / S: 124.5349 / V: 80.9198
+Guess swamp is: swamp, 4, 0, 0, Correct. R: 149.1487 / G: 133.5541 / B: 80.2279 / H: 23.9023 / S: 126.5738 / V: 149.1826
+Guess mine is: mine, 0, 1, 1, Correct. R: 78.5019 / G: 67.1985 / B: 32.9446 / H: 32.8997 / S: 113.6742 / V: 79.1523
+Guess swamp is: swamp, 1, 1, 1, Correct. R: 121.5843 / G: 107.4415 / B: 59.103 / H: 23.9277 / S: 144.3468 / V: 121.8935
+Guess grass is: field, 2, 1, 0, Wrong. R: 130.8792 / G: 116.6509 / B: 31.9653 / H: 47.6749 / S: 170.6742 / V: 135.0883
+Guess field is: field, 3, 1, 0, Correct. R: 200.2065 / G: 174.1561 / B: 17.4949 / H: 25.8075 / S: 233.0784 / V: 200.2065
+Guess forest is: forest, 4, 1, 0, Correct. R: 65.3071 / G: 81.6332 / B: 30.9169 / H: 44.3193 / S: 144.6917 / V: 83.1143
+Guess mine is: mine, 0, 2, 2, Correct. R: 90.6232 / G: 75.3815 / B: 35.9973 / H: 32.8283 / S: 120.8936 / V: 91.1291
+Guess swamp is: swamp, 1, 2, 0, Correct. R: 142.8388 / G: 125.9802 / B: 69.4344 / H: 23.3716 / S: 140.7131 / V: 142.8709
+Guess forest is: start, 2, 2, 0, Wrong. R: 98.1539 / G: 88.4213 / B: 59.6562 / H: 36.2932 / S: 123.1534 / V: 101.2107
+Guess field is: field, 3, 2, 0, Correct. R: 180.8332 / G: 155.9933 / B: 18.4174 / H: 25.0162 / S: 227.9136 / V: 180.8427
+Guess field is: field, 4, 2, 0, Correct. R: 198.8674 / G: 174.7523 / B: 19.8864 / H: 25.9963 / S: 229.8398 / V: 198.8956
+Guess mine is: mine, 0, 3, 2, Correct. R: 83.6905 / G: 70.1261 / B: 37.6032 / H: 35.1071 / S: 115.1795 / V: 84.1774
+Guess mine is: mine, 1, 3, 3, Correct. R: 93.6719 / G: 79.9897 / B: 42.031 / H: 28.8125 / S: 120.1874 / V: 94.3851
+Guess grass is: grass, 2, 3, 0, Correct. R: 124.3135 / G: 181.2938 / B: 44.6229 / H: 42.3569 / S: 190.3128 / V: 181.3004
+Guess grass is: grass, 3, 3, 0, Correct. R: 99.654 / G: 150.0625 / B: 43.0433 / H: 43.8948 / S: 179.1318 / V: 150.1804
+Guess field is: field, 4, 3, 1, Correct. R: 172.1988 / G: 149.8904 / B: 31.1237 / H: 24.6883 / S: 204.6654 / V: 172.3526
+Guess field is: field, 0, 4, 0, Correct. R: 197.2275 / G: 173.9042 / B: 19.7636 / H: 25.9478 / S: 227.7382 / V: 197.2281
+Guess field is: field, 1, 4, 0, Correct. R: 204.6448 / G: 181.3921 / B: 24.2619 / H: 26.1835 / S: 225.091 / V: 204.6448
+Guess swamp is: swamp, 2, 4, 0, Correct. R: 120.7962 / G: 107.1805 / B: 65.8353 / H: 22.0715 / S: 127.9973 / V: 120.846
+Guess swamp is: swamp, 3, 4, 0, Correct. R: 128.5421 / G: 121.0671 / B: 84.425 / H: 25.9597 / S: 106.1244 / V: 128.8915
+Guess grass is: grass, 4, 4, 0, Correct. R: 111.4574 / G: 152.3831 / B: 46.4134 / H: 41.2812 / S: 178.8175 / V: 152.7259
+In image 6 the total score is 41. 23 was correct. That is 92.0%
+
+Guess swamp is: swamp, 0, 0, 2, Correct. R: 112.8087 / G: 98.4002 / B: 57.827 / H: 22.9377 / S: 129.8065 / V: 113.0507
+Guess field is: field, 1, 0, 1, Correct. R: 180.6756 / G: 157.1521 / B: 36.0645 / H: 24.5252 / S: 197.2375 / V: 180.6782
+Guess forest is: forest, 2, 0, 0, Correct. R: 79.0183 / G: 91.1192 / B: 38.0544 / H: 42.2332 / S: 133.0274 / V: 94.3139
+Guess forest is: forest, 3, 0, 0, Correct. R: 69.2024 / G: 87.636 / B: 34.6735 / H: 45.5627 / S: 136.9215 / V: 89.0351
+Guess forest is: forest, 4, 0, 0, Correct. R: 73.0583 / G: 89.3512 / B: 37.559 / H: 45.8691 / S: 126.69 / V: 91.5603
+Guess field is: field, 0, 1, 0, Correct. R: 190.9877 / G: 166.6734 / B: 19.2065 / H: 25.4307 / S: 225.585 / V: 190.9894
+Guess field is: field, 1, 1, 0, Correct. R: 196.917 / G: 173.3409 / B: 34.362 / H: 25.689 / S: 211.5563 / V: 196.917
+Guess forest is: forest, 2, 1, 0, Correct. R: 82.6077 / G: 89.4697 / B: 49.8373 / H: 43.7564 / S: 122.3673 / V: 95.8657
+Guess forest is: forest, 3, 1, 0, Correct. R: 60.8633 / G: 84.7 / B: 39.5663 / H: 52.3127 / S: 129.3387 / V: 85.4823
+Guess forest is: forest, 4, 1, 0, Correct. R: 64.2775 / G: 87.0681 / B: 33.9456 / H: 47.4616 / S: 134.1729 / V: 87.0881
+Guess mine is: mine, 0, 2, 0, Correct. R: 79.9003 / G: 69.4687 / B: 38.4778 / H: 40.3631 / S: 99.7156 / V: 80.1834
+Guess field is: field, 1, 2, 1, Correct. R: 180.4215 / G: 156.5941 / B: 37.9188 / H: 24.6893 / S: 196.9427 / V: 180.5963
+Guess forest is: start, 2, 2, 0, Wrong. R: 97.2661 / G: 99.0995 / B: 57.6843 / H: 40.8179 / S: 125.9016 / V: 104.7899
+Guess forest is: forest, 3, 2, 0, Correct. R: 64.3634 / G: 79.6145 / B: 41.6791 / H: 49.1648 / S: 124.1469 / V: 80.892
+Guess lake is: lake, 4, 2, 1, Correct. R: 46.3622 / G: 94.2918 / B: 138.6164 / H: 81.9674 / S: 206.9904 / V: 163.8099
+Guess field is: field, 0, 3, 0, Correct. R: 199.4124 / G: 173.4939 / B: 22.5374 / H: 25.3536 / S: 224.6358 / V: 199.4124
+Guess forest is: forest, 1, 3, 1, Correct. R: 80.9262 / G: 83.2199 / B: 40.6752 / H: 34.4386 / S: 143.8703 / V: 88.9873
+Guess forest is: forest, 2, 3, 0, Correct. R: 63.7044 / G: 81.9038 / B: 27.1903 / H: 43.1241 / S: 154.0019 / V: 83.6479
+Guess forest is: forest, 3, 3, 1, Correct. R: 85.4434 / G: 94.65 / B: 43.3442 / H: 36.8104 / S: 148.2812 / V: 98.8674
+Guess lake is: lake, 4, 3, 0, Correct. R: 17.4179 / G: 87.0524 / B: 163.9997 / H: 97.8993 / S: 228.7751 / V: 169.831
+Guess lake is: lake, 0, 4, 0, Correct. R: 15.5959 / G: 80.9816 / B: 152.142 / H: 96.9681 / S: 223.0353 / V: 156.0655
+Guess lake is: lake, 1, 4, 0, Correct. R: 9.9397 / G: 86.749 / B: 170.1575 / H: 103.5074 / S: 238.233 / V: 171.874
+Guess lake is: lake, 2, 4, 1, Correct. R: 40.5453 / G: 94.7154 / B: 145.3071 / H: 84.9443 / S: 209.9744 / V: 166.1887
+Guess forest is: forest, 3, 4, 0, Correct. R: 56.9071 / G: 75.1057 / B: 35.3898 / H: 46.8119 / S: 135.6054 / V: 78.644
+Guess lake is: lake, 4, 4, 1, Correct. R: 48.3829 / G: 86.0611 / B: 120.36 / H: 82.4413 / S: 201.9472 / V: 145.8378
+In image 7 the total score is 43. 24 was correct. That is 96.0%
+
+Guess lake is: lake, 0, 0, 1, Correct. R: 47.2874 / G: 86.3819 / B: 119.4202 / H: 81.7637 / S: 189.1759 / V: 138.3938
+Guess field is: field, 1, 0, 0, Correct. R: 201.207 / G: 177.5576 / B: 35.0723 / H: 26.2126 / S: 209.943 / V: 201.7937
+Guess field is: field, 2, 0, 1, Correct. R: 182.4062 / G: 158.7669 / B: 35.1237 / H: 24.5596 / S: 202.5124 / V: 182.4289
+Guess swamp is: swamp, 3, 0, 0, Correct. R: 131.3626 / G: 117.7445 / B: 77.9766 / H: 22.9053 / S: 115.6812 / V: 131.374
+Guess field is: field, 4, 0, 0, Correct. R: 204.8392 / G: 180.414 / B: 23.9 / H: 25.8519 / S: 224.8862 / V: 204.8392
+Guess lake is: lake, 0, 1, 0, Correct. R: 18.6243 / G: 80.8427 / B: 143.3707 / H: 98.3657 / S: 217.2438 / V: 147.1882
+Guess field is: field, 1, 1, 1, Correct. R: 181.5695 / G: 158.2874 / B: 34.4936 / H: 24.5505 / S: 204.0917 / V: 181.577
+Guess grass is: grass, 2, 1, 2, Correct. R: 110.3991 / G: 115.7081 / B: 45.7573 / H: 32.0544 / S: 168.132 / V: 128.8185
+Guess grass is: grass, 3, 1, 0, Correct. R: 104.4924 / G: 146.093 / B: 52.3711 / H: 43.0565 / S: 164.9132 / V: 146.2285
+Guess field is: field, 4, 1, 0, Correct. R: 198.3948 / G: 173.7998 / B: 24.4406 / H: 25.7409 / S: 223.7078 / V: 198.3948
+Guess lake is: lake, 0, 2, 0, Correct. R: 11.6754 / G: 83.1321 / B: 157.8425 / H: 103.4062 / S: 229.3718 / V: 158.6616
+Guess field is: field, 1, 2, 0, Correct. R: 200.1548 / G: 176.4986 / B: 33.9156 / H: 25.8779 / S: 212.1484 / V: 200.2367
+Guess field is: field, 2, 2, 0, Correct. R: 203.4789 / G: 179.6074 / B: 16.1956 / H: 26.2003 / S: 234.7925 / V: 203.4789
+Guess field is: field, 3, 2, 0, Correct. R: 200.6296 / G: 178.6156 / B: 36.6359 / H: 26.2114 / S: 208.6291 / V: 201.1242
+Guess field is: field, 4, 2, 0, Correct. R: 200.9304 / G: 175.7854 / B: 28.3 / H: 25.552 / S: 219.0663 / V: 200.9304
+Guess lake is: lake, 0, 3, 1, Correct. R: 49.475 / G: 85.5064 / B: 118.5731 / H: 82.967 / S: 186.056 / V: 136.5425
+Guess field is: field, 1, 3, 0, Correct. R: 199.0502 / G: 176.2826 / B: 43.3317 / H: 25.7097 / S: 200.1941 / V: 199.0876
+Guess field is: field, 2, 3, 0, Correct. R: 199.503 / G: 174.7995 / B: 25.0274 / H: 25.9408 / S: 222.1289 / V: 199.6633
+Guess forest is: forest, 3, 3, 1, Correct. R: 88.0166 / G: 92.9076 / B: 48.0291 / H: 35.8808 / S: 135.5356 / V: 98.3933
+Guess forest is: forest, 4, 3, 1, Correct. R: 88.2799 / G: 89.0037 / B: 47.1138 / H: 34.9119 / S: 131.8447 / V: 96.2205
+Guess lake is: lake, 0, 4, 0, Correct. R: 17.7067 / G: 90.886 / B: 167.5276 / H: 100.2356 / S: 228.3059 / V: 170.2616
+Guess lake is: lake, 1, 4, 0, Correct. R: 19.6965 / G: 90.7503 / B: 159.349 / H: 97.5137 / S: 228.1159 / V: 167.0734
+Guess start is: start, 2, 4, 0, Correct. R: 83.002 / G: 89.276 / B: 77.8807 / H: 54.6937 / S: 102.8509 / V: 101.4276
+Guess lake is: lake, 3, 4, 0, Correct. R: 10.2982 / G: 85.9425 / B: 166.0233 / H: 102.61 / S: 236.032 / V: 167.8602
+Guess lake is: lake, 4, 4, 0, Correct. R: 9.259 / G: 87.3256 / B: 171.1305 / H: 104.0484 / S: 238.2077 / V: 171.7171
+In image 8 the total score is 42. 25 was correct. That is 100.0%
+
+Guess none is: none, 0, 0, 0, Correct. R: 160.6787 / G: 131.748 / B: 67.9852 / H: 20.7671 / S: 146.5173 / V: 160.6787
+Guess mine is: mine, 1, 0, 2, Correct. R: 77.641 / G: 66.1692 / B: 37.2338 / H: 38.0186 / S: 110.3406 / V: 78.2136
+Guess field is: field, 2, 0, 0, Correct. R: 199.2834 / G: 178.3214 / B: 21.5451 / H: 26.5753 / S: 226.7571 / V: 199.319
+Guess field is: field, 3, 0, 1, Correct. R: 169.9031 / G: 150.2736 / B: 32.6564 / H: 25.2513 / S: 202.3944 / V: 170.3646
+Guess grass is: grass, 4, 0, 0, Correct. R: 105.6032 / G: 149.4541 / B: 41.2739 / H: 42.1458 / S: 185.672 / V: 149.4582
+Guess field is: field, 0, 1, 0, Correct. R: 196.8324 / G: 174.3167 / B: 20.7234 / H: 26.0968 / S: 227.0661 / V: 196.9321
+Guess grass is: grass, 1, 1, 1, Correct. R: 105.2035 / G: 124.795 / B: 39.7813 / H: 37.4182 / S: 186.0128 / V: 136.5152
+Guess lake is: lake, 2, 1, 0, Correct. R: 20.8657 / G: 80.5295 / B: 139.341 / H: 95.9081 / S: 229.0889 / V: 149.9254
+Guess field is: field, 3, 1, 1, Correct. R: 180.1671 / G: 159.5004 / B: 30.8668 / H: 25.3424 / S: 208.5164 / V: 180.3563
+Guess forest is: forest, 4, 1, 1, Correct. R: 81.2509 / G: 85.4885 / B: 44.6858 / H: 35.9711 / S: 134.8124 / V: 89.8668
+Guess none is: none, 0, 2, 0, Correct. R: 143.5763 / G: 123.6884 / B: 75.066 / H: 21.5195 / S: 122.1064 / V: 144.6231
+Guess grass is: grass, 1, 2, 0, Correct. R: 113.3877 / G: 152.6348 / B: 49.4311 / H: 41.0618 / S: 172.9168 / V: 152.9784
+Guess grass is: grass, 2, 2, 2, Correct. R: 119.1198 / G: 121.4304 / B: 47.7114 / H: 32.1944 / S: 165.0918 / V: 135.8839
+Guess field is: field, 3, 2, 0, Correct. R: 194.5466 / G: 173.0412 / B: 13.7084 / H: 26.2581 / S: 237.2863 / V: 194.5466
+Guess field is: field, 4, 2, 0, Correct. R: 203.017 / G: 179.9023 / B: 21.106 / H: 26.2297 / S: 228.7015 / V: 203.0232
+Guess field is: field, 0, 3, 0, Correct. R: 199.538 / G: 179.0137 / B: 28.3099 / H: 26.3462 / S: 216.7983 / V: 199.575
+Guess swamp is: swamp, 1, 3, 1, Correct. R: 117.5693 / G: 107.6652 / B: 59.5285 / H: 24.7463 / S: 137.5303 / V: 119.1006
+Guess field is: field, 2, 3, 0, Correct. R: 198.7795 / G: 177.2111 / B: 23.3625 / H: 26.4223 / S: 225.4286 / V: 198.9312
+Guess field is: field, 3, 3, 0, Correct. R: 193.3772 / G: 171.7085 / B: 24.265 / H: 26.2859 / S: 222.954 / V: 193.6946
+Guess start is: start, 4, 3, 0, Correct. R: 129.5705 / G: 130.1643 / B: 75.061 / H: 28.0332 / S: 107.3521 / V: 132.3614
+Guess swamp is: swamp, 0, 4, 1, Correct. R: 124.0233 / G: 111.1543 / B: 68.0583 / H: 25.9575 / S: 128.4931 / V: 124.6693
+Guess swamp is: swamp, 1, 4, 0, Correct. R: 139.8735 / G: 126.7892 / B: 79.9633 / H: 23.8364 / S: 120.0472 / V: 139.9647
+Guess field is: field, 2, 4, 1, Correct. R: 170.684 / G: 150.4168 / B: 37.5933 / H: 24.7324 / S: 194.7939 / V: 170.7056
+Guess field is: field, 3, 4, 0, Correct. R: 178.4853 / G: 161.1485 / B: 36.4019 / H: 29.8704 / S: 210.9519 / V: 184.1164
+Guess lake is: lake, 4, 4, 0, Correct. R: 11.6415 / G: 79.0712 / B: 147.4097 / H: 98.9672 / S: 235.1852 / V: 151.5647
+In image 9 the total score is 45. 25 was correct. That is 100.0%
+
+Guess field is: field, 0, 0, 0, Correct. R: 163.6449 / G: 142.0953 / B: 23.6534 / H: 24.8151 / S: 209.5226 / V: 163.6628
+Guess mine is: mine, 1, 0, 0, Correct. R: 82.3909 / G: 71.3581 / B: 29.8475 / H: 34.2872 / S: 122.0932 / V: 82.667
+Guess mine is: mine, 2, 0, 0, Correct. R: 82.5467 / G: 67.358 / B: 30.8988 / H: 33.9746 / S: 126.8031 / V: 82.9757
+Guess mine is: mine, 3, 0, 1, Correct. R: 79.9661 / G: 67.3716 / B: 33.6466 / H: 30.7433 / S: 117.5192 / V: 80.5075
+Guess none is: none, 4, 0, 0, Correct. R: 133.3924 / G: 100.9768 / B: 33.6957 / H: 20.7904 / S: 182.6938 / V: 133.4051
+Guess lake is: lake, 0, 1, 0, Correct. R: 15.0997 / G: 77.3611 / B: 154.6577 / H: 96.7719 / S: 227.5282 / V: 160.1756
+Guess forest is: forest, 1, 1, 1, Correct. R: 64.2033 / G: 72.4052 / B: 34.2166 / H: 39.0778 / S: 162.8371 / V: 77.5857
+Guess swamp is: swamp, 2, 1, 0, Correct. R: 124.0046 / G: 111.1815 / B: 60.3091 / H: 24.6541 / S: 150.3277 / V: 124.9997
+Guess swamp is: swamp, 3, 1, 0, Correct. R: 131.1202 / G: 118.5833 / B: 66.677 / H: 24.6415 / S: 135.7215 / V: 131.1763
+Guess none is: none, 4, 1, 0, Correct. R: 141.2811 / G: 109.876 / B: 44.1432 / H: 20.6029 / S: 176.0068 / V: 141.2811
+Guess lake is: lake, 0, 2, 0, Correct. R: 8.8006 / G: 69.1712 / B: 146.2833 / H: 100.9348 / S: 232.6843 / V: 148.4462
+Guess lake is: lake, 1, 2, 0, Correct. R: 4.3309 / G: 78.457 / B: 168.9851 / H: 106.2503 / S: 245.008 / V: 169.1281
+Guess swamp is: start, 2, 2, 0, Wrong. R: 131.2792 / G: 118.1826 / B: 100.2659 / H: 26.3755 / S: 84.6801 / V: 136.4771
+Guess swamp is: swamp, 3, 2, 2, Correct. R: 98.1692 / G: 86.5913 / B: 51.0952 / H: 23.3378 / S: 141.9601 / V: 98.4622
+Guess field is: field, 4, 2, 0, Correct. R: 188.1615 / G: 164.7411 / B: 5.5396 / H: 26.045 / S: 246.4952 / V: 188.1615
+Guess lake is: lake, 0, 3, 0, Correct. R: 8.0965 / G: 81.5353 / B: 164.0976 / H: 102.0322 / S: 241.934 / V: 166.3861
+Guess lake is: lake, 1, 3, 1, Correct. R: 31.4746 / G: 83.057 / B: 133.5141 / H: 86.1398 / S: 218.1013 / V: 151.5696
+Guess forest is: forest, 2, 3, 0, Correct. R: 54.0036 / G: 70.3282 / B: 28.7407 / H: 45.1917 / S: 158.1188 / V: 73.9388
+Guess field is: field, 3, 3, 0, Correct. R: 192.938 / G: 171.3661 / B: 22.3887 / H: 26.4863 / S: 224.6608 / V: 193.5605
+Guess field is: field, 4, 3, 0, Correct. R: 187.7122 / G: 164.5246 / B: 13.7541 / H: 26.0676 / S: 236.7044 / V: 187.7315
+Guess lake is: lake, 0, 4, 0, Correct. R: 10.186 / G: 84.4017 / B: 161.5658 / H: 99.2299 / S: 232.2323 / V: 163.9369
+Guess lake is: lake, 1, 4, 1, Correct. R: 31.2938 / G: 86.3443 / B: 140.4559 / H: 87.28 / S: 220.1156 / V: 157.5581
+Guess forest is: forest, 2, 4, 0, Correct. R: 64.0702 / G: 82.3692 / B: 34.0604 / H: 45.7596 / S: 146.5191 / V: 85.5681
+Guess forest is: forest, 3, 4, 1, Correct. R: 86.14 / G: 97.4232 / B: 52.2912 / H: 39.9184 / S: 122.9989 / V: 100.4697
+Guess forest is: forest, 4, 4, 0, Correct. R: 72.016 / G: 90.2652 / B: 38.5613 / H: 44.7586 / S: 132.2175 / V: 90.7965
+In image 10 the total score is 30. 24 was correct. That is 96.0%
+
+Guess forest is: forest, 0, 0, 0, Correct. R: 65.5437 / G: 77.7259 / B: 38.1838 / H: 46.84 / S: 133.987 / V: 86.2602
+Guess forest is: forest, 1, 0, 1, Correct. R: 81.5217 / G: 88.089 / B: 42.5898 / H: 37.2014 / S: 136.2954 / V: 92.609
+Guess forest is: forest, 2, 0, 0, Correct. R: 61.1459 / G: 78.0584 / B: 29.1231 / H: 45.9984 / S: 135.9341 / V: 79.536
+Guess forest is: forest, 3, 0, 0, Correct. R: 63.7465 / G: 84.0807 / B: 34.7063 / H: 45.1513 / S: 134.6481 / V: 84.1451
+Guess forest is: forest, 4, 0, 0, Correct. R: 56.7091 / G: 76.1386 / B: 32.117 / H: 48.1371 / S: 127.1399 / V: 76.1681
+Guess lake is: lake, 0, 1, 1, Correct. R: 47.6842 / G: 81.0187 / B: 109.5684 / H: 79.5062 / S: 200.4615 / V: 136.2731
+Guess field is: field, 1, 1, 0, Correct. R: 187.7472 / G: 167.1195 / B: 21.6961 / H: 29.7364 / S: 232.8831 / V: 193.8813
+Guess field is: field, 2, 1, 1, Correct. R: 175.7428 / G: 151.9974 / B: 22.3953 / H: 24.8755 / S: 218.6268 / V: 175.7683
+Guess forest is: forest, 3, 1, 0, Correct. R: 60.2043 / G: 78.7688 / B: 29.3886 / H: 44.8412 / S: 145.2668 / V: 79.4102
+Guess forest is: forest, 4, 1, 0, Correct. R: 54.2439 / G: 74.0277 / B: 29.8833 / H: 47.7394 / S: 134.0382 / V: 74.0427
+Guess lake is: lake, 0, 2, 1, Correct. R: 52.2628 / G: 84.7295 / B: 112.3665 / H: 74.3626 / S: 193.2183 / V: 139.4197
+Guess field is: field, 1, 2, 0, Correct. R: 178.9155 / G: 159.2679 / B: 25.1374 / H: 27.4144 / S: 219.1785 / V: 180.5083
+Guess field is: field, 2, 2, 0, Correct. R: 191.0195 / G: 168.4127 / B: 7.8262 / H: 26.6534 / S: 243.0913 / V: 192.032
+Guess forest is: forest, 3, 2, 1, Correct. R: 71.3851 / G: 78.8365 / B: 37.5699 / H: 37.8228 / S: 146.5098 / V: 82.7845
+Guess start is: start, 4, 2, 0, Correct. R: 138.7665 / G: 145.814 / B: 106.0375 / H: 36.6855 / S: 85.4981 / V: 149.0712
+Guess lake is: lake, 0, 3, 0, Correct. R: 14.4927 / G: 66.1318 / B: 127.8297 / H: 96.3011 / S: 213.1536 / V: 131.1673
+Guess grass is: grass, 1, 3, 1, Correct. R: 89.1066 / G: 104.8123 / B: 31.0436 / H: 34.7574 / S: 187.9791 / V: 113.4544
+Guess grass is: grass, 2, 3, 0, Correct. R: 105.3818 / G: 148.1653 / B: 38.5409 / H: 41.0962 / S: 189.531 / V: 149.2701
+Guess forest is: forest, 3, 3, 1, Correct. R: 80.3187 / G: 85.4455 / B: 44.2186 / H: 36.1807 / S: 135.884 / V: 89.4173
+Guess forest is: forest, 4, 3, 0, Correct. R: 56.9021 / G: 75.4717 / B: 32.2215 / H: 47.0789 / S: 136.6917 / V: 76.0311
+Guess none is: none, 0, 4, 0, Correct. R: 154.8805 / G: 123.0289 / B: 53.1915 / H: 20.6715 / S: 169.0997 / V: 154.8805
+Guess none is: none, 1, 4, 0, Correct. R: 158.9882 / G: 129.4252 / B: 63.2558 / H: 20.7991 / S: 156.5641 / V: 158.9882
+Guess grass is: grass, 2, 4, 0, Correct. R: 110.0757 / G: 145.1192 / B: 33.795 / H: 38.3288 / S: 197.3229 / V: 147.683
+Guess forest is: forest, 3, 4, 0, Correct. R: 62.5419 / G: 76.4509 / B: 27.1793 / H: 42.229 / S: 145.3269 / V: 78.8095
+Guess forest is: forest, 4, 4, 0, Correct. R: 69.5431 / G: 88.7754 / B: 34.5939 / H: 43.8409 / S: 137.7815 / V: 89.1075
+In image 11 the total score is 49. 25 was correct. That is 100.0%
+
+Guess field is: field, 0, 0, 0, Correct. R: 199.0042 / G: 175.7838 / B: 20.6428 / H: 25.9313 / S: 226.7823 / V: 199.0042
+Guess field is: field, 1, 0, 0, Correct. R: 183.538 / G: 160.3619 / B: 18.9565 / H: 25.8766 / S: 227.1662 / V: 183.591
+Guess grass is: grass, 2, 0, 0, Correct. R: 89.8429 / G: 138.3837 / B: 42.0627 / H: 45.8022 / S: 182.0815 / V: 139.7543
+Guess grass is: grass, 3, 0, 0, Correct. R: 98.868 / G: 143.5615 / B: 44.7547 / H: 44.7895 / S: 177.0 / V: 144.7694
+Guess none is: none, 4, 0, 0, Correct. R: 144.752 / G: 116.3524 / B: 51.2137 / H: 21.1446 / S: 167.6084 / V: 145.3387
+Guess forest is: forest, 0, 1, 0, Correct. R: 65.7158 / G: 79.4729 / B: 37.2034 / H: 45.6629 / S: 122.4793 / V: 81.4312
+Guess lake is: lake, 1, 1, 1, Correct. R: 45.3134 / G: 89.1531 / B: 125.3879 / H: 82.8595 / S: 202.4358 / V: 146.8866
+Guess lake is: lake, 2, 1, 0, Correct. R: 12.2098 / G: 86.1835 / B: 156.2254 / H: 99.1409 / S: 223.7836 / V: 160.2397
+Guess lake is: lake, 3, 1, 0, Correct. R: 10.7243 / G: 88.757 / B: 163.4568 / H: 99.9327 / S: 242.7338 / V: 169.0892
+Guess none is: none, 4, 1, 0, Correct. R: 129.4022 / G: 103.132 / B: 46.1249 / H: 24.2657 / S: 173.7949 / V: 133.566
+Guess grass is: grass, 0, 2, 0, Correct. R: 114.246 / G: 169.0391 / B: 46.9703 / H: 42.9729 / S: 184.7429 / V: 169.4119
+Guess grass is: grass, 1, 2, 0, Correct. R: 106.8887 / G: 156.3447 / B: 33.5823 / H: 42.4149 / S: 202.2817 / V: 156.7326
+Guess grass is: grass, 2, 2, 2, Correct. R: 116.0398 / G: 125.2921 / B: 48.9555 / H: 33.5211 / S: 170.8312 / V: 139.4676
+Guess forest is: forest, 3, 2, 0, Correct. R: 56.8178 / G: 76.5396 / B: 29.3399 / H: 45.2154 / S: 141.741 / V: 76.916
+Guess lake is: lake, 4, 2, 0, Correct. R: 7.1086 / G: 88.8894 / B: 172.8777 / H: 103.3376 / S: 241.7376 / V: 174.3766
+Guess grass is: grass, 0, 3, 0, Correct. R: 116.3096 / G: 167.3648 / B: 48.7811 / H: 42.2588 / S: 174.7572 / V: 167.5099
+Guess swamp is: swamp, 1, 3, 2, Correct. R: 109.8035 / G: 97.3909 / B: 57.5169 / H: 24.2637 / S: 141.2183 / V: 110.4523
+Guess grass is: grass, 2, 3, 0, Correct. R: 103.6713 / G: 150.2838 / B: 49.5968 / H: 43.3672 / S: 172.2251 / V: 150.4773
+Guess field is: field, 3, 3, 0, Correct. R: 191.6137 / G: 171.2656 / B: 29.9099 / H: 26.278 / S: 215.7545 / V: 192.0933
+Guess lake is: lake, 4, 3, 0, Correct. R: 6.9759 / G: 81.1455 / B: 159.8454 / H: 103.5828 / S: 244.9699 / V: 161.7017
+Guess swamp is: swamp, 0, 4, 0, Correct. R: 125.4782 / G: 110.7693 / B: 69.0463 / H: 21.6424 / S: 130.0826 / V: 125.5224
+Guess swamp is: swamp, 1, 4, 0, Correct. R: 138.348 / G: 129.0063 / B: 85.9652 / H: 25.5518 / S: 117.6458 / V: 138.5681
+Guess start is: start, 2, 4, 0, Correct. R: 100.262 / G: 114.1153 / B: 105.1692 / H: 57.7628 / S: 90.4375 / V: 124.9074
+Guess field is: field, 3, 4, 0, Correct. R: 194.0872 / G: 172.1993 / B: 24.1983 / H: 26.278 / S: 223.0086 / V: 194.1832
+Guess lake is: lake, 4, 4, 1, Correct. R: 40.0028 / G: 76.1652 / B: 109.5147 / H: 83.494 / S: 199.2029 / V: 127.2741
+In image 12 the total score is 22. 25 was correct. That is 100.0%
+
+Guess none is: none, 0, 0, 0, Correct. R: 158.823 / G: 130.2639 / B: 66.3736 / H: 20.8561 / S: 147.5221 / V: 158.823
+Guess mine is: mine, 1, 0, 2, Correct. R: 77.1194 / G: 66.1339 / B: 38.6945 / H: 45.8963 / S: 103.3862 / V: 77.7535
+Guess field is: field, 2, 0, 0, Correct. R: 196.527 / G: 175.6313 / B: 20.4964 / H: 26.6716 / S: 226.3623 / V: 196.5543
+Guess field is: field, 3, 0, 1, Correct. R: 172.515 / G: 152.4529 / B: 32.4047 / H: 25.2212 / S: 202.9828 / V: 172.5676
+Guess grass is: grass, 4, 0, 0, Correct. R: 107.393 / G: 149.27 / B: 42.8339 / H: 41.9096 / S: 182.7849 / V: 149.871
+Guess field is: field, 0, 1, 0, Correct. R: 197.4638 / G: 175.6165 / B: 18.2146 / H: 26.3678 / S: 231.1858 / V: 197.5049
+Guess grass is: grass, 1, 1, 1, Correct. R: 107.5686 / G: 127.0577 / B: 38.8149 / H: 35.6212 / S: 185.3128 / V: 137.9563
+Guess lake is: lake, 2, 1, 0, Correct. R: 13.7971 / G: 76.7654 / B: 145.4562 / H: 99.6315 / S: 227.6897 / V: 149.4236
+Guess field is: field, 3, 1, 1, Correct. R: 182.9117 / G: 161.6502 / B: 30.155 / H: 25.2263 / S: 209.7236 / V: 182.9465
+Guess forest is: forest, 4, 1, 1, Correct. R: 78.8205 / G: 83.4659 / B: 43.1512 / H: 36.3307 / S: 135.3943 / V: 87.5407
+Guess none is: none, 0, 2, 0, Correct. R: 142.384 / G: 122.0287 / B: 73.7863 / H: 21.3331 / S: 122.9772 / V: 143.0699
+Guess grass is: grass, 1, 2, 0, Correct. R: 112.9523 / G: 152.9159 / B: 49.7088 / H: 41.2017 / S: 172.0462 / V: 153.2732
+Guess grass is: grass, 2, 2, 2, Correct. R: 111.3881 / G: 116.599 / B: 47.7127 / H: 33.3564 / S: 160.7512 / V: 129.7207
+Guess field is: field, 3, 2, 0, Correct. R: 196.2122 / G: 174.9651 / B: 12.9928 / H: 26.4429 / S: 238.5668 / V: 196.2122
+Guess field is: field, 4, 2, 0, Correct. R: 198.5179 / G: 177.0547 / B: 24.1652 / H: 26.472 / S: 220.6147 / V: 198.5866
+Guess field is: field, 0, 3, 0, Correct. R: 197.4457 / G: 177.8345 / B: 28.1137 / H: 26.464 / S: 216.5973 / V: 197.4772
+Guess swamp is: swamp, 1, 3, 1, Correct. R: 113.3669 / G: 104.7477 / B: 59.2604 / H: 25.0177 / S: 135.0972 / V: 115.4252
+Guess field is: field, 2, 3, 0, Correct. R: 197.9594 / G: 177.9047 / B: 24.0802 / H: 26.7252 / S: 224.3597 / V: 198.313
+Guess field is: field, 3, 3, 0, Correct. R: 185.5312 / G: 163.6624 / B: 19.2309 / H: 26.1398 / S: 229.2882 / V: 185.6307
+Guess forest is: start, 4, 3, 0, Wrong. R: 88.471 / G: 87.2911 / B: 50.1622 / H: 33.0968 / S: 128.9648 / V: 90.3859
+Guess swamp is: swamp, 0, 4, 1, Correct. R: 123.2869 / G: 111.0912 / B: 66.4825 / H: 24.5558 / S: 130.219 / V: 123.8415
+Guess swamp is: swamp, 1, 4, 0, Correct. R: 137.7614 / G: 125.7453 / B: 81.3728 / H: 24.071 / S: 117.3553 / V: 137.881
+Guess field is: field, 2, 4, 1, Correct. R: 170.6276 / G: 150.8938 / B: 36.8714 / H: 24.8849 / S: 195.3264 / V: 170.6571
+Guess field is: field, 3, 4, 0, Correct. R: 182.3742 / G: 163.6714 / B: 34.6266 / H: 28.2263 / S: 209.6031 / V: 184.8238
+Guess lake is: lake, 4, 4, 0, Correct. R: 9.1344 / G: 78.7511 / B: 151.486 / H: 100.4888 / S: 237.3402 / V: 153.9981
+In image 13 the total score is 45. 24 was correct. That is 96.0%
+
+Guess field is: field, 0, 0, 0, Correct. R: 162.2457 / G: 140.5738 / B: 22.6847 / H: 24.7226 / S: 209.3034 / V: 162.2541
+Guess mine is: mine, 1, 0, 0, Correct. R: 77.4248 / G: 66.8034 / B: 30.0911 / H: 34.12 / S: 115.1939 / V: 77.7579
+Guess mine is: mine, 2, 0, 0, Correct. R: 86.0609 / G: 70.4827 / B: 32.0672 / H: 32.4814 / S: 127.9426 / V: 86.4757
+Guess mine is: mine, 3, 0, 0, Correct. R: 79.7244 / G: 66.9253 / B: 34.1731 / H: 27.952 / S: 114.3813 / V: 80.1168
+Guess none is: none, 4, 0, 0, Correct. R: 137.6288 / G: 103.4709 / B: 34.2197 / H: 20.4157 / S: 187.5715 / V: 137.6335
+Guess lake is: lake, 0, 1, 0, Correct. R: 18.649 / G: 77.946 / B: 154.7434 / H: 96.9952 / S: 224.5474 / V: 161.9266
+Guess forest is: forest, 1, 1, 1, Correct. R: 63.0426 / G: 70.5881 / B: 33.0141 / H: 38.3084 / S: 156.2988 / V: 74.0635
+Guess start is: swamp, 2, 1, 0, Wrong. R: 116.3982 / G: 108.0717 / B: 68.8181 / H: 38.368 / S: 131.0123 / V: 122.2908
+Guess swamp is: swamp, 3, 1, 0, Correct. R: 133.3539 / G: 120.1821 / B: 68.1277 / H: 24.4414 / S: 133.9869 / V: 133.3873
+Guess none is: none, 4, 1, 0, Correct. R: 141.8963 / G: 109.3977 / B: 41.8097 / H: 20.4149 / S: 180.2549 / V: 141.8963
+Guess lake is: lake, 0, 2, 0, Correct. R: 7.9005 / G: 67.3906 / B: 146.9482 / H: 102.5811 / S: 232.4492 / V: 148.3049
+Guess lake is: lake, 1, 2, 0, Correct. R: 3.97 / G: 73.7524 / B: 165.7058 / H: 106.8297 / S: 246.2289 / V: 165.8221
+Guess start is: start, 2, 2, 0, Correct. R: 80.4579 / G: 78.6116 / B: 68.5658 / H: 60.3218 / S: 118.79 / V: 95.5262
+Guess swamp is: swamp, 3, 2, 2, Correct. R: 95.795 / G: 84.8542 / B: 49.7423 / H: 24.7789 / S: 137.9546 / V: 96.1025
+Guess field is: field, 4, 2, 0, Correct. R: 186.5664 / G: 163.7814 / B: 4.136 / H: 26.2125 / S: 249.0425 / V: 186.5664
+Guess lake is: lake, 0, 3, 0, Correct. R: 7.2251 / G: 78.5954 / B: 162.1961 / H: 102.6644 / S: 242.2349 / V: 163.9742
+Guess lake is: lake, 1, 3, 1, Correct. R: 30.9868 / G: 81.7964 / B: 134.7 / H: 86.9833 / S: 215.7109 / V: 151.7675
+Guess forest is: forest, 2, 3, 0, Correct. R: 58.5611 / G: 76.0449 / B: 28.4779 / H: 44.9565 / S: 153.8661 / V: 78.3815
+Guess field is: field, 3, 3, 0, Correct. R: 191.0897 / G: 169.9152 / B: 22.8171 / H: 26.7178 / S: 222.7735 / V: 191.6967
+Guess field is: field, 4, 3, 0, Correct. R: 186.1004 / G: 163.8654 / B: 13.6311 / H: 26.2521 / S: 236.6257 / V: 186.326
+Guess lake is: lake, 0, 4, 0, Correct. R: 9.9345 / G: 82.3351 / B: 161.949 / H: 99.7014 / S: 231.4567 / V: 164.0109
+Guess lake is: lake, 1, 4, 1, Correct. R: 31.1207 / G: 85.1506 / B: 141.1087 / H: 87.6949 / S: 217.5412 / V: 157.4165
+Guess forest is: forest, 2, 4, 0, Correct. R: 62.1811 / G: 80.0387 / B: 33.7675 / H: 45.9842 / S: 140.8129 / V: 82.7774
+Guess forest is: forest, 3, 4, 1, Correct. R: 84.0303 / G: 95.2624 / B: 51.563 / H: 40.498 / S: 122.2842 / V: 98.2945
+Guess forest is: forest, 4, 4, 0, Correct. R: 67.7152 / G: 87.0051 / B: 38.8198 / H: 45.8696 / S: 128.0902 / V: 87.0925
+In image 14 the total score is 23. 24 was correct. That is 96.0%
+
+Guess forest is: forest, 0, 0, 0, Correct. R: 65.004 / G: 77.3976 / B: 34.4581 / H: 46.4884 / S: 132.7926 / V: 82.8925
+Guess forest is: forest, 1, 0, 1, Correct. R: 78.8631 / G: 85.488 / B: 41.8858 / H: 37.8183 / S: 133.6464 / V: 89.4295
+Guess forest is: forest, 2, 0, 0, Correct. R: 60.361 / G: 77.1064 / B: 29.3612 / H: 47.1161 / S: 130.925 / V: 78.5183
+Guess forest is: forest, 3, 0, 0, Correct. R: 61.9307 / G: 83.3973 / B: 31.9992 / H: 46.1402 / S: 136.7016 / V: 83.4533
+Guess forest is: forest, 4, 0, 0, Correct. R: 54.5893 / G: 72.9843 / B: 31.2676 / H: 49.0538 / S: 123.9432 / V: 73.0891
+Guess lake is: lake, 0, 1, 1, Correct. R: 43.628 / G: 79.3418 / B: 113.5674 / H: 81.2861 / S: 202.1251 / V: 137.45
+Guess field is: field, 1, 1, 0, Correct. R: 188.8433 / G: 166.9047 / B: 17.6168 / H: 28.8142 / S: 234.5957 / V: 192.3195
+Guess field is: field, 2, 1, 1, Correct. R: 174.0515 / G: 150.8302 / B: 20.7105 / H: 25.0134 / S: 220.6516 / V: 174.0709
+Guess forest is: forest, 3, 1, 0, Correct. R: 57.9163 / G: 76.731 / B: 27.9682 / H: 44.9209 / S: 147.2537 / V: 77.3483
+Guess forest is: forest, 4, 1, 0, Correct. R: 56.8468 / G: 76.7295 / B: 39.3746 / H: 52.4044 / S: 127.9259 / V: 77.6996
+Guess lake is: lake, 0, 2, 1, Correct. R: 46.3783 / G: 81.4964 / B: 113.7067 / H: 77.1395 / S: 194.8408 / V: 137.2082
+Guess field is: field, 1, 2, 0, Correct. R: 178.812 / G: 159.0178 / B: 22.5575 / H: 27.073 / S: 221.8914 / V: 179.6978
+Guess field is: field, 2, 2, 0, Correct. R: 189.3494 / G: 167.4596 / B: 7.1165 / H: 26.8199 / S: 243.9419 / V: 190.5078
+Guess forest is: forest, 3, 2, 1, Correct. R: 68.7657 / G: 73.8463 / B: 37.6637 / H: 38.4559 / S: 134.9045 / V: 77.7223
+Guess forest is: start, 4, 2, 0, Wrong. R: 86.1375 / G: 89.8201 / B: 61.9831 / H: 44.6294 / S: 115.7993 / V: 94.2487
+Guess lake is: lake, 0, 3, 0, Correct. R: 15.4056 / G: 66.464 / B: 128.765 / H: 97.3791 / S: 213.8634 / V: 132.6471
+Guess grass is: grass, 1, 3, 1, Correct. R: 86.074 / G: 102.6466 / B: 30.8509 / H: 35.1299 / S: 186.0202 / V: 110.4714
+Guess grass is: grass, 2, 3, 0, Correct. R: 103.7138 / G: 147.4991 / B: 38.0558 / H: 41.3725 / S: 190.5319 / V: 148.6347
+Guess forest is: forest, 3, 3, 1, Correct. R: 79.9391 / G: 84.4604 / B: 44.8725 / H: 36.3726 / S: 132.6785 / V: 88.6342
+Guess forest is: forest, 4, 3, 0, Correct. R: 57.1824 / G: 78.5002 / B: 30.2534 / H: 47.3733 / S: 141.1755 / V: 78.7662
+Guess none is: none, 0, 4, 0, Correct. R: 147.9616 / G: 117.7739 / B: 50.8984 / H: 21.0816 / S: 167.4949 / V: 147.9878
+Guess none is: none, 1, 4, 0, Correct. R: 156.3722 / G: 127.3403 / B: 62.9315 / H: 20.7372 / S: 155.0746 / V: 156.3722
+Guess grass is: grass, 2, 4, 0, Correct. R: 108.3036 / G: 144.9464 / B: 33.7885 / H: 38.6761 / S: 196.3731 / V: 147.2186
+Guess forest is: forest, 3, 4, 0, Correct. R: 60.8182 / G: 75.096 / B: 27.94 / H: 43.0684 / S: 139.4202 / V: 77.0072
+Guess forest is: forest, 4, 4, 0, Correct. R: 65.5297 / G: 84.9975 / B: 34.4973 / H: 45.0149 / S: 135.4382 / V: 85.2568
+In image 15 the total score is 52. 24 was correct. That is 96.0%
+
+Guess field is: field, 0, 0, 0, Correct. R: 196.0324 / G: 174.2416 / B: 18.1635 / H: 26.3617 / S: 230.4112 / V: 196.174
+Guess field is: field, 1, 0, 0, Correct. R: 179.941 / G: 158.2863 / B: 19.4007 / H: 27.2245 / S: 227.8836 / V: 181.0256
+Guess grass is: grass, 2, 0, 0, Correct. R: 86.8086 / G: 136.8056 / B: 42.2669 / H: 46.8092 / S: 182.5246 / V: 138.707
+Guess grass is: grass, 3, 0, 0, Correct. R: 98.1325 / G: 143.343 / B: 44.9284 / H: 45.0521 / S: 176.8998 / V: 144.5455
+Guess none is: none, 4, 0, 0, Correct. R: 141.4674 / G: 113.4245 / B: 50.3929 / H: 20.9958 / S: 166.6184 / V: 141.778
+Guess forest is: forest, 0, 1, 0, Correct. R: 63.3886 / G: 77.8689 / B: 36.7498 / H: 46.1195 / S: 122.7265 / V: 79.5175
+Guess lake is: lake, 1, 1, 1, Correct. R: 44.1372 / G: 87.8677 / B: 125.0578 / H: 82.7463 / S: 202.2513 / V: 146.178
+Guess lake is: lake, 2, 1, 0, Correct. R: 12.2436 / G: 85.68 / B: 156.2867 / H: 98.9868 / S: 224.1847 / V: 160.6816
+Guess lake is: lake, 3, 1, 0, Correct. R: 10.34 / G: 87.1853 / B: 162.9971 / H: 100.3549 / S: 242.7603 / V: 168.2214
+Guess none is: none, 4, 1, 0, Correct. R: 128.7808 / G: 102.4701 / B: 45.7284 / H: 23.5182 / S: 172.9524 / V: 132.179
+Guess grass is: grass, 0, 2, 0, Correct. R: 114.053 / G: 168.8801 / B: 49.3595 / H: 43.2971 / S: 179.3893 / V: 169.1752
+Guess grass is: grass, 1, 2, 0, Correct. R: 104.7904 / G: 154.9111 / B: 32.4939 / H: 42.5345 / S: 204.0435 / V: 155.4723
+Guess grass is: grass, 2, 2, 2, Correct. R: 114.246 / G: 124.4631 / B: 47.438 / H: 33.8341 / S: 172.8832 / V: 138.4055
+Guess forest is: forest, 3, 2, 0, Correct. R: 54.5809 / G: 75.0497 / B: 28.7424 / H: 45.8866 / S: 141.6704 / V: 75.3674
+Guess lake is: lake, 4, 2, 0, Correct. R: 7.2959 / G: 88.1787 / B: 172.383 / H: 103.5866 / S: 240.27 / V: 173.6446
+Guess grass is: grass, 0, 3, 0, Correct. R: 113.6287 / G: 165.5358 / B: 47.1841 / H: 42.4794 / S: 177.1801 / V: 165.769
+Guess swamp is: swamp, 1, 3, 2, Correct. R: 109.0423 / G: 97.6601 / B: 57.843 / H: 25.0494 / S: 138.9685 / V: 109.9653
+Guess grass is: grass, 2, 3, 0, Correct. R: 107.0159 / G: 154.6472 / B: 54.0747 / H: 43.7037 / S: 164.1393 / V: 154.8692
+Guess field is: field, 3, 3, 0, Correct. R: 191.4507 / G: 171.7882 / B: 30.1793 / H: 26.4457 / S: 215.0531 / V: 191.9361
+Guess lake is: lake, 4, 3, 0, Correct. R: 6.9739 / G: 80.2423 / B: 158.1636 / H: 103.6699 / S: 244.844 / V: 159.9635
+Guess swamp is: swamp, 0, 4, 0, Correct. R: 126.2043 / G: 111.2829 / B: 69.6186 / H: 21.7065 / S: 129.5843 / V: 126.2048
+Guess swamp is: swamp, 1, 4, 0, Correct. R: 139.7697 / G: 130.6013 / B: 85.6201 / H: 25.6884 / S: 121.4103 / V: 140.0048
+Guess start is: start, 2, 4, 0, Correct. R: 86.5779 / G: 92.1735 / B: 74.2282 / H: 48.3071 / S: 95.8667 / V: 99.1801
+Guess field is: field, 3, 4, 0, Correct. R: 180.6813 / G: 159.9877 / B: 20.7587 / H: 26.4412 / S: 224.0506 / V: 180.7841
+Guess lake is: lake, 4, 4, 1, Correct. R: 38.7856 / G: 74.716 / B: 107.6909 / H: 83.0624 / S: 201.6317 / V: 125.2396
+In image 16 the total score is 22. 25 was correct. That is 100.0%
+
+Guess swamp is: swamp, 0, 0, 0, Correct. R: 129.4549 / G: 111.7451 / B: 63.499 / H: 21.8551 / S: 139.4573 / V: 129.4549
+Guess grass is: grass, 1, 0, 0, Correct. R: 123.377 / G: 171.1665 / B: 45.8088 / H: 40.3442 / S: 182.6436 / V: 172.4502
+Guess swamp is: swamp, 2, 0, 2, Correct. R: 119.0825 / G: 106.5128 / B: 65.3864 / H: 23.8976 / S: 131.3144 / V: 119.5565
+Guess field is: field, 3, 0, 0, Correct. R: 210.3804 / G: 187.2295 / B: 20.5577 / H: 26.3617 / S: 229.965 / V: 210.4119
+Guess forest is: forest, 4, 0, 0, Correct. R: 82.3169 / G: 102.3894 / B: 44.1728 / H: 43.4717 / S: 135.5458 / V: 103.2115
+Guess swamp is: swamp, 0, 1, 0, Correct. R: 142.2147 / G: 131.5276 / B: 88.8876 / H: 24.9829 / S: 111.0061 / V: 142.2858
+Guess grass is: grass, 1, 1, 0, Correct. R: 117.2524 / G: 172.5544 / B: 45.983 / H: 42.609 / S: 183.8972 / V: 172.5766
+Guess swamp is: swamp, 2, 1, 0, Correct. R: 130.1498 / G: 124.5454 / B: 92.7016 / H: 25.8757 / S: 85.414 / V: 130.6905
+Guess field is: field, 3, 1, 0, Correct. R: 206.4558 / G: 183.4617 / B: 35.6335 / H: 25.9959 / S: 211.3702 / V: 206.4558
+Guess forest is: forest, 4, 1, 0, Correct. R: 78.0195 / G: 99.8584 / B: 43.5234 / H: 43.6788 / S: 135.675 / V: 99.9872
+Guess swamp is: swamp, 0, 2, 2, Correct. R: 124.5196 / G: 110.473 / B: 64.8946 / H: 23.832 / S: 136.7759 / V: 124.9371
+Guess grass is: grass, 1, 2, 0, Correct. R: 111.4761 / G: 158.0978 / B: 42.9874 / H: 43.9155 / S: 187.8356 / V: 158.3055
+Guess start is: start, 2, 2, 0, Correct. R: 106.2961 / G: 116.0652 / B: 99.6725 / H: 55.6305 / S: 90.3524 / V: 125.761
+Guess field is: field, 3, 2, 0, Correct. R: 205.7762 / G: 182.7799 / B: 30.1128 / H: 26.5399 / S: 214.8525 / V: 206.0749
+Guess forest is: forest, 4, 2, 1, Correct. R: 97.6846 / G: 101.2154 / B: 54.0735 / H: 34.7284 / S: 131.101 / V: 106.9186
+Guess swamp is: swamp, 0, 3, 1, Correct. R: 119.5763 / G: 106.7597 / B: 67.5366 / H: 23.4656 / S: 125.5032 / V: 119.8828
+Guess grass is: grass, 1, 3, 1, Correct. R: 111.6194 / G: 129.0023 / B: 56.0887 / H: 36.6347 / S: 159.777 / V: 138.1152
+Guess lake is: lake, 2, 3, 0, Correct. R: 26.7865 / G: 79.1705 / B: 137.7869 / H: 102.5891 / S: 197.9251 / V: 138.6149
+Guess lake is: lake, 3, 3, 1, Correct. R: 54.0913 / G: 103.8948 / B: 139.6075 / H: 79.8179 / S: 193.143 / V: 162.7359
+Guess forest is: forest, 4, 3, 0, Correct. R: 74.718 / G: 91.9046 / B: 36.0752 / H: 41.4492 / S: 143.4943 / V: 93.8225
+Guess field is: field, 0, 4, 0, Correct. R: 202.5092 / G: 178.7629 / B: 29.6671 / H: 25.9568 / S: 217.7999 / V: 202.6396
+Guess grass is: grass, 1, 4, 2, Correct. R: 111.0933 / G: 117.9629 / B: 58.7577 / H: 34.6027 / S: 144.6555 / V: 130.2569
+Guess lake is: lake, 2, 4, 0, Correct. R: 26.3286 / G: 98.0143 / B: 165.6336 / H: 102.1119 / S: 205.0969 / V: 165.961
+Guess lake is: lake, 3, 4, 0, Correct. R: 23.481 / G: 99.0478 / B: 171.7747 / H: 104.6105 / S: 220.0082 / V: 171.7847
+Guess lake is: lake, 4, 4, 0, Correct. R: 28.7068 / G: 105.8668 / B: 174.0799 / H: 96.8785 / S: 208.7204 / V: 177.3972
+In image 17 the total score is 40. 25 was correct. That is 100.0%
+
+Guess grass is: grass, 0, 0, 0, Correct. R: 112.0017 / G: 154.8047 / B: 37.379 / H: 39.9139 / S: 192.0017 / V: 156.4696
+Guess forest is: forest, 1, 0, 1, Correct. R: 82.3994 / G: 88.041 / B: 38.75 / H: 35.7321 / S: 156.4224 / V: 91.9542
+Guess field is: field, 2, 0, 0, Correct. R: 190.815 / G: 167.52 / B: 5.4472 / H: 26.6246 / S: 246.1618 / V: 191.5532
+Guess field is: field, 3, 0, 0, Correct. R: 177.7042 / G: 151.6867 / B: 5.6383 / H: 25.3501 / S: 245.1111 / V: 177.7309
+Guess lake is: lake, 4, 0, 0, Correct. R: 17.8315 / G: 64.8455 / B: 113.2969 / H: 93.1584 / S: 223.0064 / V: 123.2424
+Guess none is: none, 0, 1, 0, Correct. R: 165.9127 / G: 130.9137 / B: 57.1466 / H: 20.4067 / S: 167.3822 / V: 165.9127
+Guess forest is: forest, 1, 1, 0, Correct. R: 72.0611 / G: 86.6361 / B: 29.1157 / H: 40.5737 / S: 164.4897 / V: 90.7002
+Guess forest is: forest, 2, 1, 1, Correct. R: 78.2812 / G: 88.5999 / B: 37.0567 / H: 36.1081 / S: 166.1703 / V: 92.3716
+Guess field is: field, 3, 1, 0, Correct. R: 187.79 / G: 164.4233 / B: 7.9204 / H: 26.9819 / S: 240.4453 / V: 188.5259
+Guess field is: field, 4, 1, 0, Correct. R: 175.1618 / G: 149.9672 / B: 15.405 / H: 24.811 / S: 227.313 / V: 175.1628
+Guess none is: none, 0, 2, 0, Correct. R: 176.2536 / G: 141.2727 / B: 62.565 / H: 20.8832 / S: 165.8628 / V: 176.3198
+Guess forest is: forest, 1, 2, 0, Correct. R: 73.9004 / G: 86.2685 / B: 32.5637 / H: 39.9785 / S: 157.3525 / V: 90.0766
+Guess start is: start, 2, 2, 0, Correct. R: 140.7278 / G: 148.8263 / B: 106.2413 / H: 36.5136 / S: 87.1789 / V: 151.5373
+Guess field is: field, 3, 2, 1, Correct. R: 170.6954 / G: 149.4243 / B: 22.4207 / H: 26.0934 / S: 212.4237 / V: 171.6853
+Guess field is: field, 4, 2, 0, Correct. R: 197.14 / G: 172.8305 / B: 23.4647 / H: 26.0231 / S: 224.2812 / V: 197.2879
+Guess forest is: forest, 0, 3, 0, Correct. R: 71.4325 / G: 85.5402 / B: 31.0783 / H: 41.8928 / S: 152.8474 / V: 89.7467
+Guess forest is: forest, 1, 3, 1, Correct. R: 90.216 / G: 100.0665 / B: 45.224 / H: 36.9107 / S: 155.5891 / V: 105.5577
+Guess forest is: forest, 2, 3, 0, Correct. R: 65.8024 / G: 88.8701 / B: 31.8625 / H: 43.5899 / S: 157.3609 / V: 88.9564
+Guess forest is: forest, 3, 3, 0, Correct. R: 72.1026 / G: 91.8628 / B: 32.0225 / H: 41.2381 / S: 160.7324 / V: 91.9198
+Guess forest is: forest, 4, 3, 1, Correct. R: 92.8882 / G: 100.677 / B: 54.7198 / H: 37.565 / S: 126.5045 / V: 104.4708
+Guess lake is: lake, 0, 4, 0, Correct. R: 18.822 / G: 100.8529 / B: 175.4699 / H: 95.9535 / S: 229.8586 / V: 182.6873
+Guess lake is: lake, 1, 4, 0, Correct. R: 12.292 / G: 94.2435 / B: 173.2889 / H: 99.2162 / S: 232.9947 / V: 176.531
+Guess forest is: forest, 2, 4, 0, Correct. R: 65.6383 / G: 90.8728 / B: 45.0941 / H: 48.0424 / S: 146.2512 / V: 95.6479
+Guess forest is: forest, 3, 4, 0, Correct. R: 86.3684 / G: 107.5783 / B: 42.8167 / H: 42.0057 / S: 139.7462 / V: 107.8682
+Guess forest is: forest, 4, 4, 0, Correct. R: 80.1239 / G: 102.9165 / B: 38.8563 / H: 44.2288 / S: 141.2791 / V: 103.0763
+In image 18 the total score is 54. 25 was correct. That is 100.0%
+
+Guess field is: field, 0, 0, 1, Correct. R: 164.1885 / G: 140.6322 / B: 22.7287 / H: 24.2299 / S: 213.6528 / V: 164.1885
+Guess grass is: grass, 1, 0, 0, Correct. R: 112.8468 / G: 143.6244 / B: 32.6217 / H: 38.7708 / S: 198.4081 / V: 146.7597
+Guess forest is: forest, 2, 0, 0, Correct. R: 57.1899 / G: 78.6548 / B: 23.7265 / H: 43.156 / S: 158.8779 / V: 78.6762
+Guess grass is: grass, 3, 0, 0, Correct. R: 100.9202 / G: 135.3263 / B: 23.0272 / H: 39.0798 / S: 210.6556 / V: 135.5311
+Guess lake is: lake, 4, 0, 0, Correct. R: 13.1834 / G: 67.142 / B: 123.6309 / H: 97.4708 / S: 227.8239 / V: 130.8117
+Guess field is: field, 0, 1, 0, Correct. R: 199.1309 / G: 172.2097 / B: 9.3426 / H: 25.5631 / S: 241.998 / V: 199.1309
+Guess grass is: grass, 1, 1, 0, Correct. R: 115.9907 / G: 126.7049 / B: 26.8458 / H: 32.5234 / S: 207.0754 / V: 140.5522
+Guess grass is: grass, 2, 1, 0, Correct. R: 121.5608 / G: 175.2642 / B: 35.2036 / H: 41.1583 / S: 203.4275 / V: 175.4564
+Guess grass is: grass, 3, 1, 0, Correct. R: 94.4112 / G: 145.0232 / B: 34.9423 / H: 43.394 / S: 189.8106 / V: 145.0531
+Guess field is: field, 4, 1, 0, Correct. R: 179.6492 / G: 159.1837 / B: 11.1997 / H: 26.9764 / S: 238.7203 / V: 182.4035
+Guess mine is: mine, 0, 2, 2, Correct. R: 97.8557 / G: 80.1902 / B: 37.7285 / H: 25.5285 / S: 130.2145 / V: 98.091
+Guess swamp is: swamp, 1, 2, 0, Correct. R: 121.6472 / G: 108.4151 / B: 64.3053 / H: 24.9839 / S: 125.4949 / V: 121.7575
+Guess start is: start, 2, 2, 0, Correct. R: 140.3657 / G: 121.9356 / B: 95.7049 / H: 17.6722 / S: 88.0637 / V: 140.375
+Guess forest is: forest, 3, 2, 0, Correct. R: 64.7111 / G: 75.6295 / B: 39.965 / H: 40.7448 / S: 119.3556 / V: 77.9781
+Guess field is: field, 4, 2, 0, Correct. R: 187.5761 / G: 165.1917 / B: 14.9756 / H: 26.8385 / S: 232.0389 / V: 189.0969
+Guess mine is: mine, 0, 3, 0, Correct. R: 97.9786 / G: 79.2628 / B: 37.4427 / H: 27.8868 / S: 129.7812 / V: 98.2027
+Guess mine is: mine, 1, 3, 3, Correct. R: 88.7812 / G: 75.5829 / B: 40.4367 / H: 29.4783 / S: 123.9811 / V: 89.1802
+Guess field is: field, 2, 3, 0, Correct. R: 177.3891 / G: 153.5524 / B: 13.6495 / H: 25.0272 / S: 218.5829 / V: 177.399
+Guess grass is: forest, 3, 3, 0, Wrong. R: 99.7515 / G: 96.7421 / B: 33.208 / H: 32.0641 / S: 170.0725 / V: 105.8311
+Guess swamp is: swamp, 4, 3, 0, Correct. R: 120.5766 / G: 110.7651 / B: 66.4274 / H: 25.2833 / S: 129.9839 / V: 122.2639
+Guess field is: field, 0, 4, 0, Correct. R: 193.6707 / G: 168.8654 / B: 13.5731 / H: 25.5709 / S: 233.7445 / V: 193.6715
+Guess field is: field, 1, 4, 0, Correct. R: 197.1605 / G: 171.5835 / B: 14.8701 / H: 25.7877 / S: 235.9568 / V: 197.1605
+Guess field is: field, 2, 4, 0, Correct. R: 191.0984 / G: 166.8989 / B: 11.2783 / H: 26.0517 / S: 239.6362 / V: 191.1039
+Guess field is: field, 3, 4, 0, Correct. R: 195.7602 / G: 168.8926 / B: 9.1951 / H: 25.7552 / S: 242.4721 / V: 195.7602
+Guess field is: field, 4, 4, 1, Correct. R: 165.8098 / G: 142.7723 / B: 22.848 / H: 24.7128 / S: 215.0731 / V: 165.8168
+In image 19 the total score is 23. 24 was correct. That is 96.0%
+
+Guess lake is: lake, 0, 0, 1, Correct. R: 52.6199 / G: 103.0463 / B: 139.3557 / H: 76.895 / S: 195.8116 / V: 165.1493
+Guess lake is: lake, 1, 0, 0, Correct. R: 8.9341 / G: 99.2946 / B: 183.6043 / H: 104.1869 / S: 239.1604 / V: 183.7117
+Guess lake is: lake, 2, 0, 0, Correct. R: 7.5097 / G: 96.8214 / B: 181.2049 / H: 104.0835 / S: 241.0042 / V: 181.3406
+Guess lake is: lake, 3, 0, 0, Correct. R: 12.8645 / G: 88.0823 / B: 164.3856 / H: 102.6699 / S: 228.5154 / V: 165.6415
+Guess lake is: lake, 4, 0, 0, Correct. R: 8.5448 / G: 91.4513 / B: 174.5944 / H: 105.0204 / S: 236.2957 / V: 174.655
+Guess forest is: forest, 0, 1, 0, Correct. R: 73.5884 / G: 86.242 / B: 30.3469 / H: 40.2013 / S: 157.5778 / V: 90.5626
+Guess swamp is: swamp, 1, 1, 1, Correct. R: 128.7251 / G: 117.4077 / B: 73.9057 / H: 23.7963 / S: 126.2657 / V: 130.0075
+Guess grass is: grass, 2, 1, 0, Correct. R: 126.9337 / G: 163.6255 / B: 44.3589 / H: 38.8138 / S: 187.5736 / V: 164.9653
+Guess forest is: forest, 3, 1, 0, Correct. R: 64.0024 / G: 84.4809 / B: 26.3463 / H: 42.3855 / S: 159.091 / V: 84.874
+Guess lake is: lake, 4, 1, 1, Correct. R: 48.2322 / G: 90.1497 / B: 120.5847 / H: 81.8607 / S: 203.2527 / V: 146.3263
+Guess mine is: mine, 0, 2, 2, Correct. R: 100.464 / G: 83.9071 / B: 43.512 / H: 26.843 / S: 120.5417 / V: 100.807
+Guess swamp is: swamp, 1, 2, 0, Correct. R: 155.0171 / G: 137.3149 / B: 76.1608 / H: 23.6592 / S: 139.1559 / V: 155.0393
+Guess start is: start, 2, 2, 0, Correct. R: 150.8476 / G: 151.0127 / B: 88.97 / H: 27.6151 / S: 102.8034 / V: 153.5812
+Guess forest is: forest, 3, 2, 0, Correct. R: 65.6479 / G: 80.6643 / B: 37.8581 / H: 45.2988 / S: 119.5154 / V: 81.0414
+Guess lake is: lake, 4, 2, 1, Correct. R: 52.349 / G: 97.716 / B: 134.1877 / H: 81.8196 / S: 190.4873 / V: 155.6078
+Guess mine is: mine, 0, 3, 1, Correct. R: 86.0061 / G: 73.4631 / B: 40.539 / H: 29.788 / S: 106.9164 / V: 86.4167
+Guess mine is: mine, 1, 3, 0, Correct. R: 75.2049 / G: 65.4907 / B: 36.198 / H: 29.4388 / S: 99.2996 / V: 75.391
+Guess grass is: grass, 2, 3, 0, Correct. R: 107.3866 / G: 151.9478 / B: 49.1556 / H: 42.6364 / S: 171.6637 / V: 152.1102
+Guess grass is: grass, 3, 3, 2, Correct. R: 120.7088 / G: 128.9481 / B: 49.0296 / H: 32.2699 / S: 170.1057 / V: 142.8067
+Guess lake is: lake, 4, 3, 1, Correct. R: 49.6481 / G: 89.1262 / B: 119.1173 / H: 80.9201 / S: 189.1511 / V: 140.3621
+Guess field is: field, 0, 4, 0, Correct. R: 198.8607 / G: 174.532 / B: 30.8611 / H: 25.7211 / S: 214.4005 / V: 198.8688
+Guess field is: field, 1, 4, 1, Correct. R: 180.3915 / G: 156.6749 / B: 41.7261 / H: 24.3471 / S: 193.4769 / V: 180.4026
+Guess field is: field, 2, 4, 0, Correct. R: 196.3694 / G: 174.0499 / B: 37.0932 / H: 25.9643 / S: 207.1872 / V: 196.6097
+Guess field is: field, 3, 4, 0, Correct. R: 200.6805 / G: 176.7649 / B: 17.0785 / H: 26.1206 / S: 233.4899 / V: 200.6816
+Guess field is: field, 4, 4, 0, Correct. R: 192.5199 / G: 170.0426 / B: 31.4592 / H: 26.0047 / S: 213.8563 / V: 192.6575
+In image 20 the total score is 52. 25 was correct. That is 100.0%
+
+Guess swamp is: swamp, 0, 0, 0, Correct. R: 131.5378 / G: 113.1045 / B: 64.4797 / H: 21.5316 / S: 138.7226 / V: 131.5378
+Guess grass is: grass, 1, 0, 0, Correct. R: 122.1807 / G: 169.4664 / B: 47.9111 / H: 40.3632 / S: 177.3958 / V: 170.783
+Guess swamp is: swamp, 2, 0, 2, Correct. R: 118.0405 / G: 107.5201 / B: 66.3702 / H: 24.253 / S: 129.3679 / V: 119.6852
+Guess field is: field, 3, 0, 0, Correct. R: 207.8675 / G: 184.4895 / B: 20.9896 / H: 26.2246 / S: 229.1861 / V: 207.8675
+Guess forest is: forest, 4, 0, 0, Correct. R: 84.2301 / G: 104.7328 / B: 45.0796 / H: 43.2117 / S: 135.4139 / V: 105.7279
+Guess swamp is: swamp, 0, 1, 0, Correct. R: 141.2539 / G: 130.1077 / B: 87.2909 / H: 24.9819 / S: 112.5462 / V: 141.3379
+Guess grass is: grass, 1, 1, 0, Correct. R: 118.4569 / G: 173.9383 / B: 46.5754 / H: 42.5021 / S: 184.2955 / V: 174.0681
+Guess swamp is: swamp, 2, 1, 0, Correct. R: 132.727 / G: 129.4783 / B: 95.5682 / H: 27.8788 / S: 85.8201 / V: 135.5129
+Guess field is: field, 3, 1, 0, Correct. R: 205.4544 / G: 182.0042 / B: 36.4522 / H: 25.8455 / S: 209.9429 / V: 205.4549
+Guess forest is: forest, 4, 1, 0, Correct. R: 80.5081 / G: 101.7389 / B: 44.0126 / H: 42.8384 / S: 139.136 / V: 102.2929
+Guess swamp is: swamp, 0, 2, 2, Correct. R: 123.1984 / G: 108.3886 / B: 64.2052 / H: 23.4026 / S: 137.9358 / V: 123.503
+Guess grass is: grass, 1, 2, 0, Correct. R: 108.0619 / G: 152.1227 / B: 44.2433 / H: 44.8841 / S: 178.7964 / V: 152.4254
+Guess forest is: start, 2, 2, 0, Wrong. R: 60.1227 / G: 66.7898 / B: 56.4237 / H: 56.4384 / S: 122.3195 / V: 76.0774
+Guess field is: field, 3, 2, 0, Correct. R: 194.487 / G: 173.5846 / B: 33.3711 / H: 29.0056 / S: 216.8032 / V: 198.9023
+Guess forest is: forest, 4, 2, 1, Correct. R: 96.5154 / G: 100.2935 / B: 54.535 / H: 34.6602 / S: 129.8464 / V: 105.7575
+Guess swamp is: swamp, 0, 3, 1, Correct. R: 121.901 / G: 108.6083 / B: 68.1772 / H: 23.296 / S: 126.0588 / V: 122.1802
+Guess grass is: grass, 1, 3, 1, Correct. R: 114.7522 / G: 132.4605 / B: 55.9658 / H: 35.8707 / S: 161.6077 / V: 141.6746
+Guess lake is: lake, 2, 3, 0, Correct. R: 28.5604 / G: 82.5374 / B: 144.7413 / H: 102.4596 / S: 198.6668 / V: 146.12
+Guess lake is: lake, 3, 3, 1, Correct. R: 52.217 / G: 103.9928 / B: 145.1591 / H: 82.11 / S: 195.0842 / V: 165.7691
+Guess forest is: forest, 4, 3, 0, Correct. R: 72.1661 / G: 92.4257 / B: 40.8003 / H: 44.4549 / S: 142.0699 / V: 95.5702
+Guess field is: field, 0, 4, 0, Correct. R: 204.4157 / G: 180.5857 / B: 27.5671 / H: 26.1114 / S: 221.104 / V: 204.5504
+Guess grass is: grass, 1, 4, 2, Correct. R: 115.1059 / G: 120.8357 / B: 60.5626 / H: 33.431 / S: 143.0549 / V: 133.7406
+Guess lake is: lake, 2, 4, 0, Correct. R: 29.1467 / G: 98.8489 / B: 167.1389 / H: 100.4295 / S: 199.6109 / V: 168.1581
+Guess lake is: lake, 3, 4, 0, Correct. R: 28.5895 / G: 103.7035 / B: 178.1355 / H: 103.1016 / S: 212.4841 / V: 178.9608
+Guess lake is: lake, 4, 4, 0, Correct. R: 30.0423 / G: 107.0772 / B: 179.1857 / H: 98.1375 / S: 204.7841 / V: 181.1827
+In image 21 the total score is 40. 24 was correct. That is 96.0%
+
+Guess grass is: grass, 0, 0, 0, Correct. R: 109.5751 / G: 154.8665 / B: 35.6764 / H: 40.5996 / S: 194.7926 / V: 155.6101
+Guess forest is: forest, 1, 0, 1, Correct. R: 80.8072 / G: 86.6398 / B: 39.3248 / H: 35.594 / S: 152.3558 / V: 90.3674
+Guess field is: field, 2, 0, 0, Correct. R: 191.8232 / G: 168.2533 / B: 5.3577 / H: 26.387 / S: 247.0797 / V: 192.3965
+Guess field is: field, 3, 0, 0, Correct. R: 176.6346 / G: 151.024 / B: 6.6431 / H: 25.3862 / S: 243.8695 / V: 176.664
+Guess lake is: lake, 4, 0, 0, Correct. R: 15.7509 / G: 63.4001 / B: 115.0463 / H: 94.3638 / S: 226.5727 / V: 123.5988
+Guess none is: none, 0, 1, 0, Correct. R: 168.2912 / G: 133.0691 / B: 58.9919 / H: 20.3903 / S: 166.5205 / V: 168.2912
+Guess forest is: forest, 1, 1, 0, Correct. R: 69.2242 / G: 87.0993 / B: 28.7855 / H: 41.9563 / S: 160.8527 / V: 89.6463
+Guess forest is: forest, 2, 1, 1, Correct. R: 84.2113 / G: 92.5158 / B: 48.8844 / H: 42.6005 / S: 145.3916 / V: 97.4698
+Guess field is: field, 3, 1, 0, Correct. R: 191.9595 / G: 167.6534 / B: 9.6749 / H: 26.9589 / S: 239.0669 / V: 192.4805
+Guess field is: field, 4, 1, 1, Correct. R: 173.1065 / G: 148.8389 / B: 15.9251 / H: 24.8797 / S: 226.4355 / V: 173.1097
+Guess none is: none, 0, 2, 0, Correct. R: 179.1128 / G: 144.0437 / B: 65.4686 / H: 20.8646 / S: 163.3306 / V: 179.1973
+Guess forest is: forest, 1, 2, 0, Correct. R: 69.1252 / G: 84.6758 / B: 31.8336 / H: 41.1428 / S: 155.2536 / V: 86.9983
+Guess start is: start, 2, 2, 0, Correct. R: 83.1174 / G: 95.0782 / B: 63.5656 / H: 52.0118 / S: 122.6982 / V: 98.5726
+Guess field is: field, 3, 2, 1, Correct. R: 165.3533 / G: 144.1396 / B: 22.3441 / H: 27.7548 / S: 211.9917 / V: 166.6004
+Guess field is: field, 4, 2, 0, Correct. R: 197.1016 / G: 173.268 / B: 26.4584 / H: 26.0546 / S: 219.9989 / V: 197.2824
+Guess forest is: forest, 0, 3, 0, Correct. R: 70.1988 / G: 90.1849 / B: 32.2345 / H: 43.3129 / S: 151.5008 / V: 92.1127
+Guess forest is: forest, 1, 3, 1, Correct. R: 90.5199 / G: 99.413 / B: 46.6997 / H: 36.9713 / S: 151.0443 / V: 104.7674
+Guess forest is: forest, 2, 3, 0, Correct. R: 70.1033 / G: 94.6123 / B: 35.2267 / H: 43.9986 / S: 152.7937 / V: 94.7019
+Guess forest is: forest, 3, 3, 0, Correct. R: 73.0646 / G: 94.0711 / B: 34.6668 / H: 41.5052 / S: 156.9751 / V: 94.202
+Guess forest is: forest, 4, 3, 1, Correct. R: 92.1493 / G: 99.9832 / B: 54.4165 / H: 37.7002 / S: 125.9397 / V: 103.8494
+Guess lake is: lake, 0, 4, 0, Correct. R: 11.3779 / G: 99.1705 / B: 183.5616 / H: 101.8131 / S: 235.5061 / V: 185.3188
+Guess lake is: lake, 1, 4, 0, Correct. R: 11.9192 / G: 93.2352 / B: 174.0383 / H: 99.7127 / S: 233.465 / V: 176.9691
+Guess forest is: forest, 2, 4, 0, Correct. R: 72.2503 / G: 95.7584 / B: 39.8369 / H: 45.4066 / S: 141.1172 / V: 96.3959
+Guess forest is: forest, 3, 4, 0, Correct. R: 86.4203 / G: 108.1956 / B: 42.6771 / H: 42.2884 / S: 140.4111 / V: 108.5802
+Guess forest is: forest, 4, 4, 0, Correct. R: 80.3533 / G: 100.9708 / B: 40.5874 / H: 44.2951 / S: 134.0487 / V: 101.8596
+In image 22 the total score is 60. 25 was correct. That is 100.0%
+
+Guess field is: field, 0, 0, 1, Correct. R: 164.8455 / G: 141.1776 / B: 24.6636 / H: 24.1549 / S: 209.42 / V: 164.8496
+Guess grass is: grass, 1, 0, 0, Correct. R: 106.6346 / G: 140.4839 / B: 34.5719 / H: 39.3268 / S: 194.4831 / V: 142.6077
+Guess forest is: forest, 2, 0, 0, Correct. R: 61.8426 / G: 76.4938 / B: 27.1802 / H: 41.8784 / S: 149.8568 / V: 78.0325
+Guess grass is: grass, 3, 0, 0, Correct. R: 106.9954 / G: 139.8374 / B: 25.3481 / H: 37.8829 / S: 210.8607 / V: 141.8138
+Guess lake is: lake, 4, 0, 0, Correct. R: 14.4491 / G: 66.8516 / B: 130.5447 / H: 97.1784 / S: 228.5407 / V: 136.2605
+Guess field is: field, 0, 1, 0, Correct. R: 201.6531 / G: 175.0413 / B: 9.9866 / H: 25.7232 / S: 241.8074 / V: 201.6603
+Guess grass is: grass, 1, 1, 1, Correct. R: 110.8015 / G: 126.9677 / B: 29.4879 / H: 33.8711 / S: 203.085 / V: 139.0207
+Guess grass is: grass, 2, 1, 0, Correct. R: 112.391 / G: 158.5446 / B: 37.7003 / H: 45.4824 / S: 183.0815 / V: 160.2514
+Guess grass is: grass, 3, 1, 0, Correct. R: 93.054 / G: 141.6783 / B: 32.2615 / H: 45.3741 / S: 188.0406 / V: 142.8
+Guess field is: field, 4, 1, 0, Correct. R: 181.1851 / G: 156.6506 / B: 12.3048 / H: 25.9 / S: 235.9843 / V: 181.5075
+Guess mine is: mine, 0, 2, 2, Correct. R: 90.767 / G: 74.8751 / B: 36.7185 / H: 28.8859 / S: 125.1428 / V: 91.0435
+Guess swamp is: swamp, 1, 2, 0, Correct. R: 134.1933 / G: 119.337 / B: 70.1838 / H: 23.9944 / S: 129.8028 / V: 134.5841
+Guess swamp is: start, 2, 2, 0, Wrong. R: 105.2377 / G: 86.7599 / B: 48.201 / H: 28.8585 / S: 138.1778 / V: 106.3358
+Guess forest is: forest, 3, 2, 0, Correct. R: 66.5682 / G: 81.3304 / B: 43.4203 / H: 45.3539 / S: 120.8144 / V: 81.9407
+Guess field is: field, 4, 2, 0, Correct. R: 198.0788 / G: 171.5496 / B: 13.2922 / H: 25.779 / S: 237.9052 / V: 198.1686
+Guess mine is: mine, 0, 3, 2, Correct. R: 92.3235 / G: 75.4146 / B: 38.1373 / H: 29.1065 / S: 124.0275 / V: 92.5795
+Guess mine is: mine, 1, 3, 3, Correct. R: 88.5733 / G: 74.7684 / B: 39.9926 / H: 30.2679 / S: 123.171 / V: 88.9772
+Guess field is: field, 2, 3, 0, Correct. R: 193.6368 / G: 167.6226 / B: 14.2835 / H: 25.4626 / S: 228.3698 / V: 193.6396
+Guess forest is: forest, 3, 3, 1, Correct. R: 89.3961 / G: 89.8599 / B: 36.1829 / H: 33.5423 / S: 157.8125 / V: 96.9057
+Guess swamp is: swamp, 4, 3, 0, Correct. R: 128.5729 / G: 116.4149 / B: 73.5118 / H: 23.7399 / S: 124.0454 / V: 129.1571
+Guess field is: field, 0, 4, 0, Correct. R: 196.8033 / G: 172.2242 / B: 14.8161 / H: 25.7232 / S: 233.367 / V: 196.8039
+Guess field is: field, 1, 4, 0, Correct. R: 198.4415 / G: 173.5077 / B: 18.2915 / H: 25.8493 / S: 231.7403 / V: 198.4415
+Guess field is: field, 2, 4, 0, Correct. R: 192.2989 / G: 167.713 / B: 13.0186 / H: 25.9138 / S: 237.2771 / V: 192.2991
+Guess field is: field, 3, 4, 0, Correct. R: 195.7409 / G: 168.5017 / B: 11.2541 / H: 25.6204 / S: 240.2263 / V: 195.7409
+Guess field is: field, 4, 4, 1, Correct. R: 166.4784 / G: 143.1077 / B: 23.8119 / H: 24.5064 / S: 214.1632 / V: 166.4915
+In image 23 the total score is 36. 24 was correct. That is 96.0%
+
+Guess lake is: lake, 0, 0, 1, Correct. R: 45.5892 / G: 101.3347 / B: 146.6326 / H: 82.2339 / S: 200.6952 / V: 167.3091
+Guess lake is: lake, 1, 0, 0, Correct. R: 8.8729 / G: 98.6211 / B: 184.1385 / H: 104.6039 / S: 241.8104 / V: 184.1512
+Guess lake is: lake, 2, 0, 0, Correct. R: 7.1862 / G: 96.6073 / B: 183.148 / H: 104.6423 / S: 244.5458 / V: 183.1555
+Guess lake is: lake, 3, 0, 0, Correct. R: 13.3979 / G: 88.5833 / B: 167.2615 / H: 103.0875 / S: 230.2283 / V: 168.5917
+Guess lake is: lake, 4, 0, 0, Correct. R: 8.4086 / G: 92.8319 / B: 178.4908 / H: 105.1527 / S: 238.9034 / V: 178.5261
+Guess forest is: forest, 0, 1, 0, Correct. R: 72.053 / G: 86.5899 / B: 31.2089 / H: 41.3093 / S: 155.3968 / V: 90.159
+Guess swamp is: swamp, 1, 1, 1, Correct. R: 132.2531 / G: 119.4923 / B: 76.5895 / H: 23.8658 / S: 122.0564 / V: 133.1175
+Guess grass is: grass, 2, 1, 0, Correct. R: 128.163 / G: 162.9029 / B: 50.6943 / H: 38.65 / S: 169.7082 / V: 163.9518
+Guess forest is: forest, 3, 1, 0, Correct. R: 64.6779 / G: 84.4689 / B: 28.9005 / H: 43.0863 / S: 150.926 / V: 85.1583
+Guess lake is: lake, 4, 1, 1, Correct. R: 48.4991 / G: 90.9496 / B: 124.5723 / H: 82.6547 / S: 200.8709 / V: 148.8201
+Guess mine is: mine, 0, 2, 2, Correct. R: 101.2766 / G: 84.5612 / B: 43.5496 / H: 27.421 / S: 123.3207 / V: 101.7811
+Guess swamp is: swamp, 1, 2, 0, Correct. R: 156.595 / G: 137.6983 / B: 76.5414 / H: 23.1431 / S: 141.356 / V: 156.6256
+Guess swamp is: start, 2, 2, 0, Wrong. R: 122.5017 / G: 119.2004 / B: 64.5105 / H: 29.4454 / S: 127.2212 / V: 123.7898
+Guess forest is: forest, 3, 2, 0, Correct. R: 64.0164 / G: 79.5744 / B: 37.895 / H: 45.2006 / S: 123.6929 / V: 80.1892
+Guess lake is: lake, 4, 2, 1, Correct. R: 52.9384 / G: 98.6267 / B: 137.9161 / H: 82.7977 / S: 188.836 / V: 158.4202
+Guess mine is: mine, 0, 3, 1, Correct. R: 86.5966 / G: 73.6027 / B: 41.0256 / H: 30.9235 / S: 107.6179 / V: 86.9936
+Guess mine is: mine, 1, 3, 0, Correct. R: 79.2597 / G: 68.9393 / B: 39.009 / H: 36.7175 / S: 97.6302 / V: 79.4761
+Guess grass is: grass, 2, 3, 0, Correct. R: 116.6115 / G: 164.3565 / B: 52.5414 / H: 42.4274 / S: 171.1505 / V: 164.4818
+Guess grass is: grass, 3, 3, 2, Correct. R: 120.2574 / G: 130.0498 / B: 52.0126 / H: 32.6107 / S: 165.428 / V: 143.2086
+Guess lake is: lake, 4, 3, 1, Correct. R: 48.7111 / G: 88.8172 / B: 122.3981 / H: 83.012 / S: 190.3328 / V: 141.6296
+Guess field is: field, 0, 4, 0, Correct. R: 194.1872 / G: 169.6728 / B: 30.1607 / H: 25.6891 / S: 210.8378 / V: 194.2013
+Guess field is: field, 1, 4, 1, Correct. R: 179.9389 / G: 155.9868 / B: 42.2334 / H: 24.182 / S: 192.2339 / V: 179.9498
+Guess field is: field, 2, 4, 0, Correct. R: 195.1761 / G: 174.1197 / B: 39.7711 / H: 26.2591 / S: 203.3196 / V: 195.882
+Guess field is: field, 3, 4, 0, Correct. R: 200.0764 / G: 176.9565 / B: 20.137 / H: 26.1832 / S: 229.4577 / V: 200.0895
+Guess field is: field, 4, 4, 0, Correct. R: 187.1354 / G: 166.7513 / B: 34.796 / H: 27.3235 / S: 209.2025 / V: 188.7438
+In image 24 the total score is 53. 24 was correct. That is 96.0%
+
+Guess none is: none, 0, 0, 0, Correct. R: 161.8888 / G: 139.3794 / B: 100.5943 / H: 25.2632 / S: 109.5137 / V: 166.441
+Guess lake is: lake, 1, 0, 0, Correct. R: 33.7628 / G: 105.3046 / B: 182.4817 / H: 99.6918 / S: 205.4898 / V: 186.795
+Guess lake is: lake, 2, 0, 1, Correct. R: 56.6542 / G: 96.0684 / B: 134.5669 / H: 82.5081 / S: 185.1816 / V: 155.9687
+Guess lake is: lake, 3, 0, 1, Correct. R: 67.3798 / G: 95.9898 / B: 123.038 / H: 74.6812 / S: 166.9605 / V: 145.997
+Guess field is: field, 4, 0, 0, Correct. R: 192.2457 / G: 170.3926 / B: 42.3692 / H: 25.7268 / S: 195.5343 / V: 192.7554
+Guess none is: none, 0, 1, 0, Correct. R: 167.9009 / G: 140.6414 / B: 89.2624 / H: 22.6511 / S: 123.4743 / V: 170.665
+Guess forest is: forest, 1, 1, 0, Correct. R: 71.0127 / G: 94.2002 / B: 38.1449 / H: 45.7078 / S: 130.8402 / V: 94.8622
+Guess forest is: forest, 2, 1, 0, Correct. R: 63.7418 / G: 81.5836 / B: 35.5359 / H: 44.68 / S: 132.3946 / V: 81.8075
+Guess lake is: lake, 3, 1, 0, Correct. R: 24.8381 / G: 90.1787 / B: 164.441 / H: 100.6698 / S: 213.1119 / V: 167.3993
+Guess field is: field, 4, 1, 1, Correct. R: 170.5378 / G: 150.7485 / B: 38.8928 / H: 25.6576 / S: 194.6941 / V: 171.2759
+Guess lake is: lake, 0, 2, 0, Correct. R: 37.8547 / G: 107.1199 / B: 184.9464 / H: 100.6392 / S: 200.6536 / V: 187.8667
+Guess forest is: forest, 1, 2, 1, Correct. R: 87.8946 / G: 94.9965 / B: 51.1614 / H: 37.7029 / S: 127.038 / V: 99.2558
+Guess start is: start, 2, 2, 0, Correct. R: 142.9999 / G: 149.1567 / B: 110.9003 / H: 36.0433 / S: 82.2994 / V: 154.4063
+Guess lake is: lake, 3, 2, 0, Correct. R: 14.6332 / G: 86.0644 / B: 166.1768 / H: 102.8547 / S: 226.2875 / V: 167.673
+Guess field is: field, 4, 2, 0, Correct. R: 188.3002 / G: 169.9989 / B: 42.7719 / H: 29.5668 / S: 205.0027 / V: 193.8804
+Guess lake is: lake, 0, 3, 1, Correct. R: 53.4328 / G: 102.0297 / B: 141.5716 / H: 80.4561 / S: 186.3158 / V: 162.5656
+Guess forest is: forest, 1, 3, 0, Correct. R: 71.5006 / G: 92.0696 / B: 32.1935 / H: 42.6476 / S: 152.325 / V: 93.1054
+Guess swamp is: swamp, 2, 3, 0, Correct. R: 150.5242 / G: 133.5642 / B: 78.7208 / H: 24.8003 / S: 125.4987 / V: 150.6043
+Guess mine is: mine, 3, 3, 2, Correct. R: 83.7281 / G: 72.369 / B: 45.646 / H: 50.0959 / S: 127.4685 / V: 93.4568
+Guess field is: field, 4, 3, 0, Correct. R: 195.2169 / G: 172.8436 / B: 25.4462 / H: 26.9136 / S: 217.1642 / V: 195.4105
+Guess grass is: grass, 0, 4, 0, Correct. R: 124.4929 / G: 160.574 / B: 58.0337 / H: 39.9296 / S: 167.1271 / V: 163.8189
+Guess forest is: forest, 1, 4, 1, Correct. R: 100.1856 / G: 99.1273 / B: 54.841 / H: 34.6055 / S: 125.8794 / V: 107.9694
+Guess mine is: mine, 2, 4, 2, Correct. R: 113.1316 / G: 91.6568 / B: 43.4854 / H: 31.1144 / S: 132.9607 / V: 113.6058
+Guess mine is: mine, 3, 4, 0, Correct. R: 80.9712 / G: 70.1751 / B: 41.3399 / H: 40.7856 / S: 99.0658 / V: 81.2136
+Guess field is: field, 4, 4, 1, Correct. R: 185.3605 / G: 161.831 / B: 41.6073 / H: 24.6095 / S: 194.4235 / V: 185.3695
+In image 25 the total score is 44. 25 was correct. That is 100.0%
+
+Guess forest is: forest, 0, 0, 0, Correct. R: 73.751 / G: 86.8657 / B: 38.6659 / H: 44.0616 / S: 126.6634 / V: 90.6381
+Guess forest is: forest, 1, 0, 0, Correct. R: 78.1119 / G: 100.889 / B: 39.0493 / H: 45.8644 / S: 135.9735 / V: 101.3071
+Guess forest is: forest, 2, 0, 0, Correct. R: 72.901 / G: 94.9635 / B: 39.3971 / H: 46.4623 / S: 126.6821 / V: 95.2027
+Guess forest is: forest, 3, 0, 0, Correct. R: 66.6766 / G: 91.6641 / B: 37.077 / H: 48.5429 / S: 129.6119 / V: 91.6895
+Guess lake is: lake, 4, 0, 0, Correct. R: 7.2445 / G: 87.9171 / B: 180.2477 / H: 104.8881 / S: 242.3674 / V: 180.9834
+Guess forest is: forest, 0, 1, 1, Correct. R: 101.1051 / G: 103.6727 / B: 50.323 / H: 35.1514 / S: 140.2215 / V: 111.1353
+Guess field is: field, 1, 1, 0, Correct. R: 204.4127 / G: 180.2944 / B: 24.6476 / H: 26.6036 / S: 221.2518 / V: 204.9802
+Guess forest is: forest, 2, 1, 0, Correct. R: 76.2926 / G: 95.5872 / B: 38.6353 / H: 44.2481 / S: 133.667 / V: 96.6214
+Guess forest is: forest, 3, 1, 0, Correct. R: 63.2814 / G: 91.2287 / B: 36.0954 / H: 49.9971 / S: 132.5185 / V: 91.251
+Guess lake is: lake, 4, 1, 0, Correct. R: 6.0601 / G: 91.2973 / B: 187.2122 / H: 104.8993 / S: 245.4296 / V: 187.8952
+Guess mine is: mine, 0, 2, 1, Correct. R: 85.297 / G: 73.9019 / B: 43.3992 / H: 34.4689 / S: 97.1413 / V: 85.8505
+Guess field is: field, 1, 2, 0, Correct. R: 198.8707 / G: 175.914 / B: 30.9716 / H: 26.3459 / S: 211.1544 / V: 198.8945
+Guess start is: start, 2, 2, 0, Correct. R: 158.1716 / G: 157.8898 / B: 95.9733 / H: 27.7567 / S: 96.7289 / V: 160.6827
+Guess forest is: forest, 3, 2, 0, Correct. R: 65.6846 / G: 84.4441 / B: 38.9318 / H: 49.9881 / S: 116.0399 / V: 84.6907
+Guess lake is: lake, 4, 2, 1, Correct. R: 45.2798 / G: 85.7727 / B: 128.5459 / H: 83.9526 / S: 186.5633 / V: 144.7004
+Guess field is: field, 0, 3, 0, Correct. R: 200.4585 / G: 178.0091 / B: 40.2639 / H: 25.8749 / S: 203.4563 / V: 200.5422
+Guess field is: field, 1, 3, 0, Correct. R: 199.6227 / G: 177.184 / B: 28.7924 / H: 26.1203 / S: 218.703 / V: 199.6227
+Guess forest is: forest, 2, 3, 1, Correct. R: 82.0923 / G: 89.2133 / B: 45.2199 / H: 37.3257 / S: 133.5213 / V: 94.0675
+Guess forest is: forest, 3, 3, 0, Correct. R: 58.8041 / G: 77.9683 / B: 30.6964 / H: 46.4191 / S: 137.0045 / V: 78.5261
+Guess lake is: lake, 4, 3, 1, Correct. R: 39.7704 / G: 94.5335 / B: 149.7175 / H: 85.4877 / S: 201.5105 / V: 166.5132
+Guess lake is: lake, 0, 4, 1, Correct. R: 49.1626 / G: 87.3295 / B: 124.4487 / H: 80.3962 / S: 183.8352 / V: 142.3467
+Guess lake is: lake, 1, 4, 0, Correct. R: 15.8057 / G: 98.0233 / B: 180.8093 / H: 100.8008 / S: 227.0369 / V: 182.4005
+Guess lake is: lake, 2, 4, 0, Correct. R: 9.8582 / G: 97.8406 / B: 189.4267 / H: 104.4617 / S: 239.0939 / V: 189.7475
+Guess lake is: lake, 3, 4, 0, Correct. R: 8.1463 / G: 90.5211 / B: 181.9304 / H: 105.9641 / S: 241.3682 / V: 181.9381
+Guess lake is: lake, 4, 4, 0, Correct. R: 13.5292 / G: 82.4459 / B: 165.3483 / H: 102.4118 / S: 225.0105 / V: 166.6404
+In image 26 the total score is 48. 25 was correct. That is 100.0%
+
+Guess grass is: grass, 0, 0, 0, Correct. R: 119.4145 / G: 164.8875 / B: 56.2268 / H: 41.38 / S: 165.4702 / V: 166.6189
+Guess grass is: grass, 1, 0, 0, Correct. R: 107.4917 / G: 153.3028 / B: 55.6025 / H: 43.7219 / S: 157.9915 / V: 153.3097
+Guess field is: field, 2, 0, 0, Correct. R: 197.8889 / G: 177.4696 / B: 26.9685 / H: 26.9748 / S: 220.1402 / V: 199.8602
+Guess field is: field, 3, 0, 0, Correct. R: 179.4535 / G: 155.7138 / B: 26.1729 / H: 25.3228 / S: 217.8992 / V: 179.458
+Guess field is: field, 4, 0, 0, Correct. R: 195.8035 / G: 171.3714 / B: 28.8834 / H: 25.6583 / S: 217.425 / V: 195.8035
+Guess lake is: lake, 0, 1, 0, Correct. R: 24.1918 / G: 74.2322 / B: 138.7265 / H: 95.5288 / S: 203.2923 / V: 143.7324
+Guess grass is: grass, 1, 1, 1, Correct. R: 97.225 / G: 113.8694 / B: 52.7987 / H: 38.7808 / S: 166.1604 / V: 126.6124
+Guess grass is: grass, 2, 1, 2, Correct. R: 110.1942 / G: 118.4334 / B: 50.0062 / H: 33.0007 / S: 157.7597 / V: 130.3473
+Guess field is: field, 3, 1, 0, Correct. R: 203.1961 / G: 178.3464 / B: 15.8143 / H: 26.1148 / S: 235.3158 / V: 203.2702
+Guess forest is: forest, 4, 1, 0, Correct. R: 72.25 / G: 88.5521 / B: 41.3519 / H: 43.9862 / S: 128.3245 / V: 89.5336
+Guess lake is: lake, 0, 2, 0, Correct. R: 21.8612 / G: 90.3473 / B: 163.1477 / H: 93.6577 / S: 216.2319 / V: 170.3211
+Guess grass is: grass, 1, 2, 1, Correct. R: 106.0618 / G: 116.4821 / B: 62.4816 / H: 39.0933 / S: 161.3538 / V: 136.0257
+Guess start is: start, 2, 2, 0, Correct. R: 121.955 / G: 110.1779 / B: 89.0727 / H: 32.1925 / S: 80.9441 / V: 125.1304
+Guess field is: field, 3, 2, 0, Correct. R: 196.0979 / G: 169.9628 / B: 26.8876 / H: 25.8062 / S: 217.5139 / V: 196.0979
+Guess forest is: forest, 4, 2, 1, Correct. R: 91.0043 / G: 94.6949 / B: 50.2842 / H: 34.9793 / S: 131.9074 / V: 100.3853
+Guess grass is: grass, 0, 3, 1, Correct. R: 105.6599 / G: 118.6008 / B: 45.4087 / H: 34.5197 / S: 166.0004 / V: 128.732
+Guess grass is: grass, 1, 3, 0, Correct. R: 116.8067 / G: 163.1549 / B: 52.92 / H: 42.6993 / S: 173.0322 / V: 163.1869
+Guess field is: field, 2, 3, 0, Correct. R: 203.81 / G: 179.4199 / B: 32.143 / H: 25.8947 / S: 214.451 / V: 203.8918
+Guess field is: field, 3, 3, 1, Correct. R: 181.8565 / G: 160.0163 / B: 33.8673 / H: 25.2633 / S: 203.5464 / V: 182.884
+Guess forest is: forest, 4, 3, 0, Correct. R: 83.9005 / G: 93.8604 / B: 42.0704 / H: 42.4614 / S: 125.8919 / V: 98.817
+Guess field is: field, 0, 4, 0, Correct. R: 197.5225 / G: 174.4077 / B: 24.9454 / H: 25.9517 / S: 221.4448 / V: 197.8872
+Guess grass is: grass, 1, 4, 0, Correct. R: 106.2501 / G: 157.4206 / B: 51.2999 / H: 43.8847 / S: 167.6804 / V: 157.7261
+Guess forest is: forest, 2, 4, 1, Correct. R: 86.8563 / G: 94.5475 / B: 55.0931 / H: 39.1885 / S: 109.8852 / V: 97.9377
+Guess forest is: forest, 3, 4, 0, Correct. R: 80.1784 / G: 100.1811 / B: 46.2189 / H: 43.3175 / S: 130.5415 / V: 101.1194
+Guess forest is: forest, 4, 4, 0, Correct. R: 89.4476 / G: 102.5346 / B: 48.8092 / H: 45.5027 / S: 120.8939 / V: 107.6632
+In image 27 the total score is 59. 25 was correct. That is 100.0%
+
+Guess mine is: mine, 0, 0, 2, Correct. R: 98.4582 / G: 80.3984 / B: 42.3088 / H: 36.8736 / S: 122.5666 / V: 98.8789
+Guess mine is: mine, 1, 0, 3, Correct. R: 98.1758 / G: 82.4758 / B: 46.534 / H: 33.1723 / S: 114.4039 / V: 98.7397
+Guess field is: field, 2, 0, 0, Correct. R: 207.4199 / G: 183.8949 / B: 30.0757 / H: 25.9881 / S: 217.38 / V: 207.4207
+Guess field is: field, 3, 0, 1, Correct. R: 186.4575 / G: 163.1625 / B: 39.9292 / H: 24.6009 / S: 196.1176 / V: 186.4717
+Guess swamp is: swamp, 4, 0, 0, Correct. R: 145.7118 / G: 130.2375 / B: 87.2592 / H: 22.4623 / S: 112.7976 / V: 145.7229
+Guess swamp is: swamp, 0, 1, 0, Correct. R: 147.0619 / G: 127.7337 / B: 76.3336 / H: 21.9147 / S: 135.3358 / V: 147.0806
+Guess swamp is: swamp, 1, 1, 2, Correct. R: 133.1646 / G: 116.0191 / B: 68.0418 / H: 23.6121 / S: 139.6522 / V: 133.7482
+Guess grass is: grass, 2, 1, 0, Correct. R: 117.6981 / G: 160.8804 / B: 42.2872 / H: 40.9685 / S: 190.4901 / V: 162.551
+Guess grass is: grass, 3, 1, 0, Correct. R: 117.0404 / G: 157.469 / B: 44.254 / H: 40.629 / S: 184.0864 / V: 157.5846
+Guess forest is: forest, 4, 1, 0, Correct. R: 63.9259 / G: 83.1431 / B: 30.4444 / H: 42.7399 / S: 145.5488 / V: 83.6955
+Guess swamp is: swamp, 0, 2, 0, Correct. R: 135.7588 / G: 114.7046 / B: 65.4319 / H: 20.6524 / S: 142.925 / V: 135.7588
+Guess swamp is: swamp, 1, 2, 0, Correct. R: 145.5955 / G: 134.324 / B: 91.998 / H: 24.2946 / S: 115.3023 / V: 145.694
+Guess swamp is: swamp, 2, 2, 1, Correct. R: 122.0086 / G: 110.5422 / B: 73.5201 / H: 23.4797 / S: 118.1157 / V: 122.5934
+Guess grass is: grass, 3, 2, 0, Correct. R: 131.991 / G: 171.7517 / B: 49.0003 / H: 39.1908 / S: 184.4712 / V: 173.6566
+Guess start is: start, 4, 2, 0, Correct. R: 115.7406 / G: 130.7812 / B: 118.2846 / H: 55.4395 / S: 88.0438 / V: 143.5622
+Guess swamp is: swamp, 0, 3, 2, Correct. R: 123.4162 / G: 106.8363 / B: 64.542 / H: 23.0811 / S: 138.2504 / V: 123.8507
+Guess swamp is: swamp, 1, 3, 1, Correct. R: 136.2219 / G: 120.4878 / B: 78.6069 / H: 22.6324 / S: 125.2729 / V: 136.5719
+Guess swamp is: swamp, 2, 3, 0, Correct. R: 136.8139 / G: 129.1313 / B: 101.5547 / H: 24.1947 / S: 77.8653 / V: 136.9526
+Guess grass is: grass, 3, 3, 0, Correct. R: 102.8445 / G: 146.1138 / B: 53.0717 / H: 44.2686 / S: 162.9915 / V: 146.2255
+Guess grass is: grass, 4, 3, 0, Correct. R: 104.1309 / G: 145.1564 / B: 48.9238 / H: 43.7855 / S: 173.4255 / V: 146.5029
+Guess field is: field, 0, 4, 0, Correct. R: 193.2918 / G: 169.2498 / B: 23.9556 / H: 25.5316 / S: 222.8929 / V: 193.2918
+Guess field is: field, 1, 4, 0, Correct. R: 196.9983 / G: 173.3399 / B: 28.7861 / H: 25.7479 / S: 218.0026 / V: 196.9983
+Guess field is: field, 2, 4, 0, Correct. R: 191.4852 / G: 169.6297 / B: 38.2525 / H: 25.6579 / S: 203.8911 / V: 191.4852
+Guess field is: field, 3, 4, 0, Correct. R: 194.7263 / G: 173.4873 / B: 38.1931 / H: 26.177 / S: 204.9907 / V: 195.1501
+Guess field is: field, 4, 4, 1, Correct. R: 166.5142 / G: 146.6122 / B: 39.9741 / H: 24.6552 / S: 190.1545 / V: 167.0986
+In image 28 the total score is 65. 25 was correct. That is 100.0%
+
+Guess field is: field, 0, 0, 0, Correct. R: 188.4768 / G: 167.3606 / B: 39.5295 / H: 25.6042 / S: 197.7884 / V: 188.7663
+Guess field is: field, 1, 0, 0, Correct. R: 172.8372 / G: 152.9098 / B: 36.6567 / H: 25.4863 / S: 198.9807 / V: 173.2908
+Guess field is: field, 2, 0, 0, Correct. R: 188.0487 / G: 169.4167 / B: 39.2663 / H: 28.8031 / S: 206.6379 / V: 191.8898
+Guess field is: field, 3, 0, 0, Correct. R: 193.0468 / G: 170.9363 / B: 22.6494 / H: 26.3193 / S: 221.5685 / V: 193.1531
+Guess field is: field, 4, 0, 1, Correct. R: 184.4845 / G: 161.7702 / B: 40.7129 / H: 24.8847 / S: 195.6386 / V: 184.5008
+Guess lake is: lake, 0, 1, 1, Correct. R: 65.8308 / G: 94.9237 / B: 118.326 / H: 74.0307 / S: 172.2605 / V: 142.648
+Guess lake is: lake, 1, 1, 0, Correct. R: 19.194 / G: 89.1303 / B: 162.495 / H: 100.2747 / S: 219.939 / V: 164.985
+Guess lake is: lake, 2, 1, 0, Correct. R: 16.126 / G: 82.5582 / B: 151.5883 / H: 100.3099 / S: 209.2227 / V: 152.6413
+Guess mine is: mine, 3, 1, 2, Correct. R: 78.7896 / G: 69.4296 / B: 42.9272 / H: 44.7932 / S: 129.5569 / V: 88.0646
+Guess mine is: mine, 4, 1, 0, Correct. R: 77.6749 / G: 68.3145 / B: 38.8644 / H: 34.1696 / S: 101.0472 / V: 77.9602
+Guess lake is: lake, 0, 2, 1, Correct. R: 52.7082 / G: 93.9232 / B: 128.4376 / H: 80.9748 / S: 192.7001 / V: 151.7859
+Guess forest is: forest, 1, 2, 0, Correct. R: 63.9348 / G: 82.3349 / B: 37.6708 / H: 45.4512 / S: 129.531 / V: 82.6708
+Guess swamp is: start, 2, 2, 0, Wrong. R: 103.9409 / G: 111.1597 / B: 81.6094 / H: 43.349 / S: 113.543 / V: 117.0575
+Guess swamp is: swamp, 3, 2, 0, Correct. R: 146.4227 / G: 131.1125 / B: 77.1672 / H: 25.1808 / S: 124.6671 / V: 146.4823
+Guess mine is: mine, 4, 2, 2, Correct. R: 115.0441 / G: 93.564 / B: 43.5602 / H: 28.685 / S: 135.4742 / V: 115.461
+Guess lake is: lake, 0, 3, 0, Correct. R: 30.2712 / G: 104.3167 / B: 174.9639 / H: 97.3371 / S: 210.5482 / V: 181.0294
+Guess forest is: forest, 1, 3, 0, Correct. R: 71.8223 / G: 95.2927 / B: 38.4891 / H: 45.893 / S: 132.2817 / V: 95.9658
+Guess forest is: forest, 2, 3, 1, Correct. R: 90.4339 / G: 100.2577 / B: 51.2049 / H: 37.941 / S: 131.7092 / V: 104.2978
+Guess forest is: forest, 3, 3, 0, Correct. R: 69.6962 / G: 90.7096 / B: 32.5738 / H: 42.6189 / S: 150.2725 / V: 91.3086
+Guess forest is: forest, 4, 3, 1, Correct. R: 100.3552 / G: 98.6234 / B: 53.668 / H: 34.5182 / S: 129.0081 / V: 108.1011
+Guess none is: none, 0, 4, 0, Correct. R: 158.9621 / G: 140.447 / B: 102.4836 / H: 26.873 / S: 108.4082 / V: 165.5407
+Guess none is: none, 1, 4, 0, Correct. R: 161.1082 / G: 141.3604 / B: 92.766 / H: 26.923 / S: 126.8303 / V: 170.7457
+Guess lake is: lake, 2, 4, 0, Correct. R: 33.8059 / G: 106.7615 / B: 179.8236 / H: 99.3021 / S: 207.9715 / V: 183.8096
+Guess lake is: lake, 3, 4, 0, Correct. R: 56.6284 / G: 105.1049 / B: 130.8394 / H: 75.088 / S: 189.6231 / V: 159.2912
+Guess grass is: grass, 4, 4, 0, Correct. R: 122.764 / G: 156.9137 / B: 54.9621 / H: 39.154 / S: 169.9474 / V: 161.3677
+In image 29 the total score is 37. 24 was correct. That is 96.0%
+
+Guess forest is: forest, 0, 0, 0, Correct. R: 73.2983 / G: 85.2254 / B: 37.414 / H: 44.3445 / S: 128.5275 / V: 89.6936
+Guess forest is: forest, 1, 0, 0, Correct. R: 77.3104 / G: 98.8758 / B: 37.6168 / H: 46.2027 / S: 136.3184 / V: 100.1115
+Guess forest is: forest, 2, 0, 0, Correct. R: 72.866 / G: 92.3133 / B: 38.9759 / H: 46.493 / S: 125.1016 / V: 93.7375
+Guess forest is: forest, 3, 0, 0, Correct. R: 66.3462 / G: 89.8998 / B: 37.4783 / H: 48.3983 / S: 128.1131 / V: 90.253
+Guess lake is: lake, 4, 0, 0, Correct. R: 10.5167 / G: 90.264 / B: 177.3431 / H: 102.3594 / S: 235.7964 / V: 179.0954
+Guess forest is: forest, 0, 1, 1, Correct. R: 97.1713 / G: 100.0593 / B: 49.0403 / H: 35.4101 / S: 140.3547 / V: 107.1727
+Guess field is: field, 1, 1, 0, Correct. R: 197.2496 / G: 174.8082 / B: 22.476 / H: 26.9221 / S: 222.3058 / V: 197.9847
+Guess forest is: forest, 2, 1, 0, Correct. R: 86.7154 / G: 99.1846 / B: 53.0222 / H: 52.2755 / S: 128.226 / V: 103.7671
+Guess forest is: forest, 3, 1, 0, Correct. R: 57.9539 / G: 85.6283 / B: 33.9551 / H: 50.8945 / S: 137.4879 / V: 85.8126
+Guess lake is: lake, 4, 1, 0, Correct. R: 5.687 / G: 90.641 / B: 180.5259 / H: 104.1538 / S: 245.7051 / V: 181.5537
+Guess mine is: mine, 0, 2, 1, Correct. R: 85.4379 / G: 74.6939 / B: 42.211 / H: 33.937 / S: 101.8262 / V: 86.1462
+Guess field is: field, 1, 2, 0, Correct. R: 191.634 / G: 170.1394 / B: 30.6939 / H: 26.7315 / S: 209.5542 / V: 191.6847
+Guess start is: start, 2, 2, 0, Correct. R: 120.2521 / G: 119.0447 / B: 66.1963 / H: 39.5232 / S: 132.1539 / V: 126.0001
+Guess forest is: forest, 3, 2, 0, Correct. R: 64.1424 / G: 83.8899 / B: 41.5527 / H: 51.3483 / S: 114.511 / V: 84.2562
+Guess lake is: lake, 4, 2, 1, Correct. R: 43.9973 / G: 85.5871 / B: 123.6584 / H: 82.6718 / S: 191.6276 / V: 141.588
+Guess field is: field, 0, 3, 0, Correct. R: 195.7399 / G: 175.2001 / B: 40.6672 / H: 27.0885 / S: 202.3565 / V: 196.9727
+Guess field is: field, 1, 3, 0, Correct. R: 197.3024 / G: 175.8705 / B: 29.4332 / H: 27.1632 / S: 216.3585 / V: 197.8495
+Guess forest is: forest, 2, 3, 1, Correct. R: 84.5645 / G: 92.4384 / B: 46.4667 / H: 38.4173 / S: 136.1135 / V: 97.6182
+Guess forest is: forest, 3, 3, 0, Correct. R: 56.9379 / G: 77.9368 / B: 32.9783 / H: 48.2398 / S: 137.8492 / V: 79.3164
+Guess lake is: lake, 4, 3, 1, Correct. R: 39.4153 / G: 96.6986 / B: 148.8943 / H: 84.1266 / S: 208.1652 / V: 167.7201
+Guess lake is: lake, 0, 4, 1, Correct. R: 45.12 / G: 84.5911 / B: 118.7194 / H: 81.0075 / S: 190.0794 / V: 136.881
+Guess lake is: lake, 1, 4, 0, Correct. R: 10.6082 / G: 96.5377 / B: 178.5791 / H: 101.6248 / S: 233.2607 / V: 179.3362
+Guess lake is: lake, 2, 4, 0, Correct. R: 5.9997 / G: 96.5043 / B: 186.167 / H: 104.8117 / S: 245.0258 / V: 186.1721
+Guess lake is: lake, 3, 4, 0, Correct. R: 6.4833 / G: 92.0969 / B: 180.8926 / H: 104.6701 / S: 241.4703 / V: 180.9889
+Guess lake is: lake, 4, 4, 0, Correct. R: 10.5793 / G: 81.398 / B: 160.3412 / H: 103.6227 / S: 229.005 / V: 161.0492
+In image 30 the total score is 48. 25 was correct. That is 100.0%
+
+Guess grass is: grass, 0, 0, 0, Correct. R: 118.2562 / G: 159.7741 / B: 55.8886 / H: 41.2425 / S: 163.7308 / V: 162.9377
+Guess grass is: grass, 1, 0, 0, Correct. R: 104.4954 / G: 149.7303 / B: 52.6173 / H: 43.9567 / S: 161.7659 / V: 149.7733
+Guess field is: field, 2, 0, 0, Correct. R: 191.1925 / G: 173.7221 / B: 25.8294 / H: 27.778 / S: 219.4846 / V: 194.584
+Guess field is: field, 3, 0, 0, Correct. R: 177.8942 / G: 154.611 / B: 24.2184 / H: 25.4911 / S: 220.5651 / V: 177.903
+Guess field is: field, 4, 0, 0, Correct. R: 196.4 / G: 171.9221 / B: 28.0979 / H: 25.6285 / S: 217.9894 / V: 196.4081
+Guess lake is: lake, 0, 1, 0, Correct. R: 27.8444 / G: 77.3842 / B: 134.3136 / H: 92.9058 / S: 208.5231 / V: 142.6081
+Guess grass is: grass, 1, 1, 1, Correct. R: 93.8152 / G: 112.74 / B: 53.6619 / H: 40.5794 / S: 172.1836 / V: 127.1109
+Guess grass is: grass, 2, 1, 2, Correct. R: 106.2902 / G: 111.2548 / B: 50.9222 / H: 37.0044 / S: 148.7835 / V: 125.4795
+Guess field is: field, 3, 1, 0, Correct. R: 194.4327 / G: 171.5624 / B: 18.9275 / H: 28.8874 / S: 220.1399 / V: 194.7258
+Guess forest is: forest, 4, 1, 0, Correct. R: 72.7847 / G: 88.9133 / B: 42.5931 / H: 44.078 / S: 126.9422 / V: 89.8314
+Guess lake is: lake, 0, 2, 0, Correct. R: 24.392 / G: 91.9352 / B: 157.5315 / H: 89.7658 / S: 212.0708 / V: 166.5687
+Guess grass is: grass, 1, 2, 1, Correct. R: 107.9022 / G: 119.693 / B: 64.1551 / H: 39.8359 / S: 163.7098 / V: 140.6379
+Guess forest is: start, 2, 2, 0, Wrong. R: 93.8397 / G: 84.5513 / B: 50.8192 / H: 32.5018 / S: 128.7667 / V: 98.0489
+Guess field is: field, 3, 2, 0, Correct. R: 185.5558 / G: 163.4564 / B: 31.4006 / H: 30.0444 / S: 202.0476 / V: 186.1485
+Guess forest is: forest, 4, 2, 1, Correct. R: 91.0298 / G: 95.363 / B: 51.1295 / H: 35.8619 / S: 131.4011 / V: 100.3972
+Guess grass is: grass, 0, 3, 1, Correct. R: 108.0918 / G: 122.506 / B: 44.122 / H: 34.1251 / S: 173.2584 / V: 132.8654
+Guess grass is: grass, 1, 3, 0, Correct. R: 117.8965 / G: 165.4374 / B: 53.8497 / H: 42.6754 / S: 170.719 / V: 165.4774
+Guess field is: field, 2, 3, 0, Correct. R: 202.7033 / G: 179.1504 / B: 33.2481 / H: 26.3239 / S: 211.2181 / V: 202.962
+Guess field is: field, 3, 3, 1, Correct. R: 180.8188 / G: 159.5645 / B: 33.5403 / H: 25.5302 / S: 203.6282 / V: 182.0986
+Guess forest is: forest, 4, 3, 0, Correct. R: 83.4134 / G: 93.6009 / B: 39.9322 / H: 41.948 / S: 129.8156 / V: 98.6704
+Guess field is: field, 0, 4, 0, Correct. R: 201.3413 / G: 177.868 / B: 24.879 / H: 25.9664 / S: 222.5468 / V: 201.4074
+Guess grass is: grass, 1, 4, 0, Correct. R: 105.6418 / G: 159.0176 / B: 50.9386 / H: 44.0812 / S: 170.5805 / V: 159.2775
+Guess forest is: forest, 2, 4, 1, Correct. R: 87.8706 / G: 95.5197 / B: 55.3356 / H: 39.4869 / S: 110.9181 / V: 99.0213
+Guess forest is: forest, 3, 4, 0, Correct. R: 79.5702 / G: 99.8617 / B: 47.3575 / H: 43.4875 / S: 128.6023 / V: 100.7323
+Guess forest is: forest, 4, 4, 0, Correct. R: 89.6698 / G: 102.8859 / B: 49.3837 / H: 45.4495 / S: 119.5431 / V: 107.8303
+In image 31 the total score is 59. 24 was correct. That is 96.0%
+
+Guess mine is: mine, 0, 0, 2, Correct. R: 101.0781 / G: 82.5432 / B: 41.2913 / H: 31.0937 / S: 125.8816 / V: 101.5494
+Guess mine is: mine, 1, 0, 3, Correct. R: 95.2247 / G: 81.0716 / B: 46.1603 / H: 31.3268 / S: 112.939 / V: 95.8307
+Guess field is: field, 2, 0, 0, Correct. R: 200.4863 / G: 177.9914 / B: 27.8601 / H: 26.2076 / S: 217.2439 / V: 200.5615
+Guess field is: field, 3, 0, 1, Correct. R: 184.2342 / G: 161.6214 / B: 36.9027 / H: 24.8671 / S: 200.7758 / V: 184.3087
+Guess swamp is: swamp, 4, 0, 0, Correct. R: 145.7108 / G: 131.5723 / B: 86.1272 / H: 23.3505 / S: 115.9638 / V: 145.7757
+Guess swamp is: swamp, 0, 1, 0, Correct. R: 143.7186 / G: 124.3921 / B: 72.7784 / H: 22.0957 / S: 138.9405 / V: 143.755
+Guess swamp is: swamp, 1, 1, 2, Correct. R: 133.955 / G: 117.3271 / B: 67.2138 / H: 23.647 / S: 141.5875 / V: 134.4587
+Guess grass is: grass, 2, 1, 0, Correct. R: 117.9834 / G: 160.6811 / B: 43.2228 / H: 40.7946 / S: 188.6581 / V: 162.4976
+Guess grass is: grass, 3, 1, 0, Correct. R: 116.6182 / G: 157.7375 / B: 44.3634 / H: 40.9208 / S: 183.4509 / V: 157.8275
+Guess forest is: forest, 4, 1, 0, Correct. R: 68.8549 / G: 90.3046 / B: 32.66 / H: 42.6647 / S: 147.8634 / V: 90.8
+Guess swamp is: swamp, 0, 2, 0, Correct. R: 133.6283 / G: 113.0303 / B: 63.3145 / H: 21.0466 / S: 144.5385 / V: 133.6292
+Guess swamp is: swamp, 1, 2, 0, Correct. R: 146.4368 / G: 135.77 / B: 91.9615 / H: 24.8413 / S: 116.0502 / V: 146.5643
+Guess swamp is: swamp, 2, 2, 1, Correct. R: 122.8278 / G: 111.3404 / B: 73.0823 / H: 23.5521 / S: 121.1823 / V: 123.0573
+Guess grass is: grass, 3, 2, 0, Correct. R: 132.716 / G: 174.2011 / B: 49.1226 / H: 39.3764 / S: 185.5875 / V: 175.9949
+Guess start is: start, 4, 2, 0, Correct. R: 89.0292 / G: 95.6435 / B: 74.1659 / H: 52.4418 / S: 92.6803 / V: 101.4773
+Guess swamp is: swamp, 0, 3, 2, Correct. R: 124.2309 / G: 107.9143 / B: 64.5649 / H: 22.9718 / S: 138.2005 / V: 124.5861
+Guess swamp is: swamp, 1, 3, 1, Correct. R: 135.7176 / G: 120.4349 / B: 77.7375 / H: 22.9016 / S: 126.4682 / V: 136.0374
+Guess swamp is: swamp, 2, 3, 0, Correct. R: 135.4966 / G: 128.7687 / B: 98.7737 / H: 24.8991 / S: 81.5426 / V: 136.1041
+Guess grass is: grass, 3, 3, 0, Correct. R: 103.6758 / G: 147.6034 / B: 52.7255 / H: 43.9409 / S: 165.1114 / V: 147.6917
+Guess grass is: grass, 4, 3, 0, Correct. R: 109.0265 / G: 150.5285 / B: 49.0932 / H: 42.8484 / S: 176.5969 / V: 152.6639
+Guess field is: field, 0, 4, 0, Correct. R: 194.2637 / G: 169.7578 / B: 22.1845 / H: 25.5366 / S: 225.6359 / V: 194.2637
+Guess field is: field, 1, 4, 0, Correct. R: 196.5593 / G: 172.8635 / B: 27.6655 / H: 25.7622 / S: 219.392 / V: 196.5593
+Guess field is: field, 2, 4, 0, Correct. R: 191.1241 / G: 169.1539 / B: 38.4071 / H: 25.6482 / S: 203.9698 / V: 191.1248
+Guess field is: field, 3, 4, 0, Correct. R: 194.9928 / G: 173.377 / B: 37.5698 / H: 26.1134 / S: 206.13 / V: 195.3612
+Guess field is: field, 4, 4, 1, Correct. R: 164.5752 / G: 144.2205 / B: 38.6615 / H: 24.5022 / S: 190.4944 / V: 165.1934
+In image 32 the total score is 65. 25 was correct. That is 100.0%
+
+Guess grass is: grass, 0, 0, 2, Correct. R: 92.4278 / G: 90.7382 / B: 41.5424 / H: 30.5905 / S: 153.0094 / V: 103.7063
+Guess field is: field, 1, 0, 0, Correct. R: 168.776 / G: 145.7104 / B: 10.463 / H: 26.1149 / S: 238.3212 / V: 169.7585
+Guess lake is: lake, 2, 0, 1, Correct. R: 30.9128 / G: 64.1838 / B: 114.9059 / H: 86.1398 / S: 197.6102 / V: 127.9428
+Guess lake is: lake, 3, 0, 0, Correct. R: 12.8442 / G: 65.9232 / B: 145.6073 / H: 101.1948 / S: 243.2106 / V: 153.5651
+Guess lake is: lake, 4, 0, 1, Correct. R: 43.9418 / G: 78.8341 / B: 125.0009 / H: 81.8621 / S: 196.4672 / V: 146.1093
+Guess field is: field, 0, 1, 0, Correct. R: 174.096 / G: 148.2326 / B: 5.5349 / H: 25.3711 / S: 245.6392 / V: 174.0969
+Guess field is: field, 1, 1, 1, Correct. R: 151.8853 / G: 128.5539 / B: 19.4147 / H: 23.9875 / S: 213.4244 / V: 151.8979
+Guess swamp is: swamp, 2, 1, 0, Correct. R: 102.9906 / G: 93.8121 / B: 63.5988 / H: 21.7888 / S: 104.6514 / V: 103.2124
+Guess field is: field, 3, 1, 0, Correct. R: 174.3617 / G: 151.7201 / B: 13.9602 / H: 26.5213 / S: 231.7989 / V: 175.7473
+Guess forest is: forest, 4, 1, 0, Correct. R: 57.9614 / G: 71.4868 / B: 37.3954 / H: 50.1021 / S: 107.9139 / V: 72.6165
+Guess lake is: lake, 0, 2, 1, Correct. R: 37.5937 / G: 66.7205 / B: 107.5146 / H: 81.4233 / S: 202.0034 / V: 128.0366
+Guess field is: field, 1, 2, 0, Correct. R: 178.1618 / G: 155.38 / B: 15.6427 / H: 26.0904 / S: 230.5925 / V: 178.6774
+Guess swamp is: start, 2, 2, 0, Wrong. R: 138.6888 / G: 139.9027 / B: 81.5749 / H: 27.8237 / S: 104.4053 / V: 142.6084
+Guess forest is: forest, 3, 2, 0, Correct. R: 54.3838 / G: 72.9842 / B: 31.5975 / H: 47.6578 / S: 125.4889 / V: 73.0314
+Guess forest is: forest, 4, 2, 0, Correct. R: 60.6911 / G: 70.8172 / B: 37.8088 / H: 45.8422 / S: 112.922 / V: 74.7613
+Guess lake is: lake, 0, 3, 1, Correct. R: 32.9969 / G: 73.777 / B: 136.3491 / H: 85.8439 / S: 209.5782 / V: 153.2323
+Guess forest is: forest, 1, 3, 0, Correct. R: 47.643 / G: 62.3346 / B: 23.5265 / H: 45.0656 / S: 147.5192 / V: 63.8106
+Guess forest is: forest, 2, 3, 0, Correct. R: 54.1951 / G: 69.9712 / B: 27.6545 / H: 46.7965 / S: 137.2927 / V: 71.3234
+Guess forest is: forest, 3, 3, 0, Correct. R: 61.0679 / G: 76.2672 / B: 29.2305 / H: 44.0559 / S: 139.0177 / V: 77.9311
+Guess none is: none, 4, 3, 0, Correct. R: 157.7361 / G: 118.8393 / B: 58.8042 / H: 18.5013 / S: 160.3716 / V: 157.8387
+Guess lake is: lake, 0, 4, 1, Correct. R: 33.2441 / G: 73.4472 / B: 137.6539 / H: 86.0239 / S: 212.324 / V: 155.285
+Guess forest is: forest, 1, 4, 0, Correct. R: 47.5688 / G: 61.1401 / B: 25.8094 / H: 45.4619 / S: 142.9017 / V: 63.8969
+Guess field is: field, 2, 4, 0, Correct. R: 187.4676 / G: 159.4129 / B: 6.1666 / H: 25.5998 / S: 245.0445 / V: 187.7176
+Guess field is: field, 3, 4, 0, Correct. R: 181.3797 / G: 152.5353 / B: 6.9306 / H: 25.0834 / S: 244.9358 / V: 181.3797
+Guess none is: none, 4, 4, 0, Correct. R: 132.0625 / G: 100.9176 / B: 48.529 / H: 18.4103 / S: 163.4057 / V: 132.0625
+In image 33 the total score is 21. 24 was correct. That is 96.0%
+
+Guess swamp is: swamp, 0, 0, 0, Correct. R: 128.6669 / G: 115.0474 / B: 79.2362 / H: 23.0786 / S: 115.1201 / V: 128.712
+Guess swamp is: swamp, 1, 0, 0, Correct. R: 107.1183 / G: 88.3277 / B: 49.641 / H: 19.9853 / S: 144.0449 / V: 107.1185
+Guess start is: start, 2, 0, 0, Correct. R: 105.8325 / G: 88.773 / B: 79.545 / H: 52.5371 / S: 73.9462 / V: 105.8565
+Guess grass is: grass, 3, 0, 0, Correct. R: 69.6859 / G: 117.983 / B: 22.4571 / H: 44.8881 / S: 202.4092 / V: 118.5534
+Guess grass is: grass, 4, 0, 0, Correct. R: 94.8579 / G: 138.7039 / B: 42.9796 / H: 43.5036 / S: 172.2657 / V: 139.0468
+Guess swamp is: swamp, 0, 1, 2, Correct. R: 101.8782 / G: 87.2652 / B: 51.6842 / H: 24.4709 / S: 140.5743 / V: 102.2788
+Guess field is: field, 1, 1, 0, Correct. R: 185.2257 / G: 156.6788 / B: 4.0339 / H: 25.2973 / S: 248.827 / V: 185.2257
+Guess field is: field, 2, 1, 0, Correct. R: 178.8991 / G: 152.2803 / B: 9.1837 / H: 25.4188 / S: 241.8258 / V: 178.9653
+Guess grass is: grass, 3, 1, 0, Correct. R: 81.2538 / G: 114.204 / B: 42.1563 / H: 44.7744 / S: 160.679 / V: 114.3687
+Guess grass is: grass, 4, 1, 1, Correct. R: 85.6074 / G: 101.0797 / B: 38.7084 / H: 36.2709 / S: 161.9963 / V: 108.3564
+Guess swamp is: swamp, 0, 2, 0, Correct. R: 124.151 / G: 107.8371 / B: 67.9515 / H: 21.5133 / S: 127.0631 / V: 124.1639
+Guess mine is: mine, 1, 2, 2, Correct. R: 67.5623 / G: 57.625 / B: 34.5898 / H: 41.3896 / S: 98.9388 / V: 68.4868
+Guess field is: field, 2, 2, 0, Correct. R: 180.839 / G: 154.1344 / B: 6.5721 / H: 25.4413 / S: 245.8343 / V: 180.839
+Guess field is: field, 3, 2, 0, Correct. R: 170.7931 / G: 142.9655 / B: 10.5643 / H: 25.1786 / S: 237.7957 / V: 170.8696
+Guess field is: field, 4, 2, 0, Correct. R: 183.023 / G: 154.3853 / B: 8.6844 / H: 25.2291 / S: 242.6178 / V: 183.2222
+Guess swamp is: swamp, 0, 3, 2, Correct. R: 116.2581 / G: 102.9866 / B: 68.4928 / H: 24.904 / S: 121.6414 / V: 116.9362
+Guess grass is: grass, 1, 3, 0, Correct. R: 96.5477 / G: 140.3323 / B: 33.2025 / H: 43.691 / S: 194.7207 / V: 140.6348
+Guess field is: field, 2, 3, 0, Correct. R: 180.7215 / G: 154.9204 / B: 20.4417 / H: 25.7033 / S: 224.3214 / V: 180.8987
+Guess forest is: forest, 3, 3, 1, Correct. R: 61.2252 / G: 67.1595 / B: 38.7458 / H: 44.2381 / S: 114.1177 / V: 71.0139
+Guess field is: field, 4, 3, 1, Correct. R: 163.8628 / G: 137.5174 / B: 22.7818 / H: 23.5855 / S: 210.319 / V: 163.8662
+Guess forest is: forest, 0, 4, 0, Correct. R: 58.2825 / G: 70.1915 / B: 31.3809 / H: 45.3928 / S: 128.3182 / V: 73.2423
+Guess grass is: grass, 1, 4, 0, Correct. R: 100.5652 / G: 136.3416 / B: 39.121 / H: 41.8001 / S: 180.0784 / V: 136.5358
+Guess field is: field, 2, 4, 0, Correct. R: 183.7063 / G: 156.9842 / B: 15.9251 / H: 25.5061 / S: 227.1208 / V: 183.7368
+Guess mine is: mine, 3, 4, 1, Correct. R: 62.8376 / G: 55.3931 / B: 38.842 / H: 49.6343 / S: 84.64 / V: 66.7515
+Guess lake is: lake, 4, 4, 0, Correct. R: 12.5253 / G: 66.9373 / B: 149.8802 / H: 101.4503 / S: 226.1215 / V: 153.3046
+In image 34 the total score is 36. 25 was correct. That is 100.0%
+
+Guess swamp is: swamp, 0, 0, 1, Correct. R: 109.7355 / G: 92.7867 / B: 61.4407 / H: 23.0223 / S: 117.3899 / V: 110.2862
+Guess field is: field, 1, 0, 0, Correct. R: 185.8524 / G: 157.3534 / B: 20.6618 / H: 24.7884 / S: 226.0631 / V: 185.8524
+Guess forest is: forest, 2, 0, 0, Correct. R: 52.0217 / G: 65.7702 / B: 36.6734 / H: 57.8258 / S: 105.5228 / V: 67.6802
+Guess forest is: forest, 3, 0, 0, Correct. R: 49.5833 / G: 68.27 / B: 35.7385 / H: 61.1197 / S: 116.1934 / V: 68.8468
+Guess forest is: forest, 4, 0, 0, Correct. R: 48.675 / G: 66.9686 / B: 33.2656 / H: 58.235 / S: 109.8306 / V: 67.364
+Guess swamp is: swamp, 0, 1, 0, Correct. R: 131.4487 / G: 120.8262 / B: 100.2575 / H: 21.011 / S: 69.4963 / V: 131.482
+Guess forest is: forest, 1, 1, 1, Correct. R: 69.5738 / G: 72.3695 / B: 43.2117 / H: 41.8799 / S: 121.3553 / V: 77.3612
+Guess forest is: forest, 2, 1, 0, Correct. R: 45.7099 / G: 60.7737 / B: 25.3252 / H: 50.9221 / S: 129.0126 / V: 60.985
+Guess lake is: lake, 3, 1, 1, Correct. R: 36.9062 / G: 68.6083 / B: 117.3165 / H: 84.2722 / S: 212.8102 / V: 138.9552
+Guess lake is: lake, 4, 1, 0, Correct. R: 5.8648 / G: 68.8256 / B: 169.0366 / H: 107.147 / S: 245.0205 / V: 169.9872
+Guess field is: field, 0, 2, 0, Correct. R: 178.1859 / G: 149.9623 / B: 17.086 / H: 24.4418 / S: 228.635 / V: 178.1859
+Guess field is: field, 1, 2, 0, Correct. R: 184.2594 / G: 153.449 / B: 6.0137 / H: 24.864 / S: 246.3964 / V: 184.265
+Guess start is: start, 2, 2, 0, Correct. R: 93.1275 / G: 101.8535 / B: 97.4355 / H: 59.4604 / S: 94.2823 / V: 119.7261
+Guess lake is: lake, 3, 2, 0, Correct. R: 7.5725 / G: 62.4886 / B: 153.7509 / H: 105.1386 / S: 233.3302 / V: 154.4745
+Guess lake is: lake, 4, 2, 0, Correct. R: 4.0352 / G: 59.2965 / B: 154.2667 / H: 109.2454 / S: 246.6311 / V: 154.2668
+Guess field is: field, 0, 3, 0, Correct. R: 179.7992 / G: 150.8623 / B: 6.9213 / H: 24.8915 / S: 244.0684 / V: 179.7992
+Guess field is: field, 1, 3, 0, Correct. R: 177.052 / G: 147.5374 / B: 4.8392 / H: 25.0355 / S: 246.483 / V: 177.0532
+Guess field is: field, 2, 3, 1, Correct. R: 162.5825 / G: 135.901 / B: 21.8796 / H: 24.8575 / S: 213.0248 / V: 163.1236
+Guess lake is: lake, 3, 3, 0, Correct. R: 3.9292 / G: 67.2328 / B: 165.3742 / H: 106.1862 / S: 247.4944 / V: 166.1138
+Guess lake is: lake, 4, 3, 0, Correct. R: 3.5015 / G: 63.6192 / B: 162.255 / H: 108.6205 / S: 248.8076 / V: 162.255
+Guess mine is: mine, 0, 4, 3, Correct. R: 89.0509 / G: 71.5134 / B: 40.1274 / H: 42.3903 / S: 120.5549 / V: 89.8516
+Guess mine is: mine, 1, 4, 2, Correct. R: 68.5881 / G: 54.5404 / B: 31.7623 / H: 52.3667 / S: 108.4144 / V: 69.2387
+Guess mine is: mine, 2, 4, 0, Correct. R: 68.8987 / G: 57.8003 / B: 32.4889 / H: 50.6528 / S: 95.9628 / V: 69.4478
+Guess mine is: mine, 3, 4, 2, Correct. R: 67.1028 / G: 56.7904 / B: 37.5476 / H: 51.2256 / S: 105.9535 / V: 71.9303
+Guess swamp is: swamp, 4, 4, 0, Correct. R: 113.3558 / G: 99.2251 / B: 65.9605 / H: 24.8555 / S: 126.735 / V: 116.6855
+In image 35 the total score is 46. 25 was correct. That is 100.0%
+
+Guess field is: field, 0, 0, 0, Correct. R: 189.5451 / G: 156.4832 / B: 6.8723 / H: 24.3688 / S: 244.0673 / V: 189.5451
+Guess forest is: forest, 1, 0, 1, Correct. R: 82.9175 / G: 82.1435 / B: 41.2563 / H: 34.0511 / S: 136.6015 / V: 89.3071
+Guess forest is: forest, 2, 0, 0, Correct. R: 69.7036 / G: 83.1496 / B: 36.98 / H: 41.9327 / S: 127.0456 / V: 84.4984
+Guess forest is: forest, 3, 0, 0, Correct. R: 59.577 / G: 78.2645 / B: 24.5088 / H: 43.6946 / S: 155.0867 / V: 78.7803
+Guess swamp is: swamp, 4, 0, 1, Correct. R: 124.8996 / G: 110.0306 / B: 73.285 / H: 22.3861 / S: 123.6122 / V: 125.6918
+Guess field is: field, 0, 1, 1, Correct. R: 166.1389 / G: 136.6322 / B: 20.2643 / H: 22.8532 / S: 217.7272 / V: 166.1651
+Guess field is: field, 1, 1, 0, Correct. R: 192.1599 / G: 160.2189 / B: 9.926 / H: 24.8991 / S: 241.2853 / V: 192.3563
+Guess forest is: forest, 2, 1, 0, Correct. R: 70.7883 / G: 83.3383 / B: 31.5386 / H: 42.2449 / S: 146.7266 / V: 87.5062
+Guess swamp is: start, 3, 1, 0, Wrong. R: 127.5933 / G: 133.3271 / B: 104.8439 / H: 35.9689 / S: 71.901 / V: 137.7455
+Guess grass is: grass, 4, 1, 0, Correct. R: 115.8484 / G: 154.1874 / B: 39.8493 / H: 40.5836 / S: 189.2711 / V: 154.3652
+Guess grass is: grass, 0, 2, 0, Correct. R: 95.6014 / G: 122.4576 / B: 36.5799 / H: 39.1282 / S: 181.3258 / V: 123.9067
+Guess field is: field, 1, 2, 1, Correct. R: 172.6799 / G: 143.1909 / B: 20.0353 / H: 23.5107 / S: 218.652 / V: 173.0051
+Guess forest is: forest, 2, 2, 0, Correct. R: 69.9143 / G: 83.9011 / B: 35.6499 / H: 41.096 / S: 135.1259 / V: 85.2629
+Guess forest is: forest, 3, 2, 1, Correct. R: 76.8736 / G: 81.9916 / B: 43.0172 / H: 38.0502 / S: 135.0637 / V: 86.287
+Guess grass is: grass, 4, 2, 0, Correct. R: 107.5557 / G: 155.4631 / B: 44.0376 / H: 42.7791 / S: 181.3589 / V: 155.4746
+Guess lake is: lake, 0, 3, 0, Correct. R: 13.45 / G: 79.6721 / B: 164.7841 / H: 99.044 / S: 234.4507 / V: 169.2311
+Guess forest is: forest, 1, 3, 1, Correct. R: 86.9465 / G: 84.6359 / B: 41.0285 / H: 34.6694 / S: 147.4538 / V: 95.4277
+Guess forest is: forest, 2, 3, 1, Correct. R: 84.3503 / G: 87.9605 / B: 47.0751 / H: 35.2084 / S: 134.2224 / V: 92.7118
+Guess grass is: grass, 3, 3, 0, Correct. R: 111.0535 / G: 148.084 / B: 42.16 / H: 40.5174 / S: 183.7994 / V: 148.727
+Guess grass is: grass, 4, 3, 0, Correct. R: 97.5181 / G: 134.2515 / B: 40.1973 / H: 42.0489 / S: 175.7776 / V: 134.4464
+Guess lake is: lake, 0, 4, 0, Correct. R: 12.9278 / G: 73.4541 / B: 154.108 / H: 101.6328 / S: 226.7131 / V: 155.7846
+Guess field is: field, 1, 4, 0, Correct. R: 169.3384 / G: 142.6953 / B: 12.637 / H: 27.4319 / S: 227.5022 / V: 170.8755
+Guess lake is: lake, 2, 4, 0, Correct. R: 20.4174 / G: 70.5267 / B: 142.9492 / H: 95.3989 / S: 216.9369 / V: 150.0535
+Guess grass is: grass, 3, 4, 2, Correct. R: 91.0136 / G: 94.426 / B: 38.0843 / H: 33.082 / S: 168.9611 / V: 107.4993
+Guess lake is: lake, 4, 4, 0, Correct. R: 14.7318 / G: 66.9015 / B: 146.4019 / H: 103.2019 / S: 216.2516 / V: 147.7709
+In image 36 the total score is 51. 24 was correct. That is 96.0%
+
+Guess forest is: grass, 0, 0, 0, Wrong. R: 88.1741 / G: 87.035 / B: 38.9362 / H: 30.9093 / S: 151.5272 / V: 98.375
+Guess field is: field, 1, 0, 0, Correct. R: 169.7383 / G: 146.304 / B: 8.7646 / H: 26.0624 / S: 240.8821 / V: 170.2928
+Guess lake is: lake, 2, 0, 1, Correct. R: 31.2491 / G: 63.9495 / B: 111.9366 / H: 86.3851 / S: 190.2287 / V: 124.0816
+Guess lake is: lake, 3, 0, 0, Correct. R: 10.7069 / G: 64.5809 / B: 144.6191 / H: 102.503 / S: 240.6413 / V: 150.2352
+Guess lake is: lake, 4, 0, 1, Correct. R: 42.783 / G: 77.5805 / B: 125.6162 / H: 85.4836 / S: 188.7181 / V: 143.4761
+Guess field is: field, 0, 1, 0, Correct. R: 173.7735 / G: 147.7099 / B: 4.2874 / H: 25.473 / S: 247.1597 / V: 173.7859
+Guess field is: field, 1, 1, 0, Correct. R: 143.3554 / G: 123.6803 / B: 26.2863 / H: 29.9874 / S: 202.9687 / V: 147.534
+Guess swamp is: swamp, 2, 1, 0, Correct. R: 91.9145 / G: 85.3707 / B: 62.6559 / H: 29.5567 / S: 109.3769 / V: 97.6145
+Guess field is: field, 3, 1, 0, Correct. R: 178.716 / G: 153.1492 / B: 10.2554 / H: 26.0389 / S: 237.9167 / V: 179.6352
+Guess forest is: forest, 4, 1, 0, Correct. R: 57.1339 / G: 68.9651 / B: 35.3303 / H: 48.277 / S: 107.9884 / V: 70.2406
+Guess lake is: lake, 0, 2, 0, Correct. R: 39.5403 / G: 67.0003 / B: 106.2298 / H: 81.2063 / S: 197.0842 / V: 127.7233
+Guess field is: field, 1, 2, 0, Correct. R: 172.0087 / G: 149.8875 / B: 19.6038 / H: 31.1987 / S: 218.4064 / V: 174.8464
+Guess forest is: start, 2, 2, 0, Wrong. R: 98.2815 / G: 99.9633 / B: 56.9289 / H: 41.4658 / S: 137.5978 / V: 108.3619
+Guess forest is: forest, 3, 2, 0, Correct. R: 55.1314 / G: 71.4381 / B: 31.4632 / H: 45.483 / S: 126.6081 / V: 71.456
+Guess forest is: forest, 4, 2, 0, Correct. R: 57.591 / G: 66.4409 / B: 30.7225 / H: 44.3865 / S: 122.5814 / V: 69.9431
+Guess lake is: lake, 0, 3, 0, Correct. R: 32.2344 / G: 73.446 / B: 136.8345 / H: 87.714 / S: 204.2288 / V: 151.9826
+Guess forest is: forest, 1, 3, 0, Correct. R: 45.5701 / G: 59.6473 / B: 21.3113 / H: 44.3875 / S: 148.375 / V: 60.4279
+Guess forest is: forest, 2, 3, 0, Correct. R: 55.3866 / G: 70.8262 / B: 27.4877 / H: 45.8846 / S: 137.5756 / V: 71.9609
+Guess forest is: forest, 3, 3, 0, Correct. R: 60.4509 / G: 75.3934 / B: 28.402 / H: 42.6604 / S: 141.9977 / V: 76.7203
+Guess none is: none, 4, 3, 0, Correct. R: 156.824 / G: 116.5613 / B: 51.1085 / H: 18.7167 / S: 172.1918 / V: 156.8261
+Guess lake is: lake, 0, 4, 0, Correct. R: 32.0985 / G: 73.6702 / B: 138.2736 / H: 87.2126 / S: 209.5259 / V: 154.6396
+Guess forest is: forest, 1, 4, 0, Correct. R: 47.3406 / G: 60.7908 / B: 23.5637 / H: 44.3274 / S: 146.4725 / V: 62.27
+Guess field is: field, 2, 4, 0, Correct. R: 190.3532 / G: 160.6006 / B: 5.0988 / H: 25.2506 / S: 247.3149 / V: 190.3692
+Guess field is: field, 3, 4, 0, Correct. R: 183.718 / G: 152.6591 / B: 5.0327 / H: 24.8242 / S: 247.8271 / V: 183.718
+Guess none is: none, 4, 4, 0, Correct. R: 131.4758 / G: 98.7037 / B: 43.5564 / H: 18.7161 / S: 173.197 / V: 131.4758
+In image 37 the total score is 6. 23 was correct. That is 92.0%
+
+Guess swamp is: swamp, 0, 0, 0, Correct. R: 125.6428 / G: 113.1187 / B: 77.6144 / H: 23.4912 / S: 112.9151 / V: 125.6834
+Guess swamp is: swamp, 1, 0, 0, Correct. R: 109.2529 / G: 91.3344 / B: 48.6154 / H: 20.6327 / S: 147.0304 / V: 109.2529
+Guess mine is: start, 2, 0, 0, Wrong. R: 88.7803 / G: 73.7579 / B: 42.6182 / H: 35.2402 / S: 130.5957 / V: 92.0164
+Guess grass is: grass, 3, 0, 0, Correct. R: 72.0061 / G: 115.9812 / B: 30.3112 / H: 47.7206 / S: 183.255 / V: 116.1652
+Guess grass is: grass, 4, 0, 0, Correct. R: 97.6423 / G: 142.0235 / B: 49.9038 / H: 44.4494 / S: 162.9956 / V: 142.0253
+Guess swamp is: swamp, 0, 1, 2, Correct. R: 103.0826 / G: 87.4433 / B: 48.7271 / H: 23.4357 / S: 146.1282 / V: 103.2956
+Guess field is: field, 1, 1, 0, Correct. R: 182.0887 / G: 153.464 / B: 2.7615 / H: 25.4304 / S: 250.1838 / V: 182.1371
+Guess field is: field, 2, 1, 0, Correct. R: 184.887 / G: 155.2323 / B: 7.6251 / H: 25.1371 / S: 244.3893 / V: 184.9319
+Guess grass is: grass, 3, 1, 0, Correct. R: 89.3703 / G: 117.8362 / B: 44.999 / H: 43.6182 / S: 156.197 / V: 119.257
+Guess forest is: grass, 4, 1, 0, Wrong. R: 88.6821 / G: 101.2679 / B: 41.8896 / H: 35.1492 / S: 151.5086 / V: 108.0632
+Guess swamp is: swamp, 0, 2, 0, Correct. R: 124.8521 / G: 108.8823 / B: 69.4376 / H: 21.7749 / S: 123.0344 / V: 124.8611
+Guess mine is: mine, 1, 2, 0, Correct. R: 71.544 / G: 63.2594 / B: 36.5693 / H: 34.6805 / S: 97.4836 / V: 73.7651
+Guess field is: field, 2, 2, 0, Correct. R: 185.3218 / G: 158.1276 / B: 8.0629 / H: 25.458 / S: 244.0504 / V: 185.3224
+Guess field is: field, 3, 2, 0, Correct. R: 166.2974 / G: 140.9114 / B: 13.3696 / H: 25.7117 / S: 231.4447 / V: 166.7395
+Guess field is: field, 4, 2, 0, Correct. R: 186.0222 / G: 157.6132 / B: 12.4128 / H: 25.1048 / S: 237.7082 / V: 186.0243
+Guess swamp is: swamp, 0, 3, 2, Correct. R: 111.0879 / G: 98.3967 / B: 62.6914 / H: 24.3752 / S: 125.9431 / V: 111.7405
+Guess grass is: grass, 1, 3, 0, Correct. R: 98.5688 / G: 140.8106 / B: 32.1588 / H: 42.6407 / S: 196.6195 / V: 141.04
+Guess field is: field, 2, 3, 0, Correct. R: 183.2197 / G: 157.1066 / B: 22.9421 / H: 25.4582 / S: 221.7805 / V: 183.37
+Guess forest is: forest, 3, 3, 1, Correct. R: 58.8383 / G: 64.2485 / B: 38.08 / H: 43.1291 / S: 109.3491 / V: 67.5622
+Guess field is: field, 4, 3, 1, Correct. R: 161.0274 / G: 136.1616 / B: 28.6166 / H: 23.9294 / S: 198.3409 / V: 161.2918
+Guess forest is: forest, 0, 4, 0, Correct. R: 59.9196 / G: 69.1191 / B: 29.6902 / H: 43.6744 / S: 121.9415 / V: 72.2154
+Guess grass is: grass, 1, 4, 0, Correct. R: 103.7899 / G: 137.7493 / B: 38.1185 / H: 39.7513 / S: 182.1553 / V: 138.0938
+Guess field is: field, 2, 4, 0, Correct. R: 186.6719 / G: 159.3909 / B: 16.6012 / H: 25.2572 / S: 228.8817 / V: 186.7285
+Guess mine is: mine, 3, 4, 1, Correct. R: 67.9932 / G: 58.7242 / B: 38.9432 / H: 49.0734 / S: 91.371 / V: 71.4988
+Guess lake is: lake, 4, 4, 0, Correct. R: 11.48 / G: 69.8368 / B: 156.0484 / H: 102.3899 / S: 221.2241 / V: 157.2692
+In image 38 the total score is 30. 23 was correct. That is 92.0%
+
+Guess swamp is: swamp, 0, 0, 1, Correct. R: 106.4982 / G: 91.1873 / B: 60.3211 / H: 21.6256 / S: 116.1921 / V: 106.9014
+Guess field is: field, 1, 0, 0, Correct. R: 184.5487 / G: 157.2379 / B: 22.6616 / H: 24.931 / S: 222.4047 / V: 184.6468
+Guess forest is: forest, 2, 0, 0, Correct. R: 58.3937 / G: 69.6704 / B: 34.9826 / H: 54.5445 / S: 108.2884 / V: 72.4742
+Guess forest is: forest, 3, 0, 0, Correct. R: 53.5273 / G: 72.2027 / B: 35.9558 / H: 56.5122 / S: 115.0326 / V: 72.7577
+Guess forest is: forest, 4, 0, 0, Correct. R: 50.895 / G: 68.0937 / B: 30.0003 / H: 52.2657 / S: 117.9479 / V: 69.0625
+Guess swamp is: swamp, 0, 1, 0, Correct. R: 128.107 / G: 117.5453 / B: 94.7172 / H: 21.2862 / S: 75.4999 / V: 128.135
+Guess forest is: forest, 1, 1, 0, Correct. R: 71.8809 / G: 72.7268 / B: 43.4266 / H: 37.7601 / S: 125.4333 / V: 78.4061
+Guess forest is: forest, 2, 1, 0, Correct. R: 49.7421 / G: 64.3917 / B: 35.962 / H: 53.4089 / S: 128.2618 / V: 67.9313
+Guess lake is: lake, 3, 1, 0, Correct. R: 40.3648 / G: 70.0142 / B: 112.9493 / H: 85.1833 / S: 197.5447 / V: 132.7654
+Guess lake is: lake, 4, 1, 0, Correct. R: 6.0705 / G: 69.2277 / B: 170.1801 / H: 106.816 / S: 243.9373 / V: 171.1956
+Guess field is: field, 0, 2, 0, Correct. R: 180.6222 / G: 153.0699 / B: 19.9867 / H: 24.4875 / S: 223.8197 / V: 180.6222
+Guess field is: field, 1, 2, 0, Correct. R: 184.0644 / G: 153.416 / B: 6.2244 / H: 24.8972 / S: 246.4619 / V: 184.0644
+Guess forest is: start, 2, 2, 0, Wrong. R: 84.3203 / G: 80.4565 / B: 52.6152 / H: 47.4346 / S: 119.1645 / V: 91.9133
+Guess lake is: lake, 3, 2, 0, Correct. R: 14.2873 / G: 62.127 / B: 143.4387 / H: 104.3669 / S: 213.4062 / V: 144.4762
+Guess lake is: lake, 4, 2, 0, Correct. R: 3.4977 / G: 59.5568 / B: 153.7027 / H: 109.0777 / S: 247.4502 / V: 153.7027
+Guess field is: field, 0, 3, 0, Correct. R: 185.0252 / G: 156.6753 / B: 7.5255 / H: 25.1212 / S: 243.0738 / V: 185.0254
+Guess field is: field, 1, 3, 0, Correct. R: 182.5633 / G: 152.7889 / B: 3.6866 / H: 25.003 / S: 249.4772 / V: 182.5633
+Guess field is: field, 2, 3, 1, Correct. R: 164.4277 / G: 137.2719 / B: 20.4747 / H: 25.0447 / S: 215.0497 / V: 165.1893
+Guess lake is: lake, 3, 3, 0, Correct. R: 12.5925 / G: 73.5654 / B: 161.4196 / H: 102.4933 / S: 244.8698 / V: 169.2178
+Guess lake is: lake, 4, 3, 0, Correct. R: 3.0348 / G: 64.5704 / B: 162.1939 / H: 108.3626 / S: 250.0544 / V: 162.1939
+Guess mine is: mine, 0, 4, 3, Correct. R: 101.8934 / G: 81.4956 / B: 43.2298 / H: 34.2443 / S: 126.8064 / V: 102.3552
+Guess mine is: mine, 1, 4, 2, Correct. R: 72.4234 / G: 57.9064 / B: 32.7115 / H: 48.7523 / S: 110.3354 / V: 72.8368
+Guess mine is: mine, 2, 4, 0, Correct. R: 75.4201 / G: 63.0493 / B: 32.9615 / H: 52.3283 / S: 104.2534 / V: 75.7837
+Guess mine is: mine, 3, 4, 2, Correct. R: 71.4792 / G: 60.5654 / B: 39.087 / H: 46.7738 / S: 107.8353 / V: 77.0152
+Guess swamp is: swamp, 4, 4, 0, Correct. R: 110.3914 / G: 97.2945 / B: 65.1032 / H: 26.287 / S: 125.7811 / V: 114.8413
+In image 39 the total score is 35. 24 was correct. That is 96.0%
+
+Guess field is: field, 0, 0, 0, Correct. R: 190.0061 / G: 157.0752 / B: 8.1834 / H: 24.2679 / S: 241.459 / V: 190.0061
+Guess forest is: forest, 1, 0, 1, Correct. R: 84.6184 / G: 82.9435 / B: 41.1726 / H: 34.1706 / S: 137.8371 / V: 90.613
+Guess forest is: forest, 2, 0, 0, Correct. R: 72.9663 / G: 84.8107 / B: 38.0368 / H: 42.0762 / S: 123.325 / V: 87.0086
+Guess forest is: forest, 3, 0, 0, Correct. R: 62.7596 / G: 79.3183 / B: 28.8119 / H: 43.5497 / S: 148.371 / V: 80.6347
+Guess swamp is: swamp, 4, 0, 1, Correct. R: 130.5868 / G: 114.1269 / B: 77.3885 / H: 21.6938 / S: 118.1831 / V: 130.9226
+Guess field is: field, 0, 1, 1, Correct. R: 165.7968 / G: 136.7177 / B: 21.0533 / H: 22.9559 / S: 215.6227 / V: 165.8167
+Guess field is: field, 1, 1, 0, Correct. R: 193.7771 / G: 162.3265 / B: 13.1801 / H: 25.0128 / S: 237.2867 / V: 194.0253
+Guess forest is: forest, 2, 1, 0, Correct. R: 70.119 / G: 81.3374 / B: 32.829 / H: 42.6686 / S: 139.1886 / V: 85.5031
+Guess start is: start, 3, 1, 0, Correct. R: 96.2349 / G: 100.6953 / B: 72.0213 / H: 43.0798 / S: 88.1016 / V: 104.7254
+Guess grass is: grass, 4, 1, 0, Correct. R: 119.9369 / G: 158.7517 / B: 45.8327 / H: 40.5028 / S: 181.6788 / V: 158.9488
+Guess grass is: grass, 0, 2, 0, Correct. R: 96.3318 / G: 122.3164 / B: 36.2587 / H: 38.6617 / S: 182.3578 / V: 124.2593
+Guess field is: field, 1, 2, 1, Correct. R: 172.2042 / G: 143.8659 / B: 18.9823 / H: 24.0066 / S: 220.0621 / V: 172.9667
+Guess forest is: forest, 2, 2, 0, Correct. R: 69.1051 / G: 82.7799 / B: 34.7241 / H: 41.2925 / S: 136.3966 / V: 84.2939
+Guess forest is: forest, 3, 2, 1, Correct. R: 73.5385 / G: 78.3522 / B: 40.5197 / H: 38.1624 / S: 135.4676 / V: 82.2138
+Guess grass is: grass, 4, 2, 0, Correct. R: 101.1876 / G: 150.6413 / B: 42.2008 / H: 43.6404 / S: 180.6951 / V: 150.6485
+Guess lake is: lake, 0, 3, 0, Correct. R: 11.1062 / G: 63.3065 / B: 145.2938 / H: 98.6328 / S: 237.2734 / V: 150.2269
+Guess forest is: forest, 1, 3, 1, Correct. R: 66.2066 / G: 66.2781 / B: 33.7305 / H: 38.3204 / S: 149.5991 / V: 76.2084
+Guess forest is: forest, 2, 3, 1, Correct. R: 64.5547 / G: 69.5793 / B: 39.2977 / H: 39.0872 / S: 126.1656 / V: 72.1114
+Guess grass is: grass, 3, 3, 0, Correct. R: 78.931 / G: 118.1581 / B: 27.88 / H: 43.3217 / S: 195.9347 / V: 118.4593
+Guess grass is: grass, 4, 3, 0, Correct. R: 71.5881 / G: 107.3566 / B: 33.4576 / H: 45.2847 / S: 173.5656 / V: 107.4313
+Guess lake is: lake, 0, 4, 0, Correct. R: 7.7655 / G: 53.6769 / B: 134.8811 / H: 101.5649 / S: 235.0065 / V: 137.3843
+Guess field is: field, 1, 4, 0, Correct. R: 139.407 / G: 117.6793 / B: 11.7588 / H: 30.1711 / S: 230.2765 / V: 144.0627
+Guess lake is: lake, 2, 4, 0, Correct. R: 19.5408 / G: 61.611 / B: 132.1015 / H: 95.2489 / S: 217.4485 / V: 138.8592
+Guess grass is: grass, 3, 4, 2, Correct. R: 81.7621 / G: 88.6178 / B: 35.9686 / H: 35.8509 / S: 167.7547 / V: 100.2883
+Guess lake is: lake, 4, 4, 0, Correct. R: 14.3664 / G: 64.5797 / B: 144.6174 / H: 105.0137 / S: 217.2194 / V: 145.8196
+In image 40 the total score is 51. 25 was correct. That is 100.0%
+
+Guess field is: field, 0, 0, 0, Correct. R: 188.7772 / G: 160.2263 / B: 12.5804 / H: 24.6552 / S: 233.5356 / V: 188.7772
+Guess swamp is: swamp, 1, 0, 0, Correct. R: 114.1324 / G: 100.9774 / B: 70.061 / H: 20.5589 / S: 101.9814 / V: 114.145
+Guess field is: field, 2, 0, 1, Correct. R: 170.788 / G: 143.3885 / B: 25.3694 / H: 23.5411 / S: 210.0334 / V: 170.7925
+Guess forest is: forest, 3, 0, 0, Correct. R: 55.5961 / G: 64.0667 / B: 25.8039 / H: 43.5789 / S: 129.7552 / V: 66.9857
+Guess lake is: lake, 4, 0, 1, Correct. R: 43.3584 / G: 77.5218 / B: 126.3404 / H: 83.3472 / S: 199.2642 / V: 147.7089
+Guess grass is: grass, 0, 1, 2, Correct. R: 115.4892 / G: 117.7223 / B: 52.7698 / H: 31.4311 / S: 152.7772 / V: 132.3321
+Guess grass is: grass, 1, 1, 0, Correct. R: 92.1945 / G: 130.8143 / B: 47.3921 / H: 44.4483 / S: 162.5836 / V: 130.9427
+Guess field is: field, 2, 1, 0, Correct. R: 184.6985 / G: 158.9128 / B: 22.2095 / H: 25.53 / S: 224.51 / V: 185.1963
+Guess field is: field, 3, 1, 0, Correct. R: 181.3283 / G: 154.3132 / B: 15.2856 / H: 25.3001 / S: 233.5503 / V: 181.5159
+Guess lake is: lake, 4, 1, 0, Correct. R: 6.6096 / G: 63.0842 / B: 149.5703 / H: 105.8431 / S: 241.3016 / V: 150.9069
+Guess forest is: forest, 0, 2, 0, Correct. R: 62.0907 / G: 73.9102 / B: 30.9266 / H: 43.017 / S: 135.2581 / V: 77.1015
+Guess lake is: lake, 1, 2, 1, Correct. R: 38.5012 / G: 82.0873 / B: 138.956 / H: 82.77 / S: 212.6103 / V: 161.3243
+Guess lake is: lake, 2, 2, 0, Correct. R: 8.2319 / G: 65.0004 / B: 152.0534 / H: 104.5278 / S: 234.1262 / V: 153.3456
+Guess lake is: lake, 3, 2, 0, Correct. R: 5.618 / G: 69.9381 / B: 164.649 / H: 106.5814 / S: 244.1529 / V: 165.6393
+Guess lake is: lake, 4, 2, 0, Correct. R: 3.5176 / G: 71.6761 / B: 169.3706 / H: 107.575 / S: 249.003 / V: 169.3847
+Guess mine is: mine, 0, 3, 2, Correct. R: 87.2026 / G: 71.3066 / B: 42.0791 / H: 47.5938 / S: 105.6164 / V: 87.9076
+Guess swamp is: swamp, 1, 3, 0, Correct. R: 111.5264 / G: 98.2716 / B: 67.7212 / H: 24.6215 / S: 119.8626 / V: 113.3318
+Guess field is: field, 2, 3, 0, Correct. R: 190.7269 / G: 160.1877 / B: 8.557 / H: 25.8363 / S: 241.2573 / V: 191.1565
+Guess forest is: forest, 3, 3, 1, Correct. R: 69.1174 / G: 71.7972 / B: 39.1662 / H: 39.0804 / S: 135.2995 / V: 78.5445
+Guess lake is: lake, 4, 3, 0, Correct. R: 8.187 / G: 80.3568 / B: 178.4638 / H: 104.4951 / S: 236.5673 / V: 179.221
+Guess mine is: mine, 0, 4, 3, Correct. R: 93.5994 / G: 75.2889 / B: 42.0701 / H: 43.0375 / S: 126.2025 / V: 94.5699
+Guess field is: field, 1, 4, 0, Correct. R: 186.7316 / G: 157.4082 / B: 6.4808 / H: 25.0508 / S: 244.899 / V: 186.7344
+Guess field is: field, 2, 4, 0, Correct. R: 186.1097 / G: 155.6158 / B: 9.6949 / H: 24.7962 / S: 241.7577 / V: 186.1097
+Guess forest is: forest, 3, 4, 0, Correct. R: 58.6821 / G: 74.1672 / B: 28.3883 / H: 43.8553 / S: 147.9749 / V: 75.5663
+Guess start is: start, 4, 4, 0, Correct. R: 132.8394 / G: 131.1695 / B: 75.3226 / H: 27.1367 / S: 109.1892 / V: 136.0985
+In image 41 the total score is 33. 25 was correct. That is 100.0%
+
+Guess field is: field, 0, 0, 1, Correct. R: 155.7311 / G: 132.695 / B: 34.4507 / H: 23.0929 / S: 185.6454 / V: 155.7336
+Guess lake is: lake, 1, 0, 0, Correct. R: 18.7213 / G: 62.9475 / B: 131.5566 / H: 97.9838 / S: 219.6943 / V: 139.3543
+Guess lake is: lake, 2, 0, 0, Correct. R: 8.1386 / G: 72.6863 / B: 176.7507 / H: 104.8104 / S: 231.2168 / V: 177.6302
+Guess forest is: forest, 3, 0, 0, Correct. R: 49.8501 / G: 69.9417 / B: 31.2166 / H: 53.0522 / S: 126.2346 / V: 70.9787
+Guess forest is: forest, 4, 0, 0, Correct. R: 60.3205 / G: 71.7297 / B: 34.0643 / H: 47.6988 / S: 117.3274 / V: 74.9606
+Guess field is: field, 0, 1, 0, Correct. R: 175.0906 / G: 150.0055 / B: 26.4928 / H: 24.5625 / S: 213.3235 / V: 175.0906
+Guess field is: field, 1, 1, 0, Correct. R: 175.0338 / G: 150.1293 / B: 27.5919 / H: 27.5278 / S: 216.816 / V: 177.2742
+Guess forest is: forest, 2, 1, 1, Correct. R: 68.2439 / G: 73.9411 / B: 44.8966 / H: 47.5106 / S: 106.4886 / V: 77.8325
+Guess forest is: forest, 3, 1, 0, Correct. R: 49.715 / G: 69.168 / B: 36.2882 / H: 57.6028 / S: 119.6038 / V: 69.3322
+Guess forest is: forest, 4, 1, 0, Correct. R: 46.9454 / G: 64.356 / B: 30.9527 / H: 56.3045 / S: 118.4374 / V: 64.6949
+Guess field is: field, 0, 2, 0, Correct. R: 175.609 / G: 147.5151 / B: 17.5645 / H: 24.4526 / S: 223.9588 / V: 175.6199
+Guess lake is: lake, 1, 2, 1, Correct. R: 37.6626 / G: 69.6235 / B: 116.1934 / H: 84.2263 / S: 201.2044 / V: 135.536
+Guess forest is: forest, 2, 2, 0, Correct. R: 51.1677 / G: 65.419 / B: 41.1295 / H: 53.6817 / S: 108.9212 / V: 69.7568
+Guess forest is: forest, 3, 2, 0, Correct. R: 48.5955 / G: 66.4102 / B: 28.9621 / H: 48.2904 / S: 131.927 / V: 66.4533
+Guess swamp is: swamp, 4, 2, 0, Correct. R: 131.9387 / G: 115.274 / B: 79.0195 / H: 21.5475 / S: 111.4449 / V: 131.9956
+Guess field is: field, 0, 3, 0, Correct. R: 178.5723 / G: 150.0018 / B: 8.3446 / H: 24.6969 / S: 240.2686 / V: 178.5723
+Guess lake is: lake, 1, 3, 1, Correct. R: 42.2879 / G: 68.5636 / B: 105.2263 / H: 80.1192 / S: 205.1702 / V: 129.8689
+Guess lake is: lake, 2, 3, 0, Correct. R: 11.2801 / G: 73.188 / B: 175.9857 / H: 104.9366 / S: 237.189 / V: 178.9186
+Guess forest is: forest, 3, 3, 1, Correct. R: 68.5827 / G: 74.1129 / B: 37.3455 / H: 40.5626 / S: 141.6449 / V: 78.7285
+Guess mine is: mine, 4, 3, 2, Correct. R: 74.4369 / G: 59.8983 / B: 33.8014 / H: 48.0431 / S: 112.5789 / V: 75.6929
+Guess field is: field, 0, 4, 0, Correct. R: 179.8156 / G: 150.9139 / B: 11.4724 / H: 24.4821 / S: 233.4912 / V: 179.8156
+Guess field is: field, 1, 4, 0, Correct. R: 177.4914 / G: 149.911 / B: 11.8616 / H: 24.9074 / S: 236.1923 / V: 177.4914
+Guess field is: field, 2, 4, 0, Correct. R: 177.4291 / G: 149.9745 / B: 18.2598 / H: 24.8976 / S: 228.4604 / V: 177.4321
+Guess forest is: forest, 3, 4, 1, Correct. R: 63.5115 / G: 69.3198 / B: 38.7331 / H: 42.157 / S: 124.3523 / V: 73.5609
+Guess start is: start, 4, 4, 0, Correct. R: 94.4655 / G: 111.5086 / B: 125.0632 / H: 65.8336 / S: 97.2469 / V: 138.1277
+In image 42 the total score is 43. 25 was correct. That is 100.0%
+
+Guess forest is: forest, 0, 0, 1, Correct. R: 95.8777 / G: 90.1924 / B: 50.2903 / H: 35.0892 / S: 125.4053 / V: 101.2738
+Guess forest is: forest, 1, 0, 0, Correct. R: 63.8502 / G: 81.3424 / B: 33.218 / H: 42.7382 / S: 134.413 / V: 81.9102
+Guess forest is: forest, 2, 0, 0, Correct. R: 62.6953 / G: 76.2477 / B: 37.5749 / H: 42.6164 / S: 119.9784 / V: 76.5284
+Guess field is: field, 3, 0, 1, Correct. R: 172.2289 / G: 145.0064 / B: 22.6202 / H: 23.9991 / S: 215.196 / V: 172.581
+Guess field is: field, 4, 0, 1, Correct. R: 168.1374 / G: 142.1782 / B: 30.8663 / H: 23.4869 / S: 200.7654 / V: 168.1434
+Guess grass is: grass, 0, 1, 0, Correct. R: 115.9876 / G: 149.485 / B: 47.8471 / H: 39.4383 / S: 174.7176 / V: 152.2746
+Guess grass is: grass, 1, 1, 0, Correct. R: 109.6754 / G: 144.5283 / B: 36.4404 / H: 39.5977 / S: 192.125 / V: 145.0126
+Guess grass is: grass, 2, 1, 0, Correct. R: 106.2571 / G: 145.2374 / B: 43.7289 / H: 42.1796 / S: 178.3899 / V: 145.3535
+Guess field is: field, 3, 1, 1, Correct. R: 166.1367 / G: 139.8599 / B: 24.1326 / H: 23.8113 / S: 212.346 / V: 166.7192
+Guess mine is: mine, 4, 1, 0, Correct. R: 64.5022 / G: 55.4091 / B: 33.9316 / H: 53.2747 / S: 87.8931 / V: 65.351
+Guess lake is: lake, 0, 2, 0, Correct. R: 28.167 / G: 71.5661 / B: 141.1169 / H: 94.557 / S: 204.2037 / V: 149.1003
+Guess grass is: grass, 1, 2, 0, Correct. R: 93.474 / G: 108.153 / B: 51.4955 / H: 38.762 / S: 174.5949 / V: 124.5312
+Guess start is: start, 2, 2, 0, Correct. R: 111.8896 / G: 117.2757 / B: 90.1188 / H: 36.9012 / S: 78.8105 / V: 121.8874
+Guess field is: field, 3, 2, 0, Correct. R: 177.4639 / G: 153.3718 / B: 20.0439 / H: 26.8604 / S: 221.1663 / V: 178.6205
+Guess mine is: mine, 4, 2, 1, Correct. R: 66.2628 / G: 57.5153 / B: 38.2047 / H: 47.0594 / S: 83.8411 / V: 67.9208
+Guess swamp is: swamp, 0, 3, 2, Correct. R: 96.0875 / G: 83.0678 / B: 58.9956 / H: 26.0981 / S: 120.6467 / V: 98.2686
+Guess grass is: grass, 1, 3, 0, Correct. R: 96.615 / G: 139.7826 / B: 25.5949 / H: 42.2716 / S: 210.8421 / V: 141.4553
+Guess grass is: grass, 2, 3, 1, Correct. R: 91.6145 / G: 108.5626 / B: 27.4066 / H: 35.2655 / S: 198.2798 / V: 120.0026
+Guess field is: field, 3, 3, 0, Correct. R: 165.1352 / G: 139.5686 / B: 5.0129 / H: 25.3935 / S: 246.3723 / V: 166.2649
+Guess grass is: grass, 4, 3, 0, Correct. R: 81.7113 / G: 118.2905 / B: 36.4183 / H: 44.698 / S: 176.6901 / V: 119.0937
+Guess lake is: lake, 0, 4, 0, Correct. R: 8.3526 / G: 57.5286 / B: 150.4413 / H: 102.9216 / S: 227.6452 / V: 152.1471
+Guess grass is: grass, 1, 4, 2, Correct. R: 79.5562 / G: 87.6339 / B: 37.4567 / H: 37.2299 / S: 170.5602 / V: 102.2632
+Guess grass is: grass, 2, 4, 0, Correct. R: 77.7804 / G: 115.9647 / B: 35.7556 / H: 45.2174 / S: 176.9756 / V: 116.5357
+Guess grass is: grass, 3, 4, 0, Correct. R: 77.7656 / G: 106.5298 / B: 44.2785 / H: 44.8079 / S: 148.1304 / V: 108.3621
+Guess forest is: grass, 4, 4, 0, Wrong. R: 64.8496 / G: 97.6872 / B: 43.3386 / H: 49.2136 / S: 142.3513 / V: 97.7452
+In image 43 the total score is 49. 24 was correct. That is 96.0%
+
+Guess field is: field, 0, 0, 0, Correct. R: 189.1417 / G: 161.6661 / B: 11.2501 / H: 25.0408 / S: 236.395 / V: 189.1417
+Guess swamp is: swamp, 1, 0, 0, Correct. R: 110.8179 / G: 98.5898 / B: 70.2527 / H: 20.6272 / S: 100.6856 / V: 110.8273
+Guess field is: field, 2, 0, 1, Correct. R: 172.8726 / G: 145.9513 / B: 24.3405 / H: 23.8155 / S: 211.7478 / V: 172.8796
+Guess forest is: forest, 3, 0, 0, Correct. R: 52.2286 / G: 63.0419 / B: 25.5352 / H: 45.0907 / S: 128.8687 / V: 64.5185
+Guess lake is: lake, 4, 0, 1, Correct. R: 39.5966 / G: 76.7709 / B: 129.068 / H: 86.0389 / S: 201.8597 / V: 147.9669
+Guess grass is: grass, 0, 1, 2, Correct. R: 112.5541 / G: 116.3007 / B: 50.3668 / H: 31.9291 / S: 154.8628 / V: 130.5159
+Guess grass is: grass, 1, 1, 0, Correct. R: 89.9404 / G: 128.2797 / B: 46.7125 / H: 44.5575 / S: 162.4902 / V: 128.3912
+Guess field is: field, 2, 1, 0, Correct. R: 186.4133 / G: 161.1435 / B: 22.7243 / H: 25.5514 / S: 224.3693 / V: 186.6797
+Guess field is: field, 3, 1, 0, Correct. R: 181.7452 / G: 154.912 / B: 15.8042 / H: 25.3425 / S: 233.155 / V: 181.864
+Guess lake is: lake, 4, 1, 0, Correct. R: 6.2379 / G: 64.6406 / B: 152.1159 / H: 106.1734 / S: 241.9006 / V: 153.1237
+Guess forest is: forest, 0, 2, 0, Correct. R: 59.5453 / G: 71.6034 / B: 28.6526 / H: 43.0786 / S: 135.3828 / V: 74.4291
+Guess lake is: lake, 1, 2, 1, Correct. R: 37.3542 / G: 81.4809 / B: 140.3541 / H: 84.0849 / S: 211.6353 / V: 161.3123
+Guess lake is: lake, 2, 2, 0, Correct. R: 8.7044 / G: 64.9155 / B: 152.1091 / H: 104.5534 / S: 233.6945 / V: 153.6583
+Guess lake is: lake, 3, 2, 0, Correct. R: 5.6784 / G: 69.9999 / B: 164.9338 / H: 106.5647 / S: 244.4907 / V: 165.9761
+Guess lake is: lake, 4, 2, 0, Correct. R: 3.8484 / G: 72.8114 / B: 171.8759 / H: 107.6027 / S: 248.5551 / V: 171.8854
+Guess mine is: mine, 0, 3, 2, Correct. R: 85.6317 / G: 70.5495 / B: 41.0296 / H: 46.6996 / S: 105.7719 / V: 86.4627
+Guess swamp is: swamp, 1, 3, 0, Correct. R: 110.426 / G: 98.3308 / B: 68.7087 / H: 25.1402 / S: 122.4352 / V: 114.0934
+Guess field is: field, 2, 3, 0, Correct. R: 188.0569 / G: 158.9724 / B: 9.1487 / H: 26.7151 / S: 242.9106 / V: 189.6396
+Guess forest is: forest, 3, 3, 1, Correct. R: 66.7101 / G: 71.0161 / B: 40.8866 / H: 41.1928 / S: 136.943 / V: 78.1259
+Guess lake is: lake, 4, 3, 0, Correct. R: 20.0813 / G: 78.9509 / B: 156.9181 / H: 99.602 / S: 206.2161 / V: 159.9491
+Guess mine is: mine, 0, 4, 3, Correct. R: 91.3474 / G: 73.8525 / B: 41.5204 / H: 40.1972 / S: 123.3431 / V: 92.3148
+Guess field is: field, 1, 4, 0, Correct. R: 186.1331 / G: 157.3601 / B: 7.3997 / H: 25.0606 / S: 243.8008 / V: 186.1331
+Guess field is: field, 2, 4, 0, Correct. R: 185.352 / G: 155.1573 / B: 8.376 / H: 24.8562 / S: 243.66 / V: 185.352
+Guess forest is: forest, 3, 4, 0, Correct. R: 56.5224 / G: 73.1027 / B: 28.2644 / H: 44.1571 / S: 148.4388 / V: 73.944
+Guess start is: start, 4, 4, 0, Correct. R: 119.938 / G: 112.3327 / B: 60.5486 / H: 34.1494 / S: 130.9065 / V: 122.5013
+In image 44 the total score is 33. 25 was correct. That is 100.0%
+
+Guess forest is: forest, 0, 0, 0, Correct. R: 62.2919 / G: 71.4104 / B: 29.9341 / H: 44.2376 / S: 137.4999 / V: 75.8948
+Guess field is: field, 1, 0, 0, Correct. R: 180.4094 / G: 152.9487 / B: 6.0877 / H: 25.3642 / S: 244.2991 / V: 180.9716
+Guess swamp is: swamp, 2, 0, 0, Correct. R: 93.6895 / G: 79.1071 / B: 46.3438 / H: 21.6317 / S: 135.8054 / V: 93.8754
+Guess field is: field, 3, 0, 0, Correct. R: 186.1116 / G: 157.0022 / B: 3.8888 / H: 25.2408 / S: 249.4261 / V: 186.1192
+Guess grass is: grass, 4, 0, 0, Correct. R: 97.8395 / G: 129.9444 / B: 39.9945 / H: 40.5284 / S: 177.3574 / V: 130.338
+Guess forest is: forest, 0, 1, 0, Correct. R: 57.0327 / G: 71.1421 / B: 46.7684 / H: 56.3766 / S: 133.2355 / V: 80.5235
+Guess field is: field, 1, 1, 0, Correct. R: 176.9113 / G: 151.1319 / B: 8.5313 / H: 25.6481 / S: 242.1637 / V: 177.1853
+Guess swamp is: swamp, 2, 1, 0, Correct. R: 132.6484 / G: 124.2681 / B: 102.5604 / H: 21.885 / S: 65.43 / V: 132.6834
+Guess swamp is: swamp, 3, 1, 2, Correct. R: 111.1905 / G: 96.6125 / B: 61.1654 / H: 23.9855 / S: 131.7831 / V: 111.6289
+Guess swamp is: swamp, 4, 1, 1, Correct. R: 98.8744 / G: 86.8122 / B: 59.1767 / H: 23.0438 / S: 113.776 / V: 99.1372
+Guess start is: start, 0, 2, 0, Correct. R: 78.9203 / G: 86.3685 / B: 100.5024 / H: 73.8006 / S: 115.1658 / V: 120.6545
+Guess field is: field, 1, 2, 0, Correct. R: 172.4464 / G: 145.7905 / B: 6.156 / H: 26.0933 / S: 242.283 / V: 172.4921
+Guess mine is: mine, 2, 2, 2, Correct. R: 71.1385 / G: 59.3958 / B: 36.1149 / H: 45.7893 / S: 102.5713 / V: 72.0842
+Guess swamp is: swamp, 3, 2, 0, Correct. R: 111.9031 / G: 93.798 / B: 55.6045 / H: 21.4862 / S: 128.4515 / V: 112.1312
+Guess swamp is: swamp, 4, 2, 0, Correct. R: 111.3134 / G: 103.3675 / B: 78.6338 / H: 25.916 / S: 93.8936 / V: 113.002
+Guess forest is: forest, 0, 3, 0, Correct. R: 65.7028 / G: 73.7158 / B: 33.3004 / H: 45.8491 / S: 130.2252 / V: 79.9749
+Guess field is: field, 1, 3, 0, Correct. R: 182.4933 / G: 156.7933 / B: 10.7495 / H: 25.8842 / S: 238.5954 / V: 183.0662
+Guess field is: field, 2, 3, 0, Correct. R: 187.2201 / G: 162.2454 / B: 28.9364 / H: 25.316 / S: 216.7028 / V: 187.2201
+Guess lake is: lake, 3, 3, 1, Correct. R: 34.5554 / G: 69.7774 / B: 123.6846 / H: 85.333 / S: 197.5324 / V: 137.6803
+Guess lake is: lake, 4, 3, 0, Correct. R: 3.1521 / G: 71.9708 / B: 174.5024 / H: 107.9371 / S: 249.9416 / V: 174.5024
+Guess forest is: forest, 0, 4, 0, Correct. R: 64.8453 / G: 79.4651 / B: 35.0283 / H: 47.7647 / S: 120.1876 / V: 82.7719
+Guess forest is: forest, 1, 4, 1, Correct. R: 76.4484 / G: 85.6472 / B: 44.7118 / H: 41.897 / S: 125.3291 / V: 89.3575
+Guess forest is: forest, 2, 4, 0, Correct. R: 54.6495 / G: 67.9012 / B: 31.9037 / H: 48.4332 / S: 112.5051 / V: 68.6665
+Guess lake is: lake, 3, 4, 1, Correct. R: 27.8501 / G: 75.7183 / B: 143.8577 / H: 88.4179 / S: 210.5847 / V: 156.2102
+Guess lake is: lake, 4, 4, 0, Correct. R: 4.4572 / G: 72.8416 / B: 171.1141 / H: 107.7542 / S: 244.59 / V: 171.1158
+In image 45 the total score is 32. 25 was correct. That is 100.0%
+
+Guess field is: field, 0, 0, 1, Correct. R: 156.3131 / G: 134.7217 / B: 36.835 / H: 23.3328 / S: 182.3948 / V: 156.3167
+Guess lake is: lake, 1, 0, 0, Correct. R: 24.9223 / G: 69.3569 / B: 132.6851 / H: 95.2148 / S: 221.554 / V: 146.0071
+Guess lake is: lake, 2, 0, 0, Correct. R: 8.3793 / G: 70.9817 / B: 172.3365 / H: 105.4171 / S: 229.6786 / V: 173.1083
+Guess forest is: forest, 3, 0, 0, Correct. R: 48.4182 / G: 69.7399 / B: 36.7325 / H: 53.2057 / S: 137.4869 / V: 76.4913
+Guess forest is: forest, 4, 0, 0, Correct. R: 59.6665 / G: 72.2333 / B: 31.6172 / H: 45.9056 / S: 128.2528 / V: 75.7762
+Guess field is: field, 0, 1, 0, Correct. R: 174.1547 / G: 150.7501 / B: 30.9783 / H: 24.747 / S: 206.7658 / V: 174.1547
+Guess field is: field, 1, 1, 0, Correct. R: 176.4603 / G: 152.6022 / B: 33.2033 / H: 27.507 / S: 208.9952 / V: 178.5407
+Guess forest is: forest, 2, 1, 0, Correct. R: 74.3882 / G: 78.3781 / B: 46.4382 / H: 47.5936 / S: 107.4262 / V: 83.8179
+Guess forest is: forest, 3, 1, 0, Correct. R: 52.587 / G: 72.1536 / B: 40.2852 / H: 59.2452 / S: 113.2227 / V: 72.3776
+Guess forest is: forest, 4, 1, 0, Correct. R: 48.3519 / G: 67.9213 / B: 33.5518 / H: 57.1678 / S: 120.6467 / V: 68.1166
+Guess field is: field, 0, 2, 0, Correct. R: 173.2338 / G: 146.6399 / B: 24.8098 / H: 24.5798 / S: 212.7318 / V: 173.2482
+Guess lake is: lake, 1, 2, 1, Correct. R: 48.5824 / G: 77.4261 / B: 113.9822 / H: 80.4757 / S: 193.4141 / V: 139.7431
+Guess forest is: forest, 2, 2, 0, Correct. R: 47.2694 / G: 65.8296 / B: 53.9782 / H: 61.7679 / S: 112.3982 / V: 77.9656
+Guess forest is: forest, 3, 2, 0, Correct. R: 50.1774 / G: 68.0976 / B: 32.4643 / H: 51.2875 / S: 119.2822 / V: 68.2108
+Guess swamp is: swamp, 4, 2, 0, Correct. R: 128.9588 / G: 115.0527 / B: 78.0666 / H: 22.9966 / S: 108.9198 / V: 130.0204
+Guess field is: field, 0, 3, 0, Correct. R: 178.1572 / G: 150.414 / B: 9.7445 / H: 24.6757 / S: 237.1766 / V: 178.1572
+Guess lake is: lake, 1, 3, 0, Correct. R: 51.3769 / G: 75.2516 / B: 102.2248 / H: 76.0915 / S: 205.2951 / V: 135.3859
+Guess lake is: lake, 2, 3, 0, Correct. R: 10.4775 / G: 72.6199 / B: 173.8488 / H: 104.7019 / S: 236.4155 / V: 176.1425
+Guess forest is: forest, 3, 3, 1, Correct. R: 67.1184 / G: 74.7172 / B: 43.8281 / H: 44.3197 / S: 143.7352 / V: 83.7746
+Guess mine is: mine, 4, 3, 2, Correct. R: 78.8256 / G: 67.6157 / B: 41.7294 / H: 48.4666 / S: 116.0602 / V: 83.926
+Guess field is: field, 0, 4, 0, Correct. R: 178.023 / G: 149.897 / B: 11.7234 / H: 24.567 / S: 232.5553 / V: 178.023
+Guess field is: field, 1, 4, 0, Correct. R: 177.2297 / G: 150.4611 / B: 14.4828 / H: 25.0064 / S: 232.1918 / V: 177.2297
+Guess field is: field, 2, 4, 0, Correct. R: 177.1917 / G: 151.4761 / B: 21.34 / H: 25.0925 / S: 224.1255 / V: 177.1917
+Guess forest is: forest, 3, 4, 1, Correct. R: 73.2937 / G: 75.981 / B: 40.2558 / H: 40.1848 / S: 131.809 / V: 82.0093
+Guess start is: start, 4, 4, 0, Correct. R: 79.8473 / G: 84.7146 / B: 72.9369 / H: 58.361 / S: 128.4748 / V: 104.2237
+In image 46 the total score is 31. 25 was correct. That is 100.0%
+
+Guess forest is: forest, 0, 0, 1, Correct. R: 92.9998 / G: 90.5451 / B: 50.4542 / H: 36.0469 / S: 124.643 / V: 99.2378
+Guess forest is: forest, 1, 0, 0, Correct. R: 62.976 / G: 80.0747 / B: 33.0235 / H: 43.3 / S: 131.9613 / V: 80.4882
+Guess forest is: forest, 2, 0, 0, Correct. R: 60.6716 / G: 74.3999 / B: 36.6592 / H: 42.9425 / S: 119.6174 / V: 74.663
+Guess field is: field, 3, 0, 1, Correct. R: 176.2645 / G: 148.1221 / B: 21.8535 / H: 23.8265 / S: 217.1053 / V: 176.3287
+Guess field is: field, 4, 0, 1, Correct. R: 167.4476 / G: 141.9182 / B: 30.3487 / H: 23.6306 / S: 201.6931 / V: 167.4554
+Guess grass is: grass, 0, 1, 0, Correct. R: 114.6073 / G: 151.7796 / B: 47.494 / H: 40.4303 / S: 175.3628 / V: 153.1919
+Guess grass is: grass, 1, 1, 0, Correct. R: 108.7265 / G: 144.0215 / B: 35.5389 / H: 39.5801 / S: 193.0814 / V: 144.4541
+Guess grass is: grass, 2, 1, 0, Correct. R: 99.7528 / G: 140.1617 / B: 36.7706 / H: 42.1918 / S: 188.6709 / V: 140.3496
+Guess field is: field, 3, 1, 1, Correct. R: 164.204 / G: 137.8066 / B: 20.2979 / H: 23.7673 / S: 216.7307 / V: 164.3313
+Guess mine is: mine, 4, 1, 0, Correct. R: 59.6622 / G: 51.7865 / B: 33.6274 / H: 44.7709 / S: 79.8277 / V: 60.3382
+Guess lake is: lake, 0, 2, 0, Correct. R: 23.1429 / G: 69.4088 / B: 142.2969 / H: 97.0275 / S: 207.5219 / V: 148.062
+Guess grass is: grass, 1, 2, 1, Correct. R: 93.2468 / G: 108.382 / B: 47.915 / H: 37.2659 / S: 168.7116 / V: 120.8299
+Guess forest is: start, 2, 2, 0, Wrong. R: 73.8206 / G: 75.1266 / B: 52.7359 / H: 42.64 / S: 102.1413 / V: 80.5225
+Guess field is: field, 3, 2, 0, Correct. R: 154.8098 / G: 134.8474 / B: 23.9087 / H: 33.5579 / S: 206.4818 / V: 157.0746
+Guess mine is: mine, 4, 2, 1, Correct. R: 60.9326 / G: 53.6737 / B: 37.2916 / H: 50.7235 / S: 81.438 / V: 62.7775
+Guess swamp is: swamp, 0, 3, 2, Correct. R: 104.1854 / G: 90.1221 / B: 63.5037 / H: 25.4203 / S: 118.8269 / V: 105.4111
+Guess grass is: grass, 1, 3, 0, Correct. R: 103.372 / G: 148.6204 / B: 28.4038 / H: 42.2481 / S: 208.385 / V: 149.5824
+Guess grass is: grass, 2, 3, 1, Correct. R: 99.2608 / G: 116.6929 / B: 28.2574 / H: 34.7536 / S: 200.6286 / V: 128.3129
+Guess field is: field, 3, 3, 0, Correct. R: 177.8443 / G: 150.3911 / B: 5.1908 / H: 25.3295 / S: 246.939 / V: 178.2439
+Guess grass is: grass, 4, 3, 0, Correct. R: 83.6946 / G: 122.1125 / B: 39.8663 / H: 44.5403 / S: 172.0166 / V: 122.3103
+Guess lake is: lake, 0, 4, 0, Correct. R: 10.0319 / G: 65.384 / B: 158.4213 / H: 103.3321 / S: 225.0038 / V: 160.1997
+Guess grass is: grass, 1, 4, 2, Correct. R: 88.6673 / G: 95.1478 / B: 41.6699 / H: 36.0023 / S: 162.7039 / V: 108.5985
+Guess grass is: grass, 2, 4, 0, Correct. R: 82.9696 / G: 121.01 / B: 38.6477 / H: 45.1234 / S: 170.2183 / V: 121.6893
+Guess grass is: grass, 3, 4, 0, Correct. R: 80.7614 / G: 113.3805 / B: 47.3147 / H: 45.2885 / S: 149.5779 / V: 114.5861
+Guess grass is: grass, 4, 4, 0, Correct. R: 69.9256 / G: 104.7304 / B: 45.4895 / H: 48.5298 / S: 143.6788 / V: 104.7687
+In image 47 the total score is 66. 24 was correct. That is 96.0%
+
+Guess lake is: lake, 0, 0, 0, Correct. R: 14.5686 / G: 63.394 / B: 140.8096 / H: 96.8458 / S: 223.4662 / V: 146.3747
+Guess swamp is: swamp, 1, 0, 2, Correct. R: 92.3627 / G: 81.8411 / B: 58.3333 / H: 28.1356 / S: 116.0671 / V: 95.6637
+Guess field is: field, 2, 0, 0, Correct. R: 186.7277 / G: 157.2176 / B: 6.1403 / H: 25.0867 / S: 246.3748 / V: 186.7277
+Guess forest is: forest, 3, 0, 0, Correct. R: 56.5014 / G: 70.7987 / B: 30.7717 / H: 46.1292 / S: 124.0531 / V: 71.8605
+Guess forest is: forest, 4, 0, 0, Correct. R: 62.2558 / G: 78.0195 / B: 34.6114 / H: 47.5978 / S: 119.7577 / V: 79.7656
+Guess field is: field, 0, 1, 1, Correct. R: 161.8319 / G: 136.3536 / B: 19.0911 / H: 23.7362 / S: 216.2692 / V: 161.8418
+Guess field is: field, 1, 1, 0, Correct. R: 169.1792 / G: 141.4505 / B: 10.5343 / H: 24.9989 / S: 238.2751 / V: 169.2029
+Guess field is: field, 2, 1, 0, Correct. R: 181.9702 / G: 153.2543 / B: 6.2442 / H: 25.1161 / S: 246.4523 / V: 181.9702
+Guess field is: field, 3, 1, 0, Correct. R: 185.0957 / G: 154.5296 / B: 5.9736 / H: 24.9641 / S: 246.3914 / V: 185.1259
+Guess forest is: forest, 4, 1, 1, Correct. R: 77.2836 / G: 82.7859 / B: 40.4702 / H: 37.3239 / S: 138.3568 / V: 87.4491
+Guess field is: field, 0, 2, 1, Correct. R: 160.3858 / G: 134.1527 / B: 17.6425 / H: 23.6076 / S: 218.3259 / V: 160.3947
+Guess field is: field, 1, 2, 0, Correct. R: 178.2895 / G: 150.288 / B: 7.2526 / H: 25.3989 / S: 242.3873 / V: 178.3144
+Guess swamp is: start, 2, 2, 0, Wrong. R: 118.7285 / G: 115.2145 / B: 62.213 / H: 25.4324 / S: 112.1056 / V: 119.5235
+Guess field is: field, 3, 2, 0, Correct. R: 187.342 / G: 157.7716 / B: 13.4997 / H: 25.0226 / S: 236.0897 / V: 187.3924
+Guess forest is: forest, 4, 2, 1, Correct. R: 73.6919 / G: 79.3635 / B: 44.6216 / H: 39.5923 / S: 120.0052 / V: 83.4026
+Guess swamp is: swamp, 0, 3, 0, Correct. R: 120.571 / G: 105.3233 / B: 74.2531 / H: 20.3996 / S: 111.7501 / V: 120.5861
+Guess mine is: mine, 1, 3, 1, Correct. R: 64.216 / G: 54.1915 / B: 32.6687 / H: 43.8968 / S: 92.7911 / V: 65.0317
+Guess mine is: mine, 2, 3, 2, Correct. R: 70.677 / G: 57.6061 / B: 31.4263 / H: 40.4749 / S: 110.1622 / V: 71.1173
+Guess field is: field, 3, 3, 0, Correct. R: 190.1906 / G: 159.2657 / B: 4.1187 / H: 25.0324 / S: 249.4428 / V: 190.1906
+Guess field is: field, 4, 3, 0, Correct. R: 185.1607 / G: 157.0053 / B: 15.501 / H: 25.1985 / S: 233.3208 / V: 185.3563
+Guess swamp is: swamp, 0, 4, 0, Correct. R: 122.1354 / G: 99.0682 / B: 54.6778 / H: 19.2138 / S: 150.8273 / V: 122.1378
+Guess swamp is: swamp, 1, 4, 0, Correct. R: 136.2814 / G: 121.3916 / B: 80.314 / H: 22.4028 / S: 125.2068 / V: 136.3377
+Guess swamp is: swamp, 2, 4, 0, Correct. R: 129.5498 / G: 109.562 / B: 67.2736 / H: 20.4521 / S: 138.3639 / V: 129.5647
+Guess swamp is: swamp, 3, 4, 1, Correct. R: 113.7691 / G: 95.6196 / B: 57.0775 / H: 21.2301 / S: 143.5176 / V: 114.117
+Guess swamp is: swamp, 4, 4, 0, Correct. R: 125.3661 / G: 113.7105 / B: 88.0703 / H: 20.4237 / S: 87.3156 / V: 125.377
+In image 48 the total score is 42. 24 was correct. That is 96.0%
+
+Guess field is: field, 0, 0, 0, Correct. R: 171.7855 / G: 142.8464 / B: 7.0413 / H: 24.2565 / S: 240.5756 / V: 171.7855
+Guess lake is: lake, 1, 0, 0, Correct. R: 14.6281 / G: 60.2609 / B: 140.0033 / H: 97.5011 / S: 236.1424 / V: 148.4526
+Guess lake is: lake, 2, 0, 1, Correct. R: 37.9315 / G: 70.2473 / B: 125.6773 / H: 86.9988 / S: 206.9618 / V: 145.5152
+Guess forest is: forest, 3, 0, 0, Correct. R: 50.5662 / G: 61.9135 / B: 23.2117 / H: 47.0577 / S: 139.5105 / V: 63.8075
+Guess forest is: forest, 4, 0, 0, Correct. R: 57.8716 / G: 70.5891 / B: 35.611 / H: 54.5129 / S: 110.4693 / V: 74.72
+Guess field is: field, 0, 1, 0, Correct. R: 178.1729 / G: 148.4759 / B: 6.1442 / H: 24.6579 / S: 244.6549 / V: 178.1729
+Guess forest is: forest, 1, 1, 0, Correct. R: 44.2028 / G: 59.4802 / B: 31.622 / H: 50.7637 / S: 129.912 / V: 63.1243
+Guess mine is: mine, 2, 1, 3, Correct. R: 78.4958 / G: 65.9777 / B: 39.1729 / H: 45.6922 / S: 111.4429 / V: 79.9438
+Guess field is: field, 3, 1, 0, Correct. R: 174.4114 / G: 149.6279 / B: 18.2017 / H: 29.1328 / S: 229.3112 / V: 177.4483
+Guess lake is: lake, 4, 1, 0, Correct. R: 9.453 / G: 73.1119 / B: 170.3051 / H: 103.9107 / S: 237.4672 / V: 172.2848
+Guess swamp is: swamp, 0, 2, 1, Correct. R: 100.8029 / G: 88.975 / B: 61.6116 / H: 22.0554 / S: 104.1566 / V: 101.1131
+Guess grass is: grass, 1, 2, 0, Correct. R: 110.726 / G: 150.0277 / B: 45.1115 / H: 41.3169 / S: 179.4315 / V: 150.5369
+Guess start is: start, 2, 2, 0, Correct. R: 129.5164 / G: 110.0332 / B: 106.8271 / H: 73.4708 / S: 60.6518 / V: 129.9932
+Guess lake is: lake, 3, 2, 0, Correct. R: 6.2202 / G: 63.1855 / B: 156.845 / H: 107.2322 / S: 237.61 / V: 157.1624
+Guess lake is: lake, 4, 2, 0, Correct. R: 6.2713 / G: 69.7558 / B: 169.5118 / H: 105.7918 / S: 240.7651 / V: 170.3872
+Guess grass is: grass, 0, 3, 2, Correct. R: 102.7221 / G: 105.2714 / B: 43.1357 / H: 31.4193 / S: 162.9249 / V: 118.6367
+Guess grass is: grass, 1, 3, 0, Correct. R: 89.422 / G: 122.5696 / B: 34.7105 / H: 41.4466 / S: 184.8235 / V: 122.7295
+Guess forest is: forest, 2, 3, 0, Correct. R: 43.4901 / G: 58.6864 / B: 28.7343 / H: 51.8533 / S: 117.8382 / V: 59.3971
+Guess lake is: lake, 3, 3, 1, Correct. R: 34.5717 / G: 80.0447 / B: 147.2627 / H: 87.2794 / S: 211.588 / V: 164.054
+Guess lake is: lake, 4, 3, 1, Correct. R: 32.6729 / G: 75.6433 / B: 139.0096 / H: 86.2096 / S: 199.0545 / V: 152.145
+Guess field is: field, 0, 4, 0, Correct. R: 181.3844 / G: 152.3184 / B: 6.1524 / H: 24.768 / S: 244.1132 / V: 181.3844
+Guess field is: field, 1, 4, 0, Correct. R: 177.7928 / G: 150.4703 / B: 10.7024 / H: 25.0948 / S: 239.8589 / V: 177.8645
+Guess forest is: forest, 2, 4, 1, Correct. R: 74.5208 / G: 79.5283 / B: 46.4172 / H: 41.7486 / S: 109.5097 / V: 83.2507
+Guess forest is: forest, 3, 4, 0, Correct. R: 53.3056 / G: 70.7274 / B: 32.4962 / H: 52.9138 / S: 124.0635 / V: 71.2641
+Guess forest is: forest, 4, 4, 0, Correct. R: 57.044 / G: 70.3456 / B: 35.5812 / H: 54.0468 / S: 106.2854 / V: 71.784
+In image 49 the total score is 26. 25 was correct. That is 100.0%
+
+Guess forest is: forest, 0, 0, 0, Correct. R: 63.7284 / G: 79.5907 / B: 36.8783 / H: 46.703 / S: 123.3487 / V: 81.8601
+Guess forest is: forest, 1, 0, 0, Correct. R: 60.5383 / G: 78.5861 / B: 31.6106 / H: 44.8988 / S: 137.5196 / V: 79.02
+Guess forest is: forest, 2, 0, 1, Correct. R: 70.6547 / G: 75.8952 / B: 41.9841 / H: 41.1481 / S: 128.4874 / V: 80.2462
+Guess field is: field, 3, 0, 0, Correct. R: 174.2849 / G: 145.0075 / B: 5.0393 / H: 25.0669 / S: 246.0663 / V: 174.7545
+Guess grass is: grass, 4, 0, 0, Correct. R: 72.4828 / G: 110.7759 / B: 31.4298 / H: 44.2266 / S: 179.0973 / V: 111.5102
+Guess forest is: forest, 0, 1, 0, Correct. R: 68.6487 / G: 84.3472 / B: 34.148 / H: 44.8787 / S: 139.2526 / V: 87.9834
+Guess forest is: forest, 1, 1, 1, Correct. R: 74.0615 / G: 80.8424 / B: 40.2433 / H: 40.7416 / S: 136.9272 / V: 85.3634
+Guess forest is: forest, 2, 1, 0, Correct. R: 52.9281 / G: 64.8851 / B: 27.8354 / H: 43.5794 / S: 133.0 / V: 65.8224
+Guess field is: field, 3, 1, 1, Correct. R: 157.8073 / G: 131.2538 / B: 15.259 / H: 24.1029 / S: 222.0118 / V: 158.6873
+Guess grass is: grass, 4, 1, 0, Correct. R: 82.9576 / G: 116.5317 / B: 35.4302 / H: 42.505 / S: 175.5378 / V: 117.4679
+Guess forest is: forest, 0, 2, 0, Correct. R: 61.8615 / G: 69.2368 / B: 34.9775 / H: 43.5153 / S: 118.6296 / V: 74.8574
+Guess lake is: lake, 1, 2, 0, Correct. R: 14.3505 / G: 76.876 / B: 173.8528 / H: 101.1541 / S: 228.5292 / V: 177.9372
+Guess start is: start, 2, 2, 0, Correct. R: 84.3936 / G: 95.9753 / B: 102.6254 / H: 63.6853 / S: 86.8721 / V: 114.5147
+Guess field is: field, 3, 2, 0, Correct. R: 179.2312 / G: 150.3455 / B: 10.3687 / H: 25.1494 / S: 239.8513 / V: 179.7605
+Guess grass is: grass, 4, 2, 0, Correct. R: 83.003 / G: 111.5812 / B: 44.4023 / H: 43.0486 / S: 155.672 / V: 112.733
+Guess lake is: lake, 0, 3, 0, Correct. R: 23.6396 / G: 79.3398 / B: 161.7848 / H: 94.098 / S: 233.0487 / V: 174.5632
+Guess lake is: lake, 1, 3, 1, Correct. R: 34.6118 / G: 64.7502 / B: 111.5175 / H: 85.1268 / S: 203.8491 / V: 127.4557
+Guess field is: field, 2, 3, 0, Correct. R: 176.409 / G: 149.6387 / B: 21.276 / H: 26.4521 / S: 223.429 / V: 177.5368
+Guess field is: field, 3, 3, 1, Correct. R: 163.5394 / G: 135.57 / B: 20.4537 / H: 23.3913 / S: 216.1922 / V: 163.5449
+Guess mine is: mine, 4, 3, 0, Correct. R: 66.7708 / G: 57.5224 / B: 35.4055 / H: 40.6039 / S: 88.9858 / V: 68.1924
+Guess lake is: lake, 0, 4, 0, Correct. R: 13.3296 / G: 68.9333 / B: 151.7133 / H: 97.4449 / S: 226.9353 / V: 155.9865
+Guess lake is: lake, 1, 4, 0, Correct. R: 5.3703 / G: 61.6988 / B: 152.1562 / H: 108.5143 / S: 244.4093 / V: 152.1564
+Guess lake is: lake, 2, 4, 0, Correct. R: 8.5176 / G: 64.9323 / B: 157.7912 / H: 107.6417 / S: 234.718 / V: 158.0092
+Guess swamp is: swamp, 3, 4, 0, Correct. R: 105.9233 / G: 92.6702 / B: 63.3532 / H: 20.7251 / S: 114.3902 / V: 105.9546
+Guess mine is: mine, 4, 4, 2, Correct. R: 75.3267 / G: 64.7036 / B: 44.9539 / H: 47.2976 / S: 83.9267 / V: 76.9601
+In image 50 the total score is 34. 25 was correct. That is 100.0%
+
+ANALYSIS:
+For all images 1227 was correct out of 1250 tiles. That is 98.16%
+Fields: 313 out of 314 is correct. That is 99.68152866242038%
+Forest: 271 out of 272 is correct. That is 99.63235294117648%
+Grass: 168 out of 171 is correct. That is 98.24561403508771%
+Lake: 222 out of 222 is correct. That is 100.0%
+Mine: 72 out of 72 is correct. That is 100.0%
+Start: 33 out of 50 is correct. That is 66.0%
+Swamp: 120 out of 121 is correct. That is 99.17355371900827%
+CONFUSION MATRIX
+[['lake' 222 0 0 0 0 0 0 0]
+ ['forest' 0 271 1 0 0 0 0 0]
+ ['grass' 0 3 168 0 0 0 0 0]
+ ['field' 0 0 1 313 0 0 0 0]
+ ['swamp' 0 0 0 0 120 0 1 0]
+ ['mine' 0 0 0 0 0 72 0 0]
+ ['start' 0 9 0 0 7 1 33 0]
+ ['none' 0 0 0 0 0 0 0 28]]
+
+total difference: 7.188160676532769 
+ Crown Difference: 
+ [[ 1.          0.          0.        ]
+ [ 2.          0.          0.        ]
+ [ 3.          1.         10.        ]
+ [ 4.          0.          0.        ]
+ [ 5.          0.          0.        ]
+ [ 6.          0.          0.        ]
+ [ 7.          0.          0.        ]
+ [ 8.          0.          0.        ]
+ [ 9.          0.          0.        ]
+ [10.          4.         36.36363636]
+ [11.          0.          0.        ]
+ [12.          0.          0.        ]
+ [13.          0.          0.        ]
+ [14.          5.         45.45454545]
+ [15.          0.          0.        ]
+ [16.          0.          0.        ]
+ [17.          0.          0.        ]
+ [18.          1.         16.66666667]
+ [19.          4.         36.36363636]
+ [20.          0.          0.        ]
+ [21.          0.          0.        ]
+ [22.          0.          0.        ]
+ [23.          0.          0.        ]
+ [24.          0.          0.        ]
+ [25.          0.          0.        ]
+ [26.          0.          0.        ]
+ [27.          1.         11.11111111]
+ [28.          0.          0.        ]
+ [29.          2.         18.18181818]
+ [30.          0.          0.        ]
+ [31.          1.         11.11111111]
+ [32.          0.          0.        ]
+ [33.          0.          0.        ]
+ [34.          0.          0.        ]
+ [35.          0.          0.        ]
+ [36.          0.          0.        ]
+ [37.          6.         75.        ]
+ [38.          3.         30.        ]
+ [39.          2.         18.18181818]
+ [40.          0.          0.        ]
+ [41.          0.          0.        ]
+ [42.          0.          0.        ]
+ [43.          1.          9.09090909]
+ [44.          0.          0.        ]
+ [45.          1.         11.11111111]
+ [46.          2.         25.        ]
+ [47.          0.          0.        ]
+ [48.          0.          0.        ]
+ [49.          0.          0.        ]
+ [50.          0.          0.        ]]

@@ -2,8 +2,8 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-startImage = 1
-numberOfImages = 50
+startImage = 51
+numberOfImages = 24
 
 ###########################################################################################
 #          Global variables
@@ -13,20 +13,8 @@ types = ['lake' , 'forest' , 'grass' , 'field' , 'swamp' , 'mine' , 'start' , 'n
 numCorrectData = {'lake': 0 , 'forest': 0 , 'grass': 0 , 'field': 0 , 'swamp': 0 , 'mine': 0 , 'start': 0 , 'none': 0}  # Dictionary to count correct data 
 numCorrectGuess = {'lake': 0 , 'forest': 0 , 'grass': 0 , 'field': 0 , 'swamp': 0 , 'mine': 0 , 'start': 0, 'none': 0}
 
-tileThreshold = np.array([[130,200],[115,180],[0,44],   # Thresholds Field RGB 
-                          [20,48],[170,255],[135,200],  # Thresholds Field HSV
-                          [43,102],[58,109],[21,56],    # Thresholds Forest with house RGB
-                          [32,62],[102,171],[59,113],   # Thresholds Forest with house HSV
-                          [44,93],[77,100],[50,52],     # Thresholds Forest without house RGB
-                          [32,42],[103,154],[60,89],     # Thresholds Forest without house HSV
-                          [0,70],[50,110],[105,190],    # Thresholds Lake with house  RGB
-                          [74,110],[170,254],[123,190], # Thresholds Lake with house  HSV
-                          [64,133],[87,185],[22,61],    # Thresholds Grass RGB
-                          [30,50],[140,211],[94,182],    # Thresholds Grass HSV
-                          [90,157],[79,140],[46,103],   # Thresholds Swamp RGB
-                          [17,40],[65,151],[93,157],    # Thresholds Swamp HSV
-                          [0,215],[60,190],[0,150],  # Thresholds Mine RBG
-                          [18,105],[80,251],[72,211]])   # Thresholds Mine HSV
+# Trainig or not
+training = False
 
 # Declare confusion matrix
 confusionMatrix = np.zeros((8, 9), dtype=object)
@@ -72,6 +60,18 @@ def LoadStartParam():
     scoreBoard = np.zeros((5,5))
     threshold = 0.361
     return scoreBoard, threshold
+
+def LoadTrainingData():
+    trainField = np.loadtxt("data/training_field.dat")
+    trainForest = np.loadtxt("data/training_Forest.dat")
+    trainLake = np.loadtxt("data/training_lake.dat")
+    trainGrass = np.loadtxt("data/training_grass.dat")
+    trainSwamp = np.loadtxt("data/training_swamp.dat")
+    trainMine = np.loadtxt("data/training_mine.dat")
+    trainNone = np.loadtxt("data/training_none.dat")
+    trainStart = np.loadtxt("data/training_start.dat")
+    
+    return [trainField , trainForest , trainLake , trainGrass , trainSwamp , trainMine , trainNone , trainStart]
 
 def CropImage(img, y, x):
     '''
@@ -185,31 +185,26 @@ def FeatureArray(img):
 
     # Return array with [R, G, B, H, S, V]
     return np.array([avarageR, avarageG, avarageB,
-                     avarageH, avarageS, avarageV])
-    
-def WhichType(featureArray):
+                     avarageH, avarageS, avarageV])    
+
+def euclidean_distance(a, b):
+    return np.linalg.norm(a-b)
+
+def knn(trainingData, observation, k = 5):
     '''
-    Determine the type by looking at the feature array and see it the are within thresholds for any tiletype.
+    Funktion der bruger kNN til at afgører type.
     '''
-    tileTypes = ["field", "forest", "forest", "lake", "grass", "swamp", "mine"]
-
-    for i, tileGuess in enumerate(tileTypes):
-        start = i * 6
-        thresholds = tileThreshold[start:start+6]
-        match = True
-
-        for j in range(6):
-            low, high = thresholds[j]
-            value = featureArray[j]
-
-            if not (low <= value <= high):
-                match = False 
-                break
-
-        if match:
-            return tileGuess
-
-    return "none"
+    tileTypes = ["field", "forest", "lake", "grass", "swamp", "mine" , "none" , "start"]
+    distances = []
+    for typeNumber, data in enumerate(trainingData):
+        for trainingValue in data:
+            distances.append([euclidean_distance(observation, trainingValue), typeNumber])
+    distances.sort(key=lambda x: x[0])   # Sort distances
+    distances = np.array(distances)[0:k]  # Only look at k lowest
+    counts = np.unique(distances[:,1], return_counts=True)
+    max_count = np.argmax(counts[1])
+    # counts[0][max_count]
+    return tileTypes[int(counts[0][max_count])] 
 
 
 ###########################################################################################
@@ -266,6 +261,10 @@ def CalcScore(scoreboard, typeboard):
 #          Store and Analye Data
 ###########################################################################################
 
+def generateTrainigData(data , type):
+    with open(f"data/training_{type}.dat", "a") as f:
+        np.savetxt(f, data.reshape(1, -1), fmt="%.3f")
+
 def SplitLine(line):
     '''
     Function to split lines form txt file by ','
@@ -275,9 +274,6 @@ def SplitLine(line):
 # Clear result txt file
 with open("data/AllImagesAnalysis.txt", "w") as txt:
     txt.write("")
-with open("data/AllImagesAnalysis.txt", "a") as txt:        
-    line1 = f"titleThreshold:\n{tileThreshold}\n\n"
-    txt.write(line1)
 
 # Collect correct data about til types and number of crowns
 with open("data/CorrectTileCrownPoint.txt", "r") as txt:
@@ -351,18 +347,16 @@ def Analysis(numImages , numCorrect):
 
 def CheckCrownScore(index, totalCrowns):
     difference = 0
-    if True:          # Set to true if it is the training data and false if it is the test data
+    if False:          # Set to true if it is the training data and false if it is the test data
         checkCrowns = [9, 12, 10, 8, 9, 12, 9, 8, 11, 11, 7, 6, 11, 11, 7, 6, 10, 6, 11, 11, 10, 6, 11, 11, 11,
                        6, 9, 13, 11, 6, 9, 13, 8, 10, 11, 9, 8, 10, 11, 9, 11, 8, 11, 11, 9, 8, 11, 10, 10, 7]
     else:
-        checkCrowns = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-                       12, 10, 7, 7, 12, 11, 10, 9, 9, 11, 10, 9, 9, 5, 8, 18, 8, 5, 18, 8, 5, 8, 18, 8]
+        checkCrowns = [12, 10, 7, 7, 12, 11, 10, 9, 9, 11, 10, 9, 9, 5, 8, 18, 8, 5, 18, 8, 5, 8, 18, 8]
     difference = checkCrowns[index] - totalCrowns
     sumCrowns = sum(checkCrowns)
     # print(f'sum af Crowns: {sumCrowns}')
     return (index+1, difference, difference/checkCrowns[index]*100), sumCrowns
-        #print(f'Score difference: {difference}')
-    #
+
 
 
 ###########################################################################################
@@ -375,6 +369,9 @@ def Main():
     allPoints = []
     crownDifference = []
     totalCorrectCont = 0
+
+    # Load training data
+    trainigData = LoadTrainingData()
 
     for i in range(numberOfImages):
         # Preprocessing for current image
@@ -395,7 +392,7 @@ def Main():
 
                 # Determine tile type
                 featureValues = FeatureArray(croppedOriginalNorm)
-                tileType = WhichType(featureValues)    #whichType(croppedOriginalNorm , CT_rgb , CT_hsv)
+                tileType = knn(trainigData , featureValues)
                 
                 # Crown detction
                 xs, ys = TemplateMatch(cropped, template, threshold)
@@ -427,6 +424,8 @@ def Main():
 
                 # Data 
                 WriteTileDataInTxt(tileType , correctType , x , y , crownNr , correctness , featureValues)
+                if training == True:
+                    generateTrainigData(featureValues , correctType)
 
                 # Append points
                 if crownNr > 0:
@@ -448,10 +447,10 @@ def Main():
         crownDifference.append(crownStats)
 
         # Show image
-        # cv2.imshow("result", originalNorm)
-        # cv2.waitKey(0)
-        # cv2.destroyAllWindows()
-        print(numCorrectGuess)
+        cv2.imshow("result", originalNorm)
+        cv2.waitKey(0)
+        cv2.destroyAllWindows()
+
         # Reset AllPoints
         allPoints = []
 
@@ -462,10 +461,6 @@ def Main():
     _, totalRealCrowns = CheckCrownScore(i, imageCrowns)
     absolute_forskelle = [entry[1] for entry in crownDifference]
     totalDifference = (sum(absolute_forskelle) / totalRealCrowns)*100
-    ##print(f'total difference: {totalDifference}')
-    ##print(f'Crown Difference: \n {np.array(crownDifference)}')
-    
-    print(imageCrowns)
 
     with open("data/AllImagesAnalysis.txt", "a") as f:
         f.write(f"total difference: {totalDifference} \n Crown Difference: \n {np.array(crownDifference)}")
